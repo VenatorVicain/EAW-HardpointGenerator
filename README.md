@@ -1,4 +1,4 @@
-# Venator's EaW Hardpoint Generator
+# EaW Hardpoint Generator
 
 A powerful GUI tool for generating hardpoint XML files for **Star Wars: Empire at War** modding. Built to eliminate the tedious, error-prone process of hand-writing hundreds of nearly identical XML hardpoint entries — letting you define templates once and generate entire fleets of consistent hardpoints in seconds.
 
