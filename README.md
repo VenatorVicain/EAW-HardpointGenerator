@@ -1064,3 +1064,5 @@ The template name assigned to that group doesn't match any loaded template. This
 ---
 
 *For questions, bug reports, or contributions, see the GitHub repository or contact Venator Vicain: venatorvicain on Discord, venatorvicain@gmail.com on Gmail.*
+
+*GUI Style Attributions: [Catpuccin Mocha](https://github.com/catppuccin/catppuccin)
