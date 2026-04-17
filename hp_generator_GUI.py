@@ -8226,7 +8226,7 @@ def main():
 
 
     root = tk.Tk()
-    #root.iconbitmap(default=resource_path("icon.ico"))
+    root.iconbitmap(default=resource_path("icon.ico"))
 
     app  = App(root, open_path=args.config)
     root.mainloop()
