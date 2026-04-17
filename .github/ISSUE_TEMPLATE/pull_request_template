@@ -1,0 +1,53 @@
+## Summary
+
+<!-- What does this PR add or change? One or two sentences is fine. -->
+
+
+## Type of contribution
+
+<!-- Check all that apply -->
+
+- [ ] New template(s)
+- [ ] New component(s)
+- [ ] New ship config(s)
+- [ ] Update / fix to existing template(s)
+- [ ] Update / fix to existing component(s)
+- [ ] Update / fix to existing ship config(s)
+- [ ] Other (describe below)
+
+
+## Content details
+
+**Faction / era / mod :** <!-- e.g. Galactic Republic, AOTR, EAWX, Original Trilogy -->
+
+**Ship(s) targeted:** <!-- e.g. Venator-class Star Destroyer, or "generic / faction-wide" -->
+
+**Template / component / config names added or changed:**
+
+<!-- List the names as they appear in the JSON "name" fields -->
+- 
+
+
+## Testing
+
+<!-- Describe how you verified this works. -->
+
+- [ ] Loaded templates/components in the generator GUI without errors
+- [ ] Generated XML for a ship config that uses this content
+- [ ] Verified the generated XML looks correct (correct bone names, field values, tag structure)
+- [ ] Tested in-game / in the EaW editor *(optional but appreciated)*
+
+**Ship config used for testing:** <!-- paste the filename or a brief description -->
+
+
+## Checklist
+
+- [ ] File names and `"name"` fields follow the naming conventions in `CONTRIBUTING.md`
+- [ ] All paths in ship configs are relative (no absolute paths)
+- [ ] No source code files (`.py`, `.spec`, `.yml`) are included in this PR
+- [ ] I have read `CONTRIBUTING.md`
+
+
+## Additional notes
+
+<!-- Anything else the reviewer should know — known limitations, planned follow-up PRs, etc. -->
