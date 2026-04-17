@@ -1,0 +1,394 @@
+{
+  "templates": [
+    {
+      "name": "FiringArc_Width_360",
+      "parent_comment": "FiringArc_Width_360",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_Cone_Width",
+          "value": "360.0"
+        },
+        {
+          "tag": "Turret_Rotate_Extent_Degrees",
+          "value": "180.0"
+        }
+      ]
+    },
+    {
+      "name": "FiringArc_Width_315",
+      "parent_comment": "FiringArc_Width_315",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_Cone_Width",
+          "value": "315.0"
+        },
+        {
+          "tag": "Turret_Rotate_Extent_Degrees",
+          "value": "157.5"
+        }
+      ]
+    },
+    {
+      "name": "FiringArc_Width_270",
+      "parent_comment": "FiringArc_Width_270",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_Cone_Width",
+          "value": "270.0"
+        },
+        {
+          "tag": "Turret_Rotate_Extent_Degrees",
+          "value": "135.0"
+        }
+      ]
+    },
+    {
+      "name": "FiringArc_Width_200",
+      "parent_comment": "FiringArc_Width_270",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_Cone_Width",
+          "value": "200.0"
+        },
+        {
+          "tag": "Turret_Rotate_Extent_Degrees",
+          "value": "100.0"
+        }
+      ]
+    },
+    {
+      "name": "FiringArc_Width_180",
+      "parent_comment": "FiringArc_Width_180",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_Cone_Width",
+          "value": "180.0"
+        },
+        {
+          "tag": "Turret_Rotate_Extent_Degrees",
+          "value": "90.0"
+        }
+      ]
+    },
+    {
+      "name": "FiringArc_Width_160",
+      "parent_comment": "FiringArc_Width_160",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_Cone_Width",
+          "value": "160.0"
+        },
+        {
+          "tag": "Turret_Rotate_Extent_Degrees",
+          "value": "80.0"
+        }
+      ]
+    },
+    {
+      "name": "FiringArc_Width_150",
+      "parent_comment": "FiringArc_Width_150",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_Cone_Width",
+          "value": "150.0"
+        },
+        {
+          "tag": "Turret_Rotate_Extent_Degrees",
+          "value": "75.0"
+        }
+      ]
+    },
+    {
+      "name": "FiringArc_Width_135",
+      "parent_comment": "FiringArc_Width_135",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_Cone_Width",
+          "value": "135.0"
+        },
+        {
+          "tag": "Turret_Rotate_Extent_Degrees",
+          "value": "67.5"
+        }
+      ]
+    },
+    {
+      "name": "FiringArc_Width_120",
+      "parent_comment": "FiringArc_Width_120",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_Cone_Width",
+          "value": "120.0"
+        },
+        {
+          "tag": "Turret_Rotate_Extent_Degrees",
+          "value": "60.0"
+        }
+      ]
+    },
+    {
+      "name": "FiringArc_Width_100",
+      "parent_comment": "FiringArc_Width_100",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_Cone_Width",
+          "value": "100.0"
+        },
+        {
+          "tag": "Turret_Rotate_Extent_Degrees",
+          "value": "50.0"
+        }
+      ]
+    },
+    {
+      "name": "FiringArc_Width_90",
+      "parent_comment": "FiringArc_Width_90",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_Cone_Width",
+          "value": "90.0"
+        },
+        {
+          "tag": "Turret_Rotate_Extent_Degrees",
+          "value": "45.0"
+        }
+      ]
+    },
+    {
+      "name": "FiringArc_Width_80",
+      "parent_comment": "FiringArc_Width_80",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_Cone_Width",
+          "value": "80.0"
+        },
+        {
+          "tag": "Turret_Rotate_Extent_Degrees",
+          "value": "40.0"
+        }
+      ]
+    },
+    {
+      "name": "FiringArc_Width_60",
+      "parent_comment": "FiringArc_Width_60",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_Cone_Width",
+          "value": "60.0"
+        },
+        {
+          "tag": "Turret_Rotate_Extent_Degrees",
+          "value": "30.0"
+        }
+      ]
+    },
+    {
+      "name": "FiringArc_Width_45",
+      "parent_comment": "FiringArc_Width_45",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_Cone_Width",
+          "value": "45.0"
+        },
+        {
+          "tag": "Turret_Rotate_Extent_Degrees",
+          "value": "22.5"
+        }
+      ]
+    },
+    {
+      "name": "FiringArc_Width_30",
+      "parent_comment": "FiringArc_Width_30",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_Cone_Width",
+          "value": "30.0"
+        },
+        {
+          "tag": "Turret_Rotate_Extent_Degrees",
+          "value": "15.0"
+        }
+      ]
+    },
+    {
+      "name": "FiringArc_Height_180",
+      "parent_comment": "FiringArc_Height_180",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_Cone_Height",
+          "value": "180.0"
+        },
+        {
+          "tag": "Turret_Elevate_Extent_Degrees",
+          "value": "90.0"
+        }
+      ]
+    },
+    {
+      "name": "FiringArc_Height_160",
+      "parent_comment": "FiringArc_Height_160",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_Cone_Height",
+          "value": "160.0"
+        },
+        {
+          "tag": "Turret_Elevate_Extent_Degrees",
+          "value": "80.0"
+        }
+      ]
+    },
+    {
+      "name": "FiringArc_Height_150",
+      "parent_comment": "FiringArc_Height_150",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_Cone_Height",
+          "value": "150.0"
+        },
+        {
+          "tag": "Turret_Elevate_Extent_Degrees",
+          "value": "75.0"
+        }
+      ]
+    },
+    {
+      "name": "FiringArc_Height_135",
+      "parent_comment": "FiringArc_Height_135",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_Cone_Height",
+          "value": "135"
+        },
+        {
+          "tag": "Turret_Elevate_Extent_Degrees",
+          "value": "67.5"
+        }
+      ]
+    },
+    {
+      "name": "FiringArc_Height_120",
+      "parent_comment": "FiringArc_Height_120",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_Cone_Height",
+          "value": "120.0"
+        },
+        {
+          "tag": "Turret_Elevate_Extent_Degrees",
+          "value": "60.0"
+        }
+      ]
+    },
+    {
+      "name": "FiringArc_Height_100",
+      "parent_comment": "FiringArc_Height_100",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_Cone_Height",
+          "value": "100.0"
+        },
+        {
+          "tag": "Turret_Elevate_Extent_Degrees",
+          "value": "50.0"
+        }
+      ]
+    },
+    {
+      "name": "FiringArc_Height_90",
+      "parent_comment": "FiringArc_Height_90",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_Cone_Height",
+          "value": "90.0"
+        },
+        {
+          "tag": "Turret_Elevate_Extent_Degrees",
+          "value": "45.0"
+        }
+      ]
+    },
+    {
+      "name": "FiringArc_Height_80",
+      "parent_comment": "FiringArc_Height_80",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_Cone_Height",
+          "value": "80.0"
+        },
+        {
+          "tag": "Turret_Elevate_Extent_Degrees",
+          "value": "40.0"
+        }
+      ]
+    },
+    {
+      "name": "FiringArc_Height_60",
+      "parent_comment": "FiringArc_Height_60",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_Cone_Height",
+          "value": "60.0"
+        },
+        {
+          "tag": "Turret_Elevate_Extent_Degrees",
+          "value": "30.0"
+        }
+      ]
+    },
+    {
+      "name": "FiringArc_Height_45",
+      "parent_comment": "FiringArc_Height_45",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_Cone_Height",
+          "value": "45.0"
+        },
+        {
+          "tag": "Turret_Elevate_Extent_Degrees",
+          "value": "22.5"
+        }
+      ]
+    },
+    {
+      "name": "FiringArc_Height_30",
+      "parent_comment": "FiringArc_Height_30",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_Cone_Height",
+          "value": "30.0"
+        },
+        {
+          "tag": "Turret_Elevate_Extent_Degrees",
+          "value": "15.0"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "_comment": "Ship config for MC-80 Liberty. Edit ship_name, output_file, and groups to suit your mod.",
+  "ship_name": "MC80",
+  "output_file": "D:/_Modding/EAW/Venator_AutoHardpointGeneratorv20/Hardpoints/Hardpoints_MC80_Liberty_Example2.xml",
+  "templates": "D:/_Modding/EAW/Venator_AutoHardpointGeneratorv20/Templates",
+  "groups": [
+    {
+      "_comment": "Light dual turbolasers \u2014 Port side (18 guns)",
+      "group_comment": "LIGHT DUAL TURBOLASERS, MC-80 LIBERTY, PORT SIDE",
+      "template": "Turbolaser_Medium_Red_Dual",
+      "name_suffix": "_L",
+      "bones": [
+        "HP_TL_07_L",
+        "HP_TL_08_L",
+        "HP_TL_09_L",
+        "HP_TL_10_L",
+        "HP_TL_11_L",
+        "HP_TL_12_L",
+        "HP_TL_13_L",
+        "HP_TL_14_L",
+        "HP_TL_15_L",
+        "HP_TL_16_L",
+        "HP_TL_17_L",
+        "HP_TL_18_L",
+        "HP_TL_19_L",
+        "HP_TL_20_L",
+        "HP_TL_21_L",
+        "HP_TL_22_L",
+        "HP_TL_23_L",
+        "HP_TL_24_L"
+      ],
+      "name_prefix": "HP_Weapon_MC80Liberty_Turbolaser_Light_Dual_Red_L",
+      "start_index": 1,
+      "index_format": "02d"
+    },
+    {
+      "_comment": "Light dual turbolasers \u2014 Starboard side (18 guns)",
+      "group_comment": "LIGHT DUAL TURBOLASERS, MC-80 LIBERTY, STARBOARD SIDE",
+      "template": "Turbolaser_Medium_Red_Dual",
+      "name_prefix": "HP_Weapon_MC80Liberty_Turbolaser_Light_Dual_Red_R",
+      "bones": [
+        "HP_TL_07_R",
+        "HP_TL_08_R",
+        "HP_TL_09_R",
+        "HP_TL_10_R",
+        "HP_TL_11_R",
+        "HP_TL_12_R",
+        "HP_TL_13_R",
+        "HP_TL_14_R",
+        "HP_TL_15_R",
+        "HP_TL_16_R",
+        "HP_TL_17_R",
+        "HP_TL_18_R",
+        "HP_TL_19_R",
+        "HP_TL_20_R",
+        "HP_TL_21_R",
+        "HP_TL_22_R",
+        "HP_TL_23_R",
+        "HP_TL_24_R"
+      ],
+      "start_index": 1,
+      "index_format": "02d"
+    },
+    {
+      "_comment": "Medium dual turbolasers \u2014 Port side (6 guns)",
+      "group_comment": "MEDIUM DUAL TURBOLASERS, MC-80 LIBERTY, PORT SIDE",
+      "template": "Turbolaser_Medium_Red_Dual",
+      "name_prefix": "HP_Weapon_MC80Liberty_Turbolaser_Medium_Dual_Red_L",
+      "bones": [
+        "HP_TL_01_L",
+        "HP_TL_02_L",
+        "HP_TL_03_L",
+        "HP_TL_04_L",
+        "HP_TL_05_L",
+        "HP_TL_06_L"
+      ],
+      "start_index": 1,
+      "index_format": "02d"
+    },
+    {
+      "_comment": "Medium dual turbolasers \u2014 Starboard side (6 guns)",
+      "group_comment": "MEDIUM DUAL TURBOLASERS, MC-80 LIBERTY, STARBOARD SIDE",
+      "template": "Turbolaser_Medium_Red_Dual",
+      "name_prefix": "HP_Weapon_MC80Liberty_Turbolaser_Medium_Dual_Red_R",
+      "bones": [
+        "HP_TL_01_R",
+        "HP_TL_02_R",
+        "HP_TL_03_R",
+        "HP_TL_04_R",
+        "HP_TL_05_R",
+        "HP_TL_06_R"
+      ],
+      "start_index": 1,
+      "index_format": "02d"
+    },
+    {
+      "_comment": "Light dual turboion cannons \u2014 Port side (7 guns)",
+      "group_comment": "LIGHT DUAL TURBOION, MC-80 LIBERTY, PORT SIDE",
+      "template": "TurboIon_Shield_Light_Dual",
+      "name_prefix": "HP_Weapon_MC80Liberty_TurboIon_Light_Dual_L",
+      "bones": [
+        "HP_IC_03_L",
+        "HP_IC_04_L",
+        "HP_IC_05_L",
+        "HP_IC_06_L",
+        "HP_IC_07_L",
+        "HP_IC_08_L",
+        "HP_IC_09_L"
+      ],
+      "start_index": 1,
+      "index_format": "02d"
+    },
+    {
+      "_comment": "Light dual turboion cannons \u2014 Starboard side (8 guns)",
+      "group_comment": "LIGHT DUAL TURBOION, MC-80 LIBERTY, STARBOARD SIDE",
+      "template": "TurboIon_Shield_Light_Dual",
+      "name_prefix": "HP_Weapon_MC80Liberty_TurboIon_Light_Dual_R",
+      "bones": [
+        "HP_IC_03_R",
+        "HP_IC_04_R",
+        "HP_IC_05_R",
+        "HP_IC_06_R",
+        "HP_IC_07_R",
+        "HP_IC_08_R",
+        "HP_IC_09_R",
+        "HP_IC_10_R"
+      ],
+      "start_index": 1,
+      "index_format": "02d"
+    },
+    {
+      "_comment": "Medium dual turboion cannons \u2014 Centre (3 guns)",
+      "group_comment": "MEDIUM DUAL TURBOION, MC-80 LIBERTY, CENTRE",
+      "template": "TurboIon_Shield_Medium_Dual",
+      "name_prefix": "HP_Weapon_MC80Liberty_TurboIon_Medium_Dual_C",
+      "bones": [
+        "HP_IC_01_C",
+        "HP_IC_02_C",
+        "HP_IC_03_C"
+      ],
+      "start_index": 1,
+      "index_format": "02d"
+    },
+    {
+      "_comment": "Medium dual turboion cannons \u2014 Port (1 gun)",
+      "group_comment": "MEDIUM DUAL TURBOION, MC-80 LIBERTY, PORT SIDE",
+      "template": "TurboIon_Shield_Medium_Dual",
+      "name_prefix": "HP_Weapon_MC80Liberty_TurboIon_Medium_Dual_L",
+      "bones": [
+        "HP_IC_01_L"
+      ],
+      "start_index": 1,
+      "index_format": "02d"
+    },
+    {
+      "_comment": "Medium dual turboion cannons \u2014 Starboard (1 gun)",
+      "group_comment": "MEDIUM DUAL TURBOION, MC-80 LIBERTY, STARBOARD SIDE",
+      "template": "TurboIon_Shield_Medium_Dual",
+      "name_prefix": "HP_Weapon_MC80Liberty_TurboIon_Medium_Dual_R",
+      "bones": [
+        "HP_IC_01_R"
+      ],
+      "start_index": 1,
+      "index_format": "02d"
+    },
+    {
+      "_comment": "Light long-range stun ion cannons \u2014 Port side (3 guns)",
+      "group_comment": "LIGHT LONGRANGE STUN ION CANNONS, MC-80 LIBERTY, PORT SIDE",
+      "template": "TurboIon_Stun_Light_LR",
+      "name_prefix": "HP_Weapon_MC80Liberty_TurboIon_Stun_Light_LR_L",
+      "bones": [
+        "HP_StunIC_01_L",
+        "HP_StunIC_02_L",
+        "HP_StunIC_03_L"
+      ]
+    },
+    {
+      "_comment": "Light long-range stun ion cannons \u2014 Starboard side (3 guns)",
+      "group_comment": "LIGHT LONGRANGE STUN ION CANNONS, MC-80 LIBERTY, STARBOARD SIDE",
+      "template": "TurboIon_Stun_Light_LR",
+      "name_prefix": "HP_Weapon_MC80Liberty_TurboIon_Stun_Light_LR_R",
+      "bones": [
+        "HP_StunIC_01_R",
+        "HP_StunIC_02_R",
+        "HP_StunIC_03_R"
+      ]
+    }
+  ],
+  "bone_pool": [
+    "HP_IC_01_C",
+    "HP_IC_01_L",
+    "HP_IC_01_R",
+    "HP_IC_02_C",
+    "HP_IC_03_C",
+    "HP_IC_03_L",
+    "HP_IC_03_R",
+    "HP_IC_04_L",
+    "HP_IC_04_R",
+    "HP_IC_05_L",
+    "HP_IC_05_R",
+    "HP_IC_06_L",
+    "HP_IC_06_R",
+    "HP_IC_07_L",
+    "HP_IC_07_R",
+    "HP_IC_08_L",
+    "HP_IC_08_R",
+    "HP_IC_09_L",
+    "HP_IC_09_R",
+    "HP_IC_10_R",
+    "HP_StunIC_01_L",
+    "HP_StunIC_01_R",
+    "HP_StunIC_02_L",
+    "HP_StunIC_02_R",
+    "HP_StunIC_03_L",
+    "HP_StunIC_03_R",
+    "HP_TL_01_L",
+    "HP_TL_01_R",
+    "HP_TL_02_L",
+    "HP_TL_02_R",
+    "HP_TL_03_L",
+    "HP_TL_03_R",
+    "HP_TL_04_L",
+    "HP_TL_04_R",
+    "HP_TL_05_L",
+    "HP_TL_05_R",
+    "HP_TL_06_L",
+    "HP_TL_06_R",
+    "HP_TL_07_L",
+    "HP_TL_07_R",
+    "HP_TL_08_L",
+    "HP_TL_08_R",
+    "HP_TL_09_L",
+    "HP_TL_09_R",
+    "HP_TL_10_L",
+    "HP_TL_10_R",
+    "HP_TL_11_L",
+    "HP_TL_11_R",
+    "HP_TL_12_L",
+    "HP_TL_12_R",
+    "HP_TL_13_L",
+    "HP_TL_13_R",
+    "HP_TL_14_L",
+    "HP_TL_14_R",
+    "HP_TL_15_L",
+    "HP_TL_15_R",
+    "HP_TL_16_L",
+    "HP_TL_16_R",
+    "HP_TL_17_L",
+    "HP_TL_17_R",
+    "HP_TL_18_L",
+    "HP_TL_18_R",
+    "HP_TL_19_L",
+    "HP_TL_19_R",
+    "HP_TL_20_L",
+    "HP_TL_20_R",
+    "HP_TL_21_L",
+    "HP_TL_21_R",
+    "HP_TL_22_L",
+    "HP_TL_22_R",
+    "HP_TL_23_L",
+    "HP_TL_23_R",
+    "HP_TL_24_L",
+    "HP_TL_24_R"
+  ],
+  "turret_models": {
+    "start": 1,
+    "format": "02d"
+  },
+  "damage_particles": {
+    "start": 1,
+    "format": "02d"
+  },
+  "components": "D:/_Modding/EAW/Venator_AutoHardpointGeneratorv20/Components"
+}

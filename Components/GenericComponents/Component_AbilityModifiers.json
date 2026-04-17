@@ -1,0 +1,158 @@
+{
+  "templates": [
+    {
+      "name": "Ability_Power_To_Weapons_Firing_Enable",
+      "parent_comment": "Ability_Power_To_Weapons_Firing_Enable",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_When_In_Power_To_Weapons_Mode",
+          "value": "Yes"
+        }
+      ]
+    },
+    {
+      "name": "Ability_Power_To_Weapons_Firing_Disable",
+      "parent_comment": "Ability_Power_To_Weapons_Firing_Disable",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_When_In_Power_To_Weapons_Mode",
+          "value": "No"
+        }
+      ]
+    },
+    {
+      "name": "Ability_Power_To_Weapons_DelayMult_0.25x",
+      "parent_comment": "Ability_Power_To_Weapons_DelayMult_0.25x",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Power_To_Weapons_Mode_Weapon_Delay_Multiplier",
+          "value": "0.25"
+        }
+      ]
+    },
+    {
+      "name": "Ability_Power_To_Weapons_DelayMult_0.33x",
+      "parent_comment": "Ability_Power_To_Weapons_DelayMult_0.33x",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Power_To_Weapons_Mode_Weapon_Delay_Multiplier",
+          "value": "0.33"
+        }
+      ]
+    },
+    {
+      "name": "Ability_Power_To_Weapons_DelayMult_0.5x",
+      "parent_comment": "Ability_Power_To_Weapons_DelayMult_0.5x",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Power_To_Weapons_Mode_Weapon_Delay_Multiplier",
+          "value": "0.5"
+        }
+      ]
+    },
+    {
+      "name": "Ability_Power_To_Weapons_DelayMult_2x",
+      "parent_comment": "Ability_Power_To_Weapons_DelayMult_2x",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Power_To_Weapons_Mode_Weapon_Delay_Multiplier",
+          "value": "2.0"
+        }
+      ]
+    },
+    {
+      "name": "Ability_Power_To_Weapons_DelayMult_3x",
+      "parent_comment": "Ability_Power_To_Weapons_DelayMult_3x",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Power_To_Weapons_Mode_Weapon_Delay_Multiplier",
+          "value": "3.0"
+        }
+      ]
+    },
+    {
+      "name": "Ability_Power_To_Weapons_DelayMult_4x",
+      "parent_comment": "Ability_Power_To_Weapons_DelayMult_4x",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Power_To_Weapons_Mode_Weapon_Delay_Multiplier",
+          "value": "4.0"
+        }
+      ]
+    },
+    {
+      "name": "Ability_Full_Salvo_DelayMult_0.25x",
+      "parent_comment": "Ability_Full_Salvo_DelayMult_0.25x",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Full_Salvo_Weapon_Delay_Multiplier",
+          "value": "0.25"
+        }
+      ]
+    },
+    {
+      "name": "Ability_Full_Salvo_DelayMult_0.33x",
+      "parent_comment": "Ability_Full_Salvo_DelayMult_0.33x",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Full_Salvo_Weapon_Delay_Multiplier",
+          "value": "0.33"
+        }
+      ]
+    },
+    {
+      "name": "Ability_Full_Salvo_DelayMult_0.5x",
+      "parent_comment": "Ability_Full_Salvo_DelayMult_0.5x",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Full_Salvo_Weapon_Delay_Multiplier",
+          "value": "0.5"
+        }
+      ]
+    },
+    {
+      "name": "Ability_Full_Salvo_DelayMult_2x",
+      "parent_comment": "Ability_Full_Salvo_DelayMult_2x",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Full_Salvo_Weapon_Delay_Multiplier",
+          "value": "2.0"
+        }
+      ]
+    },
+    {
+      "name": "Ability_Full_Salvo_DelayMult_3x",
+      "parent_comment": "Ability_Full_Salvo_DelayMult_3x",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Full_Salvo_Weapon_Delay_Multiplier",
+          "value": "3.0"
+        }
+      ]
+    },
+    {
+      "name": "Ability_Full_Salvo_DelayMult_4x",
+      "parent_comment": "Ability_Full_Salvo_DelayMult_4x",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Full_Salvo_Weapon_Delay_Multiplier",
+          "value": "4.0"
+        }
+      ]
+    }
+  ]
+}

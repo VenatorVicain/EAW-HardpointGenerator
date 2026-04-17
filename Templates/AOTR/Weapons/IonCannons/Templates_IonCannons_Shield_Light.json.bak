@@ -1,0 +1,407 @@
+{
+  "templates": [
+    {
+      "name": "IonCannon_Shield_Light",
+      "parent_comment": "IonCannon_Shield_Light",
+      "inherits_from": "Hardpoint_Weapon_Generic",
+      "fields": [
+        {
+          "tag": "Type",
+          "value": " HARD_POINT_WEAPON_ION_CANNON "
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_IonCannon_Shield_Light"
+        },
+        {
+          "tag": "Fire_Range_Distance",
+          "value": "2500.0"
+        },
+        {
+          "tag": "Fire_Min_Range_Distance",
+          "value": "0.0"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "6.0"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "6.5"
+        },
+        {
+          "tag": "Fire_Pulse_Count",
+          "value": "1"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "3.0"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Ion_Cannon_Long_Range_Fire"
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_TURBOION_LIGHT"
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Fighter, 80.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Bomber, 80.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Transport, 80.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Gunship, 80.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Corvette, 60.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Frigate, 30.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Cruiser, 20.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Capital, 10.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " SpaceStructure, 10.0 "
+        },
+        {
+          "tag": "Fire_Category_Restrictions",
+          "value": "Fighter, Bomber, Gunship"
+        }
+      ]
+    },
+    {
+      "name": "IonCannon_Shield_Light_Dual",
+      "parent_comment": "IonCannon_Shield_Light_Dual",
+      "inherits_from": "IonCannon_Shield_Light",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_IonCannon_Shield_Light_Dual"
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_TURBOION_LIGHT_DUAL"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "8.0"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "8.5"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "4.0"
+        }
+      ]
+    },
+    {
+      "name": "IonCannon_Shield_Light_Quad",
+      "parent_comment": "IonCannon_Shield_Light_Quad",
+      "inherits_from": "IonCannon_Shield_Light",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_IonCannon_Shield_Light_Quad"
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_TURBOION_LIGHT_Quad"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "10.66"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "11.16"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "5.33"
+        }
+      ]
+    },
+    {
+      "name": "IonCannon_Shield_Light_LR",
+      "parent_comment": "IonCannon_Shield_Light_LR",
+      "inherits_from": "IonCannon_Shield_Light",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_IonCannon_Shield_Light_LR"
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_TURBOION_LIGHT_LR"
+        },
+        {
+          "tag": "Fire_Range_Distance",
+          "value": "4500.0"
+        },
+        {
+          "tag": "Fire_Min_Range_Distance",
+          "value": "0.0"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "11.5"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "12.0"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "5.75"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Ion_Cannon_Long_Range_Fire"
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Fighter, 80.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Bomber, 80.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Transport, 70.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Gunship, 70.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Corvette, 50.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Frigate, 25.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Cruiser, 15.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Capital, 10.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " SpaceStructure, 10.0 "
+        },
+        {
+          "tag": "Fire_Category_Restrictions",
+          "value": "Fighter, Bomber, Gunship"
+        }
+      ]
+    },
+    {
+      "name": "IonCannon_Shield_Light_LR_Dual",
+      "parent_comment": "IonCannon_Shield_Light_LR_Dual",
+      "inherits_from": "IonCannon_Shield_Light_LR",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_IonCannon_Shield_Light_LR_Dual"
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_TURBOION_LIGHT_LR_DUAL"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "15.33"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "15.83"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "7.66"
+        }
+      ]
+    },
+    {
+      "name": "IonCannon_Shield_Light_LR_Quad",
+      "parent_comment": "IonCannon_Shield_Light_LR_Quad",
+      "inherits_from": "IonCannon_Shield_Light_LR",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_IonCannon_Shield_Light_LR_Quad"
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_TURBOION_LIGHT_LR_QUAD"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "20.44"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "20.94"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "10.22"
+        }
+      ]
+    },
+    {
+      "name": "IonCannon_Shield_Light_CR",
+      "parent_comment": "IonCannon_Shield_Light_CR",
+      "inherits_from": "IonCannon_Shield_Light",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_IonCannon_Shield_Light_CR"
+        },
+        {
+          "tag": "Fire_Range_Distance",
+          "value": "1500.0"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "4.0"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "4.5"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "0.3"
+        },
+        {
+          "tag": "Fire_Pulse_Count",
+          "value": "3"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Ion_Cannon_Long_Range_Fire"
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_TURBOION_LIGHT_CR"
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Fighter, 85.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Bomber, 85.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Transport, 85.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Gunship, 85.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Corvette, 60.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Frigate, 35.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Cruiser, 25.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Capital, 15.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " SpaceStructure, 15.0 "
+        }
+      ]
+    },
+    {
+      "name": "IonCannon_Shield_Light_CR_Dual",
+      "parent_comment": "IonCannon_Shield_Light_CR_Dual",
+      "inherits_from": "IonCannon_Shield_Light_CR",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_IonCannon_Shield_Light_CR_Dual"
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_TURBOION_LIGHT_CR_DUAL"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "5.33"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "5.83"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "0.4"
+        }
+      ]
+    },
+    {
+      "name": "IonCannon_Shield_Light_CR_Quad",
+      "parent_comment": "IonCannon_Shield_Light_CR_Quad",
+      "inherits_from": "IonCannon_Shield_Light_CR",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_IonCannon_Shield_Light_CR_Quad"
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_TURBOION_LIGHT_CR_QUAD"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "7.11"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "7.61"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "0.53"
+        }
+      ]
+    }
+  ]
+}

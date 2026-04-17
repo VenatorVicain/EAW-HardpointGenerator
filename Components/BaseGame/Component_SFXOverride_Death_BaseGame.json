@@ -1,0 +1,103 @@
+{
+  "templates": [
+    {
+      "name": "SFXOverride_Death_Laser",
+      "parent_comment": "SFXOverride_Death_Laser",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Unit_Hardpoint_Laser_Death"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Death_Turbolaser",
+      "parent_comment": "SFXOverride_Death_Turbolaser",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Unit_Hardpoint_Turbo_Laser_Death"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Death_Torpedo",
+      "parent_comment": "SFXOverride_Death_Torpedo",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Unit_Hardpoint_Torpedo_Death"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Death_Ion",
+      "parent_comment": "SFXOverride_Death_Ion",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Unit_Hardpoint_Ion_Death"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Death_Missile",
+      "parent_comment": "SFXOverride_Death_Missile",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Unit_Hardpoint_Missile_Death"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Death_Shields",
+      "parent_comment": "SFXOverride_Death_Shields",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Unit_Hardpoint_Shields_Death"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Death_Engines",
+      "parent_comment": "SFXOverride_Death_Engines",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Unit_Hardpoint_Engines_Death"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Death_GravityWell",
+      "parent_comment": "SFXOverride_Death_GravityWell",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Unit_Hardpoint_Gravity_Well_Death"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Death_Bay",
+      "parent_comment": "SFXOverride_Death_Bay",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Unit_Hardpoint_Bay_Death"
+        }
+      ]
+    }
+  ]
+}

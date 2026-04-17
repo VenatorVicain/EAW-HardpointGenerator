@@ -1,0 +1,550 @@
+{
+  "templates": [
+    {
+      "name": "MassDriver_Light",
+      "parent_comment": "MassDriver_Light",
+      "inherits_from": "Hardpoint_Weapon_Generic",
+      "fields": [
+        {
+          "tag": "Type",
+          "value": "HARD_POINT_WEAPON_MISSILE"
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_MASSDRIVER_LIGHT"
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Ship_MassDriver_Light"
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Fighter, 70.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Bomber, 70.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Transport, 30.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Gunship, 30.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Corvette, 15.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Frigate, 10.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Cruiser, 10.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Capital, 10.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " SpaceStructure, 10.0 "
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "BS_Light_SingleShot_MassDriver_Fire"
+        },
+        {
+          "tag": "Death_Explosion_SFXEvent",
+          "value": "Unit_Hardpoint_Missile_Death"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "5.0"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "5.5"
+        },
+        {
+          "tag": "Fire_Pulse_Count",
+          "value": "1"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "2.5"
+        },
+        {
+          "tag": "Fire_Range_Distance",
+          "value": "2750.0"
+        },
+        {
+          "tag": "Fire_Min_Range_Distance",
+          "value": "150.0"
+        },
+        {
+          "tag": "Fire_Category_Restrictions",
+          "value": "Fighter, Bomber, Gunship"
+        }
+      ]
+    },
+    {
+      "name": "MassDriver_Light_Repeater",
+      "parent_comment": "MassDriver_Light_Repeater",
+      "inherits_from": "Hardpoint_Weapon_Generic",
+      "fields": [
+        {
+          "tag": "Type",
+          "value": "HARD_POINT_WEAPON_MISSILE"
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_MASSDRIVER_SALVO_LIGHT"
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_MassDriver_Light_Salvo"
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Fighter, 2.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Bomber, 2.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Transport, 5.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Gunship, 5.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Corvette, 7.5 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Frigate, 10.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Cruiser, 20.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Capital, 30.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " SpaceStructure, 30.0 "
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Supafighter_Turret_Fire"
+        },
+        {
+          "tag": "Death_Explosion_SFXEvent",
+          "value": "Unit_Hardpoint_Missile_Death"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "2.0"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "2.5"
+        },
+        {
+          "tag": "Fire_Pulse_Count",
+          "value": "15"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "0.05"
+        },
+        {
+          "tag": "Fire_Range_Distance",
+          "value": "1400.0"
+        },
+        {
+          "tag": "Fire_Min_Range_Distance",
+          "value": "0.0"
+        },
+        {
+          "tag": "Fire_Category_Restrictions",
+          "value": "Fighter, Bomber, Gunship"
+        }
+      ]
+    },
+    {
+      "name": "MassDriver_Medium",
+      "parent_comment": "MassDriver_Medium",
+      "inherits_from": "Hardpoint_Weapon_Generic",
+      "fields": [
+        {
+          "tag": "Type",
+          "value": "HARD_POINT_WEAPON_MISSILE"
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_MASSDRIVER_MEDIUM"
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Ship_MassDriver_Medium"
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Fighter, 70.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Bomber, 70.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Transport, 30.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Gunship, 30.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Corvette, 20.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Frigate, 10.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Cruiser, 10.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Capital, 10.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " SpaceStructure, 10.0 "
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "BS_Medium_SingleShot_MassDriver_Fire"
+        },
+        {
+          "tag": "Death_Explosion_SFXEvent",
+          "value": "Unit_Hardpoint_Missile_Death"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "6.5"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "7.5"
+        },
+        {
+          "tag": "Fire_Pulse_Count",
+          "value": "1"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "3.25"
+        },
+        {
+          "tag": "Fire_Range_Distance",
+          "value": "3500"
+        },
+        {
+          "tag": "Fire_Min_Range_Distance",
+          "value": "200.0"
+        },
+        {
+          "tag": "Fire_Category_Restrictions",
+          "value": "Fighter, Bomber, Gunship"
+        }
+      ]
+    },
+    {
+      "name": "MassDriver_Medium_Repeater",
+      "parent_comment": "MassDriver_Medium_Repeater",
+      "inherits_from": "Hardpoint_Weapon_Generic",
+      "fields": [
+        {
+          "tag": "Type",
+          "value": "HARD_POINT_WEAPON_MISSILE"
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_MASSDRIVER_SALVO_MEDIUM"
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_MassDriver_Medium_Salvo"
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Fighter, 70.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Bomber, 70.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Transport, 30.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Gunship, 30.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Corvette, 20.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Frigate, 20.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Cruiser, 20.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Capital, 20.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " SpaceStructure, 20.0 "
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Medium_Massdriver_Fire"
+        },
+        {
+          "tag": "Death_Explosion_SFXEvent",
+          "value": "Unit_Hardpoint_Missile_Death"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "5.5"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "6.0"
+        },
+        {
+          "tag": "Fire_Pulse_Count",
+          "value": "20"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "0.1"
+        },
+        {
+          "tag": "Fire_Range_Distance",
+          "value": "2500"
+        },
+        {
+          "tag": "Fire_Min_Range_Distance",
+          "value": "0.0"
+        },
+        {
+          "tag": "Fire_Category_Restrictions",
+          "value": "Fighter, Bomber, Gunship"
+        }
+      ]
+    },
+    {
+      "name": "MassDriver_Heavy",
+      "parent_comment": "MassDriver_Heavy",
+      "inherits_from": "Hardpoint_Weapon_Generic",
+      "fields": [
+        {
+          "tag": "Type",
+          "value": "HARD_POINT_WEAPON_MISSILE"
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_MASSDRIVER_HEAVY"
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Ship_MassDriver_Heavy"
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Fighter, 100.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Bomber, 100.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Transport, 90.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Gunship, 90.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Corvette, 60.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Frigate, 40.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Cruiser, 20.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Capital, 15.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " SpaceStructure, 10.0 "
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "ATAP_Main_Gun"
+        },
+        {
+          "tag": "Death_Explosion_SFXEvent",
+          "value": "Unit_Hardpoint_Missile_Death"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "12.0"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "13.0"
+        },
+        {
+          "tag": "Fire_Pulse_Count",
+          "value": "1"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "6.0"
+        },
+        {
+          "tag": "Fire_Range_Distance",
+          "value": "5000.0"
+        },
+        {
+          "tag": "Fire_Min_Range_Distance",
+          "value": "250.0"
+        },
+        {
+          "tag": "Fire_Category_Restrictions",
+          "value": "Fighter, Bomber, Gunship"
+        }
+      ]
+    },
+    {
+      "name": "MassDriver_Heavy_Repeater",
+      "parent_comment": "MassDriver_Heavy_Repeater",
+      "inherits_from": "Hardpoint_Weapon_Generic",
+      "fields": [
+        {
+          "tag": "Type",
+          "value": "HARD_POINT_WEAPON_MISSILE"
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_MASSDRIVER_SALVO_HEAVY"
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_MassDriver_Heavy_Salvo"
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Fighter, 80.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Bomber, 80.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Transport, 70.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Gunship, 70.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Corvette, 60.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Frigate, 50.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Cruiser, 40.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Capital, 30.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " SpaceStructure, 20.0 "
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Heavy_Massdriver_Fire"
+        },
+        {
+          "tag": "Death_Explosion_SFXEvent",
+          "value": "Unit_Hardpoint_Missile_Death"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "9.5"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "10.0"
+        },
+        {
+          "tag": "Fire_Pulse_Count",
+          "value": "20"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "0.1"
+        },
+        {
+          "tag": "Fire_Range_Distance",
+          "value": "3000.0"
+        },
+        {
+          "tag": "Fire_Min_Range_Distance",
+          "value": "0.0"
+        },
+        {
+          "tag": "Fire_Category_Restrictions",
+          "value": "Fighter, Bomber, Gunship"
+        }
+      ]
+    }
+  ]
+}

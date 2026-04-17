@@ -1,0 +1,163 @@
+{
+  "templates": [
+    {
+      "name": "Hardpoint_FacingDummy_AOTR",
+      "parent_comment": "Hardpoint_FacingDummy_AOTR",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Type",
+          "value": "HARD_POINT_WEAPON_LASER"
+        },
+        {
+          "tag": "Is_Targetable",
+          "value": "No"
+        },
+        {
+          "tag": "Is_Destroyable",
+          "value": "No"
+        },
+        {
+          "tag": "Health",
+          "value": "1.0"
+        },
+        {
+          "_type": "blank"
+        },
+        {
+          "_type": "section_comment",
+          "text": "FIRE SETTINGS:"
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_DUMMY_BONE"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": ""
+        },
+        {
+          "_type": "blank"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "2.0"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "2.0"
+        },
+        {
+          "_type": "blank"
+        },
+        {
+          "tag": "Fire_Pulse_Count",
+          "value": "1"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "0.2"
+        },
+        {
+          "_type": "blank"
+        },
+        {
+          "tag": "Fire_Min_Range_Distance",
+          "value": "0.0"
+        },
+        {
+          "tag": "Fire_Range_Distance",
+          "value": "5000.0"
+        },
+        {
+          "_type": "blank"
+        },
+        {
+          "_type": "section_comment",
+          "text": "ACCURACY SETTINGS: "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Fighter, 1.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Bomber, 1.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Transport, 1.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Gunship, 1.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Corvette, 1.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Frigate, 1.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Cruiser, 1.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Capital, 1.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " SpaceStructure, 1.0 "
+        },
+        {
+          "_type": "blank"
+        },
+        {
+          "tag": "Fire_Category_Restrictions",
+          "value": ""
+        },
+        {
+          "_type": "blank"
+        },
+        {
+          "_type": "section_comment",
+          "text": "FIRE CONE SETTINGS: "
+        },
+        {
+          "tag": "Fire_Cone_Width",
+          "value": "10.0"
+        },
+        {
+          "tag": "Fire_Cone_Height",
+          "value": "10.0"
+        },
+        {
+          "_type": "blank"
+        },
+        {
+          "_type": "section_comment",
+          "text": "HARDPOINT-SPECIFIC SETTINGS: "
+        },
+        {
+          "tag": "Randomize_Between_Fire_Bones",
+          "value": "Yes"
+        },
+        {
+          "tag": "Fire_Bone_A",
+          "value": "{bone_a}"
+        },
+        {
+          "tag": "Fire_Bone_B",
+          "value": "{bone_b}"
+        },
+        {
+          "tag": "Attachment_Bone",
+          "value": "{bone_c}"
+        }
+      ]
+    }
+  ]
+}

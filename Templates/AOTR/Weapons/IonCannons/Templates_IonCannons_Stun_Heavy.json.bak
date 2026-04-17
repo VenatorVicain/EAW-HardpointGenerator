@@ -1,0 +1,274 @@
+{
+  "templates": [
+    {
+      "name": "IonCannon_Stun_Heavy",
+      "parent_comment": "IonCannon_Stun_Heavy",
+      "inherits_from": "Hardpoint_Weapon_Generic",
+      "fields": [
+        {
+          "tag": "Type",
+          "value": " HARD_POINT_WEAPON_ION_CANNON "
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_IonCannon_Stun_Heavy"
+        },
+        {
+          "tag": "Fire_Range_Distance",
+          "value": "1500.0"
+        },
+        {
+          "tag": "Fire_Min_Range_Distance",
+          "value": "0.0"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "10.0"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "10.5"
+        },
+        {
+          "tag": "Fire_Pulse_Count",
+          "value": "1"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "5.0"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Ion_Cannon_Heavy_Fire"
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_STUNION_HEAVY"
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Fighter, 130.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Bomber, 130.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Transport, 130.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Gunship, 130.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Corvette, 125.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Frigate, 95.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Cruiser, 40.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Capital, 15.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " SpaceStructure, 15.0 "
+        },
+        {
+          "tag": "Fire_Category_Restrictions",
+          "value": "Fighter, Bomber, Gunship"
+        }
+      ]
+    },
+    {
+      "name": "IonCannon_Stun_Heavy_Dual",
+      "parent_comment": "IonCannon_Stun_Heavy_Dual",
+      "inherits_from": "IonCannon_Stun_Heavy",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_IonCannon_Stun_Heavy_Dual"
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_STUNION_HEAVY_DUAL"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "13.33"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "13.83"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "6.66"
+        }
+      ]
+    },
+    {
+      "name": "IonCannon_Stun_Heavy_Quad",
+      "parent_comment": "IonCannon_Stun_Heavy_Quad",
+      "inherits_from": "IonCannon_Stun_Heavy",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_IonCannon_Stun_Heavy_Quad"
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_STUNION_HEAVY_QUAD"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "17.77"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "18.27"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "8.88"
+        }
+      ]
+    },
+    {
+      "name": "IonCannon_Stun_Heavy_LR",
+      "parent_comment": "IonCannon_Stun_Heavy_LR",
+      "inherits_from": "IonCannon_Stun_Heavy",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_IonCannon_Stun_Heavy_LR"
+        },
+        {
+          "tag": "Fire_Range_Distance",
+          "value": "3500.0"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "19.5"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "20.0"
+        },
+        {
+          "tag": "Fire_Pulse_Count",
+          "value": "1"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "9.75"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Ion_Cannon_Heavy_Fire"
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_STUNION_HEAVY_LR"
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Fighter, 130.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Bomber, 130.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Transport, 130.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Gunship, 130.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Corvette, 120.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Frigate, 90.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Cruiser, 35.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Capital, 15.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " SpaceStructure, 15.0 "
+        }
+      ]
+    },
+    {
+      "name": "IonCannon_Stun_Heavy_LR_Dual",
+      "parent_comment": "IonCannon_Stun_Heavy_LR_Dual",
+      "inherits_from": "IonCannon_Stun_Heavy_LR",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_IonCannon_Stun_Heavy_LR_Dual"
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_STUNION_HEAVY_LR_DUAL"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "26.0"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "26.5"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "13.0"
+        }
+      ]
+    },
+    {
+      "name": "IonCannon_Stun_Heavy_LR_Quad",
+      "parent_comment": "IonCannon_Stun_Heavy_LR_Quad",
+      "inherits_from": "IonCannon_Stun_Heavy_LR",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_IonCannon_Stun_Heavy_LR_Dual"
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_STUNION_HEAVY_LR_DUAL"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "34.66"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "35.16"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "17.33"
+        }
+      ]
+    }
+  ]
+}

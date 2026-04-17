@@ -1,0 +1,510 @@
+{
+  "templates": [
+    {
+      "name": "SFXOverride_Fire_Empire_Turbolaser_Light",
+      "parent_comment": "SFXOverride_Fire_Empire_Turbolaser_Light",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Empire_Light_Turbolaser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_Empire_Turbolaser_Medium",
+      "parent_comment": "SFXOverride_Fire_Empire_Turbolaser_Medium",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Empire_Turbolaser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_Empire_Turbolaser_Heavy",
+      "parent_comment": "SFXOverride_Fire_Empire_Turbolaser_Heavy",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Empire_Heavy_Turbolaser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_Empire_TIE_Advanced",
+      "parent_comment": "SFXOverride_Fire_Empire_TIE_Advanced",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Empire_TIE_Advanced_Laser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_Empire_Anti_Fighter",
+      "parent_comment": "SFXOverride_Fire_Empire_Anti_Fighter",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Empire_Anti_Fighter_Laser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_Empire_LaserCannon_Medium",
+      "parent_comment": "SFXOverride_Fire_Empire_LaserCannon_Medium",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Empire_Laser_Cannon_Fire"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_Empire_LaserCannon_Heavy",
+      "parent_comment": "SFXOverride_Fire_Empire_LaserCannon_Heavy",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Empire_Heavy_Laser_Cannon_Fire"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_Empire_SiegeGun_Light",
+      "parent_comment": "SFXOverride_Fire_Empire_SiegeGun_Light",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Empire_Light_Siege_Gun_Fire"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_Empire_SiegeGun_Medium",
+      "parent_comment": "SFXOverride_Fire_Empire_SiegeGun_Medium",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Empire_Siege_Gun_Fire"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_Empire_SiegeGun_Heavy",
+      "parent_comment": "SFXOverride_Fire_Empire_SiegeGun_Heavy",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Empire_Heavy_Siege_Gun_Fire"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_Rebel_Turbolaser_Light",
+      "parent_comment": "SFXOverride_Fire_Rebel_Turbolaser_Light",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Rebel_Light_Turbolaser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_Rebel_Turbolaser_Medium",
+      "parent_comment": "SFXOverride_Fire_Rebel_Turbolaser_Medium",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Rebel_Turbolaser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_Rebel_Turbolaser_Heavy",
+      "parent_comment": "SFXOverride_Fire_Rebel_Turbolaser_Heavy",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Rebel_Heavy_Turbolaser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_Rebel_Anti_Fighter",
+      "parent_comment": "SFXOverride_Fire_Rebel_Anti_Fighter",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Rebel_Anti_Fighter_Laser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_Rebel_LaserCannon_Medium",
+      "parent_comment": "SFXOverride_Fire_Rebel_LaserCannon_Medium",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "XWing_Gun"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_Rebel_LaserCannon_Heavy",
+      "parent_comment": "SFXOverride_Fire_Rebel_LaserCannon_Heavy",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Rebel_Heavy_Laser_Cannon_Fire"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_Rebel_SiegeGun_Light",
+      "parent_comment": "SFXOverride_Fire_Rebel_SiegeGun_Light",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Rebel_Light_Siege_Turbolaser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_Rebel_SiegeGun_Medium",
+      "parent_comment": "SFXOverride_Fire_Rebel_SiegeGun_Medium",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Rebel_Siege_Turbolaser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_Rebel_SiegeGun_Heavy",
+      "parent_comment": "SFXOverride_Fire_Rebel_SiegeGun_Heavy",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Rebel_Heavy_Siege_Turbolaser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_BS_Anti_Fighter",
+      "parent_comment": "SFXOverride_Fire_BS_Anti_Fighter",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Black_Sun_Anti_Fighter_Laser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_BS_LaserCannon_Medium",
+      "parent_comment": "SFXOverride_Fire_BS_LaserCannon_Medium",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Black_Sun_Laser_Cannon_Fire"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_BS_LaserCannon_Heavy",
+      "parent_comment": "SFXOverride_Fire_BS_LaserCannon_Heavy",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Black_Sun_Heavy_Laser_Cannon_Fire"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_BS_Turbolaser",
+      "parent_comment": "SFXOverride_Fire_BS_Turbolaser",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Black_Sun_Turbolaser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_BS_Turbolaser_Heavy",
+      "parent_comment": "SFXOverride_Fire_BS_Turbolaser_Heavy",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Black_Sun_Heavy_Turbolaser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_BS_SiegeGun",
+      "parent_comment": "SFXOverride_Fire_BS_SiegeGun",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Black_Sun_Siege_Turbolaser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_BS_MassDriver_SingleShot_Light",
+      "parent_comment": "SFXOverride_Fire_BS_MassDriver_SingleShot_Light",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "BS_Light_SingleShot_MassDriver_Fire"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_BS_MassDriver_SingleShot_Medium",
+      "parent_comment": "SFXOverride_Fire_BS_MassDriver_SingleShot_Medium",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "BS_Medium_SingleShot_MassDriver_Fire"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_BS_HeavyMG",
+      "parent_comment": "SFXOverride_Fire_BS_HeavyMG",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Heavy_MG_Fire"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_CIS_Laser",
+      "parent_comment": "SFXOverride_Fire_CIS_Laser",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "CIS_Laser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_CIS_Turbolaser",
+      "parent_comment": "SFXOverride_Fire_CIS_Turbolaser",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "CIS_Turbolaser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_CIS_Turbolaser_Heavy",
+      "parent_comment": "SFXOverride_Fire_CIS_Turbolaser_Heavy",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "CIS_Heavy_Turbolaser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_CIS_SiegeGun",
+      "parent_comment": "SFXOverride_Fire_CIS_SiegeGun",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "CIS_Siege_Turbolaser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_Empire_ATAT_Secondary_Space",
+      "parent_comment": "SFXOverride_Fire_Empire_ATAT_Secondary_Space",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "AT_AT_Secondary_Gun_Space"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_Empire_ATAT_Main_Space",
+      "parent_comment": "SFXOverride_Fire_Empire_ATAT_Main_Space",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "AT_AT_Main_Gun_Space"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_Umbara_Laser",
+      "parent_comment": "SFXOverride_Fire_Umbara_Laser",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Umbaran_Laser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_Mando_Laser",
+      "parent_comment": "SFXOverride_Fire_Mando_Laser",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Mando_Laser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_Mando_Turbolaser",
+      "parent_comment": "SFXOverride_Fire_Mando_Turbolaser",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Mando_Turbolaser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_IonCannon_Fighter",
+      "parent_comment": "SFXOverride_Fire_IonCannon_Fighter",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Ion_Cannon_Fighter_Fire"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_IonCannon",
+      "parent_comment": "SFXOverride_Fire_IonCannon",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Ion_Cannon_Fire"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_IonCannon_Heavy",
+      "parent_comment": "SFXOverride_Fire_IonCannon_Heavy",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Ion_Cannon_Heavy_Fire"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_IonCannon_LongRange",
+      "parent_comment": "SFXOverride_Fire_IonCannon_LongRange",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Ion_Cannon_Long_Range_Fire"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_Missile_Capital",
+      "parent_comment": "SFXOverride_Fire_Missile_Capital",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Capital_Missile_Launch"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_Missile_Assault",
+      "parent_comment": "SFXOverride_Fire_Missile_Assault",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Assault_Missile_Launch"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_Rocket_Barrage",
+      "parent_comment": "SFXOverride_Fire_Rocket_Barrage",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Barrage_Rocket_Launch"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_MassDriver_FullAuto_Medium",
+      "parent_comment": "SFXOverride_Fire_MassDriver_FullAuto_Medium",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Medium_Massdriver_Fire"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_MassDriver_FullAuto_Heavy",
+      "parent_comment": "SFXOverride_Fire_MassDriver_FullAuto_Heavy",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Heavy_Massdriver_Fire"
+        }
+      ]
+    }
+  ]
+}

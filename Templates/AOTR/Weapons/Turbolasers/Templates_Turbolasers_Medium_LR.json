@@ -1,0 +1,474 @@
+{
+  "templates": [
+    {
+      "name": "Turbolaser_Medium_LR_Base",
+      "parent_comment": "Turbolaser_Medium_LR_Base",
+      "inherits_from": "Hardpoint_Weapon_Generic_AOTR",
+      "fields": [
+        {
+          "tag": "Type",
+          "value": "HARD_POINT_WEAPON_LASER"
+        },
+        {
+          "tag": "Is_Targetable",
+          "value": "No"
+        },
+        {
+          "tag": "Is_Destroyable",
+          "value": "No"
+        },
+        {
+          "tag": "Health",
+          "value": "500.0"
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_TURBOLASER_MEDIUM_LR"
+        },
+        {
+          "tag": "Death_Explosion_Particles",
+          "value": "Hardpoint_Explosion_Space"
+        },
+        {
+          "tag": "Death_Explosion_SFXEvent",
+          "value": "Unit_Hardpoint_Turbo_Laser_Death"
+        },
+        {
+          "tag": "Allow_Opportunity_Fire_When_Targeting",
+          "value": "True"
+        },
+        {
+          "tag": "Allow_Opportunity_Fire_When_Idle",
+          "value": "True"
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_TL_Medium_LR_Red"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Rebel_Siege_Turbolaser_Fire"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "12.25"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "12.75"
+        },
+        {
+          "tag": "Fire_Pulse_Count",
+          "value": "1",
+          "attrs": {
+            "Editor_Ignore": "Yes"
+          }
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "6.12"
+        },
+        {
+          "tag": "Fire_Min_Range_Distance",
+          "value": "0.0"
+        },
+        {
+          "tag": "Fire_Range_Distance",
+          "value": "5250.0"
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Fighter, 120.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Bomber, 120.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Transport, 120.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Gunship, 120.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Corvette, 90.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Frigate, 50.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Cruiser, 20.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Capital, 10.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " SpaceStructure, 10.0 "
+        },
+        {
+          "tag": "Fire_Category_Restrictions",
+          "value": "Fighter, Bomber, Gunship"
+        },
+        {
+          "tag": "Fire_Cone_Width",
+          "value": "160.0"
+        },
+        {
+          "tag": "Fire_Cone_Height",
+          "value": "160.0"
+        },
+        {
+          "tag": "Is_Turret",
+          "value": "No"
+        },
+        {
+          "tag": "Turret_Rest_Angle",
+          "value": "0.0, 0.0, 0.0"
+        },
+        {
+          "tag": "Turret_Rotation_Offset",
+          "value": "0.0, 0.0, 0.0"
+        },
+        {
+          "tag": "Turret_Rotate_Speed",
+          "value": "2.0"
+        },
+        {
+          "tag": "Turret_Rotate_Extent_Degrees",
+          "value": "180.0"
+        },
+        {
+          "tag": "Turret_Elevate_Extent_Degrees",
+          "value": "45.0"
+        },
+        {
+          "tag": "Model_To_Attach",
+          "value": ""
+        },
+        {
+          "tag": "Randomize_Between_Fire_Bones",
+          "value": "Yes"
+        },
+        {
+          "tag": "Fire_Bone_A",
+          "value": "{bone_a}"
+        },
+        {
+          "tag": "Fire_Bone_B",
+          "value": "{bone_b}"
+        },
+        {
+          "tag": "Turret_Bone_Name",
+          "value": "TURRET_ROTATION"
+        },
+        {
+          "tag": "Barrel_Bone_Name",
+          "value": "TURRET_ELEVATION"
+        },
+        {
+          "tag": "Death_Breakoff_Prop",
+          "value": "",
+          "empty_tag": true
+        },
+        {
+          "tag": "Attachment_Bone",
+          "value": "{bone_a}"
+        },
+        {
+          "tag": "Collision_Mesh",
+          "value": "{bone_a}"
+        }
+      ]
+    },
+    {
+      "name": "Turbolaser_Medium_LR_Base_Dual",
+      "parent_comment": "Turbolaser_Medium_LR_Base_Dual",
+      "inherits_from": "Turbolaser_Medium_LR_Base",
+      "model_base": "",
+      "damage_base": "",
+      "fields": [
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_TURBOLASER_MEDIUM_LR_DUAL"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "16.33"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "16.83"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "8.16"
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_TL_Medium_LR_Dual_Red"
+        }
+      ]
+    },
+    {
+      "name": "Turbolaser_Medium_LR_Base_Quad",
+      "parent_comment": "Turbolaser_Medium_LR_Base_Quad",
+      "inherits_from": "Turbolaser_Medium_LR_Base",
+      "model_base": "",
+      "damage_base": "",
+      "fields": [
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_TURBOLASER_MEDIUM_LR_QUAD"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "21.75"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "22.25"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "10.875"
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_TL_Medium_LR_Quad_Red"
+        }
+      ]
+    },
+    {
+      "name": "Turbolaser_Medium_LR_Green",
+      "parent_comment": "Turbolaser_Medium_LR_Green",
+      "inherits_from": "Turbolaser_Medium_LR_Base",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_TL_Medium_LR_Green"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Empire_Siege_Gun_Fire"
+        }
+      ]
+    },
+    {
+      "name": "Turbolaser_Medium_LR_Green_Dual",
+      "parent_comment": "Turbolaser_Medium_LR_Green_Dual",
+      "inherits_from": "Turbolaser_Medium_LR_Base_Dual",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_TL_Medium_LR_Dual_Green"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Empire_Siege_Gun_Fire"
+        }
+      ]
+    },
+    {
+      "name": "Turbolaser_Medium_LR_Green_Quad",
+      "parent_comment": "Turbolaser_Medium_LR_Green_Quad",
+      "inherits_from": "Turbolaser_Medium_LR_Base_Quad",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_TL_Medium_LR_Quad_Green"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Empire_Siege_Gun_Fire"
+        }
+      ]
+    },
+    {
+      "name": "Turbolaser_Medium_LR_Red",
+      "parent_comment": "Turbolaser_Light_Red",
+      "inherits_from": "Turbolaser_Medium_LR_Base",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_TL_Medium_LR_Red"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Rebel_Siege_Turbolaser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "Turbolaser_Medium_LR_Red_Dual",
+      "parent_comment": "Turbolaser_Medium_LR_Red_Dual",
+      "inherits_from": "Turbolaser_Medium_LR_Base_Dual",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_TL_Medium_LR_Dual_Red"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Rebel_Siege_Turbolaser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "Turbolaser_Medium_LR_Red_Quad",
+      "parent_comment": "Turbolaser_Medium_LR_Red_Quad",
+      "inherits_from": "Turbolaser_Medium_LR_Base_Quad",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_TL_Medium_Quad_Red"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Rebel_Siege_Turbolaser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "Turbolaser_Medium_LR_Orange",
+      "parent_comment": "Turbolaser_Medium_LR_Orange",
+      "inherits_from": "Turbolaser_Medium_LR_Base",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_TL_Medium_LR_Orange"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Rebel_Siege_Turbolaser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "Turbolaser_Medium_LR_Orange_Dual",
+      "parent_comment": "Turbolaser_Medium_LR_Orange_Dual",
+      "inherits_from": "Turbolaser_Medium_LR_Base_Dual",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_TL_Medium_LR_Dual_Orange"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Rebel_Siege_Turbolaser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "Turbolaser_Medium_LR_Orange_Quad",
+      "parent_comment": "Turbolaser_Medium_LR_Orange_Quad",
+      "inherits_from": "Turbolaser_Medium_LR_Base_Quad",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_TL_Medium_LR_Quad_Orange"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Rebel_Siege_Turbolaser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "Turbolaser_Medium_LR_Purple",
+      "parent_comment": "Turbolaser_Medium_LR_Purple",
+      "inherits_from": "Turbolaser_Medium_LR_Base",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_TL_Medium_LR_Purple"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Rebel_Siege_Turbolaser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "Turbolaser_Medium_LR_Purple_Dual",
+      "parent_comment": "Turbolaser_Medium_LR_Purple_Dual",
+      "inherits_from": "Turbolaser_Medium_LR_Base_Dual",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_TL_Medium_LR_Dual_Purple"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Rebel_Siege_Turbolaser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "Turbolaser_Medium_LR_Purple_Quad",
+      "parent_comment": "Turbolaser_Medium_LR_Purple_Quad",
+      "inherits_from": "Turbolaser_Medium_LR_Base_Quad",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_TL_Medium_LR_Quad_Purple"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Rebel_Siege_Turbolaser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "Turbolaser_Medium_LR_Blue",
+      "parent_comment": "Turbolaser_Medium_LR_Blue",
+      "inherits_from": "Turbolaser_Medium_LR_Base",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_TL_Medium_LR_Blue"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Empire_Siege_Gun_Fire"
+        }
+      ]
+    },
+    {
+      "name": "Turbolaser_Medium_LR_Blue_Dual",
+      "parent_comment": "Turbolaser_Medium_LR_Blue_Dual",
+      "inherits_from": "Turbolaser_Medium_LR_Base_Dual",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_TL_Medium_LR_Dual_Blue"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Empire_Siege_Gun_Fire"
+        }
+      ]
+    },
+    {
+      "name": "Turbolaser_Medium_LR_Blue_Quad",
+      "parent_comment": "Turbolaser_Medium_LR_Blue_Quad",
+      "inherits_from": "Turbolaser_Medium_LR_Base_Quad",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_TL_Medium_LR_Quad_Blue"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Empire_Siege_Gun_Fire"
+        }
+      ]
+    }
+  ]
+}

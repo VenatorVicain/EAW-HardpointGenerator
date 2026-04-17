@@ -1,0 +1,256 @@
+{
+  "templates": [
+    {
+      "name": "Laser_Light_Repeater_Base",
+      "parent_comment": "Laser_Light_Repeater_Base",
+      "inherits_from": "Hardpoint_Weapon_Generic_AOTR_Fighter",
+      "fields": [
+        {
+          "tag": "Type",
+          "value": "HARD_POINT_WEAPON_MASS_DRIVER"
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_Laser_Repeater_Green"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "4.0"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "4.5"
+        },
+        {
+          "tag": "Fire_Pulse_Count",
+          "value": "8"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "0.1"
+        },
+        {
+          "tag": "Fire_Range_Distance",
+          "value": "500.0"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Unit_TIE_Fighter_Fire"
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Fighter, 4.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Bomber, 4.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Transport, 6.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Gunship, 6.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Corvette, 25.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Frigate, 25.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Cruiser, 25.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Capital, 25.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " SpaceStructure, 25.0 "
+        }
+      ]
+    },
+    {
+      "name": "Laser_Light_Repeater_Base_Dual",
+      "parent_comment": "Laser_Light_Repeater_Base_Dual",
+      "inherits_from": "Laser_Light_Repeater_Base",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_Laser_Repeater_Dual_Green"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "5.33"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "5.83"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "0.1"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Unit_TIE_Fighter_Fire"
+        }
+      ]
+    },
+    {
+      "name": "Laser_Light_Repeater_Green",
+      "parent_comment": "Laser_Light_Repeater_Green",
+      "inherits_from": "Laser_Light_Repeater_Base",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_Laser_Repeater_Green"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Unit_TIE_Fighter_Fire"
+        }
+      ]
+    },
+    {
+      "name": "Laser_Light_Repeater_Green_Dual",
+      "parent_comment": "Laser_Light_Repeater_Green_Dual",
+      "inherits_from": "Laser_Light_Repeater_Base_Dual",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_Laser_Repeater_Dual_Green"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Unit_TIE_Fighter_Fire"
+        }
+      ]
+    },
+    {
+      "name": "Laser_Light_Repeater_Red",
+      "parent_comment": "Laser_Light_Repeater_Red",
+      "inherits_from": "Laser_Light_Repeater_Base",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_Laser_Repeater_Red"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Rebel_Anti_Fighter_Laser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "Laser_Light_Repeater_Red_Dual",
+      "parent_comment": "Laser_Light_Repeater_Red_Dual",
+      "inherits_from": "Laser_Light_Repeater_Base_Dual",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_Laser_Repeater_Dual_Red"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Rebel_Anti_Fighter_Laser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "Laser_Light_Repeater_Orange",
+      "parent_comment": "Laser_Light_Repeater_Orange",
+      "inherits_from": "Laser_Light_Repeater_Base",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_Laser_Repeater_Orange"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Rebel_Anti_Fighter_Laser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "Laser_Light_Repeater_Orange_Dual",
+      "parent_comment": "Laser_Light_Repeater_Orange_Dual",
+      "inherits_from": "Laser_Light_Repeater_Base_Dual",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_Laser_Repeater_Dual_Orange"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Rebel_Anti_Fighter_Laser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "Laser_Light_Repeater_Purple",
+      "parent_comment": "Laser_Light_Repeater_Purple",
+      "inherits_from": "Laser_Light_Repeater_Base",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_Laser_Repeater_Purple"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Rebel_Anti_Fighter_Laser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "Laser_Light_Repeater_Purple_Dual",
+      "parent_comment": "Laser_Light_Repeater_Purple_Dual",
+      "inherits_from": "Laser_Light_Repeater_Base_Dual",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_Laser_Repeater_Dual_Purple"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Rebel_Anti_Fighter_Laser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "Laser_Light_Repeater_Blue",
+      "parent_comment": "Laser_Light_Repeater_Blue",
+      "inherits_from": "Laser_Light_Repeater_Base",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_Laser_Repeater_Blue"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Unit_TIE_Fighter_Fire"
+        }
+      ]
+    },
+    {
+      "name": "Laser_Light_Repeater_Blue_Dual",
+      "parent_comment": "Laser_Light_Repeater_Blue_Dual",
+      "inherits_from": "Laser_Light_Repeater_Base_Dual",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_Laser_Repeater_Dual_Blue"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Unit_TIE_Fighter_Fire"
+        }
+      ]
+    }
+  ]
+}

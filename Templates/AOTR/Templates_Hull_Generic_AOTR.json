@@ -1,0 +1,54 @@
+{
+  "templates": [
+    {
+      "name": "Hardpoint_Hull_Generic_AOTR",
+      "parent_comment": "Hardpoint_Hull_Generic_AOTR",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Type",
+          "value": "HARD_POINT_DUMMY_ART"
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_HULL_HARDPOINT"
+        },
+        {
+          "tag": "Is_Targetable",
+          "value": "Yes"
+        },
+        {
+          "tag": "Is_Destroyable",
+          "value": "Yes"
+        },
+        {
+          "tag": "Health",
+          "value": "1.0"
+        },
+        {
+          "tag": "Attachment_Bone",
+          "value": "{bone_c}"
+        },
+        {
+          "tag": "Collision_Mesh",
+          "value": "{bone_d}"
+        }
+      ]
+    },
+    {
+      "name": "Hardpoint_HullDummy_Generic_AOTR",
+      "parent_comment": "Hardpoint_HullDummy_Generic_AOTR",
+      "inherits_from": "Hardpoint_Hull_Generic_AOTR",
+      "fields": [
+        {
+          "tag": "Is_Targetable",
+          "value": "No"
+        },
+        {
+          "tag": "Is_Destroyable",
+          "value": "No"
+        }
+      ]
+    }
+  ]
+}

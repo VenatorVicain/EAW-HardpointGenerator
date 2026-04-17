@@ -1,0 +1,378 @@
+{
+  "templates": [
+    {
+      "name": "LaserCannon_Flak_Heavy_Base",
+      "parent_comment": "LaserCannon_Flak_Heavy_Base",
+      "inherits_from": "Hardpoint_Weapon_Generic",
+      "fields": [
+        {
+          "tag": "Type",
+          "value": "HARD_POINT_WEAPON_MASS_DRIVER"
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_FLAK_HEAVY"
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_LC_Flak_Heavy_Green"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "3.0"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "3.5"
+        },
+        {
+          "tag": "Fire_Pulse_Count",
+          "value": "1"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "1.5"
+        },
+        {
+          "tag": "Fire_Range_Distance",
+          "value": "2000.0"
+        },
+        {
+          "tag": "Fire_Min_Range_Distance",
+          "value": "150.0"
+        },
+        {
+          "tag": "Death_Explosion_SFXEvent",
+          "value": "Unit_Hardpoint_Laser_Death"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Empire_Heavy_Laser_Cannon_Fire"
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Fighter, 40.0"
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Bomber, 40.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Transport, 50.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Gunship, 50.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Corvette, 60.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Frigate, 60.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Cruiser, 60.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Capital, 60.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " SpaceStructure, 60.0 "
+        }
+      ]
+    },
+    {
+      "name": "LaserCannon_Flak_Heavy_Base_Dual",
+      "parent_comment": "LaserCannon_Flak_Heavy_Base_Dual",
+      "inherits_from": "LaserCannon_Flak_Heavy_Base",
+      "fields": [
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_FLAK_HEAVY_DUAL"
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_LC_Flak_Heavy_Dual_Green"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "4.0"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "4.5"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "2.0"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Empire_Heavy_Laser_Cannon_Fire"
+        }
+      ]
+    },
+    {
+      "name": "LaserCannon_Flak_Heavy_Base_Quad",
+      "parent_comment": "LaserCannon_Flak_Heavy_Base_Quad",
+      "inherits_from": "LaserCannon_Flak_Heavy_Base",
+      "fields": [
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_FLAK_HEAVY_QUAD"
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_LC_Flak_Heavy_Quad_Green"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "5.33"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "5.83"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "2.66"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Empire_Heavy_Laser_Cannon_Fire"
+        }
+      ]
+    },
+    {
+      "name": "LaserCannon_Flak_Heavy_Green",
+      "parent_comment": "LaserCannon_Flak_Heavy_Green",
+      "inherits_from": "LaserCannon_Flak_Heavy_Base",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_LC_Flak_Heavy_Green"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Empire_Heavy_Laser_Cannon_Fire"
+        }
+      ]
+    },
+    {
+      "name": "LaserCannon_Flak_Heavy_Green_Dual",
+      "parent_comment": "LaserCannon_Flak_Heavy_Green_Dual",
+      "inherits_from": "LaserCannon_Flak_Heavy_Base_Dual",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_LC_Flak_Heavy_Dual_Green"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Empire_Heavy_Laser_Cannon_Fire"
+        }
+      ]
+    },
+    {
+      "name": "LaserCannon_Flak_Heavy_Green_Quad",
+      "parent_comment": "LaserCannon_Flak_Heavy_Green_Quad",
+      "inherits_from": "LaserCannon_Flak_Heavy_Base_Quad",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_LC_Flak_Heavy_Quad_Green"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Empire_Heavy_Laser_Cannon_Fire"
+        }
+      ]
+    },
+    {
+      "name": "LaserCannon_Flak_Heavy_Red",
+      "parent_comment": "LaserCannon_Flak_Heavy_Red",
+      "inherits_from": "LaserCannon_Flak_Heavy_Base",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_LC_Flak_Heavy_Red"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Rebel_Heavy_Laser_Cannon_Fire"
+        }
+      ]
+    },
+    {
+      "name": "LaserCannon_Flak_Heavy_Red_Dual",
+      "parent_comment": "LaserCannon_Flak_Heavy_Red_Dual",
+      "inherits_from": "LaserCannon_Flak_Heavy_Base_Dual",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_LC_Flak_Heavy_Dual_Red"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Rebel_Heavy_Laser_Cannon_Fire"
+        }
+      ]
+    },
+    {
+      "name": "LaserCannon_Flak_Heavy_Red_Quad",
+      "parent_comment": "LaserCannon_Flak_Heavy_Red_Quad",
+      "inherits_from": "LaserCannon_Flak_Heavy_Base_Quad",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_LC_Flak_Heavy_Quad_Red"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Rebel_Heavy_Laser_Cannon_Fire"
+        }
+      ]
+    },
+    {
+      "name": "LaserCannon_Flak_Heavy_Orange",
+      "parent_comment": "LaserCannon_Flak_Heavy_Orange",
+      "inherits_from": "LaserCannon_Flak_Heavy_Base",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_LC_Flak_Heavy_Orange"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Rebel_Heavy_Laser_Cannon_Fire"
+        }
+      ]
+    },
+    {
+      "name": "LaserCannon_Flak_Heavy_Orange_Dual",
+      "parent_comment": "LaserCannon_Flak_Heavy_Orange_Dual",
+      "inherits_from": "LaserCannon_Flak_Heavy_Base_Dual",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_LC_Flak_Heavy_Dual_Orange"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Rebel_Heavy_Laser_Cannon_Fire"
+        }
+      ]
+    },
+    {
+      "name": "LaserCannon_Flak_Heavy_Orange_Quad",
+      "parent_comment": "LaserCannon_Flak_Heavy_Orange_Quad",
+      "inherits_from": "LaserCannon_Flak_Heavy_Base_Quad",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_LC_Flak_Heavy_Quad_Orange"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Rebel_Heavy_Laser_Cannon_Fire"
+        }
+      ]
+    },
+    {
+      "name": "LaserCannon_Flak_Heavy_Purple",
+      "parent_comment": "LaserCannon_Flak_Heavy_Purple",
+      "inherits_from": "LaserCannon_Flak_Heavy_Base",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_LC_Flak_Heavy_Purple"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Rebel_Heavy_Laser_Cannon_Fire"
+        }
+      ]
+    },
+    {
+      "name": "LaserCannon_Flak_Heavy_Purple_Dual",
+      "parent_comment": "LaserCannon_Flak_Heavy_Purple_Dual",
+      "inherits_from": "LaserCannon_Flak_Heavy_Base_Dual",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_LC_Flak_Heavy_Dual_Purple"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Rebel_Heavy_Laser_Cannon_Fire"
+        }
+      ]
+    },
+    {
+      "name": "LaserCannon_Flak_Heavy_Purple_Quad",
+      "parent_comment": "LaserCannon_Flak_Heavy_Purple_Quad",
+      "inherits_from": "LaserCannon_Flak_Heavy_Base_Quad",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_LC_Flak_Heavy_Quad_Purple"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Rebel_Heavy_Laser_Cannon_Fire"
+        }
+      ]
+    },
+    {
+      "name": "LaserCannon_Flak_Heavy_Blue",
+      "parent_comment": "LaserCannon_Flak_Heavy_Blue",
+      "inherits_from": "LaserCannon_Flak_Heavy_Base",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_LC_Flak_Heavy_Blue"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Empire_Heavy_Laser_Cannon_Fire"
+        }
+      ]
+    },
+    {
+      "name": "LaserCannon_Flak_Heavy_Blue_Dual",
+      "parent_comment": "LaserCannon_Flak_Heavy_Blue_Dual",
+      "inherits_from": "LaserCannon_Flak_Heavy_Base_Dual",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_LC_Flak_Heavy_Dual_Blue"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Empire_Heavy_Laser_Cannon_Fire"
+        }
+      ]
+    },
+    {
+      "name": "LaserCannon_Flak_Heavy_Blue_Quad",
+      "parent_comment": "LaserCannon_Flak_Heavy_Blue_Quad",
+      "inherits_from": "LaserCannon_Flak_Heavy_Base_Quad",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_LC_Flak_Heavy_Quad_Blue"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Empire_Heavy_Laser_Cannon_Fire"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "templates": [
+    {
+      "_comment": "Enables the hardpoint's ability to be targetable and destroyable.",
+      "name": "bIsTargetable_True",
+      "parent_comment": "bIsTargetable_True",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Is_Targetable",
+          "value": "Yes"
+        },
+        {
+          "tag": "Is_Destroyable",
+          "value": "Yes"
+        }
+      ]
+    },
+    {
+      "_comment": "Disables the hardpoint's ability to be targetable and destroyable.",
+      "name": "bIsTargetable_False",
+      "parent_comment": "bIsTargetable_False",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Is_Targetable",
+          "value": "No"
+        },
+        {
+          "tag": "Is_Destroyable",
+          "value": "No"
+        }
+      ]
+    }
+  ]
+}

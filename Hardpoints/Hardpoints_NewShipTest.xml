@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<HardPoints>
+	<HardPoint Name="HP_Weapon_NewShip_NewGroup_01">
+		<!-- PARENT: TurboIon_Medium_Dual
+		-->
+		<Type>HARD_POINT_WEAPON_ION_CANNON</Type>
+		<Is_Targetable>Yes</Is_Targetable>
+		<Is_Destroyable>Yes</Is_Destroyable>
+		<Health>500.0</Health>
+		<Tooltip_Text>TEXT_WEAPON_TURBOION_MEDIUM_DUAL</Tooltip_Text>
+		<Death_Explosion_Particles>Hardpoint_Explosion_Space</Death_Explosion_Particles>
+		<Death_Explosion_SFXEvent>Unit_Hardpoint_Ion_Death</Death_Explosion_SFXEvent>
+		<Allow_Opportunity_Fire_When_Targeting>True</Allow_Opportunity_Fire_When_Targeting>
+		<Allow_Opportunity_Fire_When_Idle>True</Allow_Opportunity_Fire_When_Idle>
+
+		<!-- FIRE SETTINGS:
+		-->
+		<Fire_Projectile_Type>Proj_Space_IonCannon_Shield_Medium_Dual</Fire_Projectile_Type>
+		<Fire_SFXEvent>Ion_Cannon_Long_Range_Fire</Fire_SFXEvent>
+
+		<Fire_Min_Recharge_Seconds>5.125</Fire_Min_Recharge_Seconds>
+		<Fire_Max_Recharge_Seconds>15.375</Fire_Max_Recharge_Seconds>
+
+		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Delay_Seconds>5.125</Fire_Pulse_Delay_Seconds>
+
+		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
+		<Fire_Range_Distance>3250.0</Fire_Range_Distance>
+
+		<!-- ABILITY MOD SETTINGS:
+		-->
+		<Full_Salvo_Weapon_Delay_Multiplier>3.0</Full_Salvo_Weapon_Delay_Multiplier>
+
+		<!-- ACCURACY SETTINGS: 
+		-->
+		<Fire_Inaccuracy_Distance> Fighter, 120.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Bomber, 120.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Transport, 120.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Gunship, 120.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Corvette, 100.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Frigate, 60.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Cruiser, 25.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Capital, 10.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> SpaceStructure, 10.0 </Fire_Inaccuracy_Distance>
+
+		<Fire_Category_Restrictions>Fighter, Bomber, Gunship</Fire_Category_Restrictions>
+
+		<!-- FIRE CONE SETTINGS: 
+		-->
+		<Fire_Cone_Width>160.0</Fire_Cone_Width>
+		<Fire_Cone_Height>160.0</Fire_Cone_Height>
+
+		<!-- TURRET TYPE: 
+		-->
+		<Is_Turret>No</Is_Turret>
+		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
+		<Turret_Rotation_Offset>0.0, 0.0, 0.0</Turret_Rotation_Offset>
+		<Turret_Rotate_Speed>2.0</Turret_Rotate_Speed>
+		<!--    <Projectile_Appearance_Delay_Frames>20</Projectile_Appearance_Delay_Frames>-->
+		<Turret_Rotate_Extent_Degrees>180.0</Turret_Rotate_Extent_Degrees>
+		<Turret_Elevate_Extent_Degrees>45.0</Turret_Elevate_Extent_Degrees>
+
+		<!-- HARDPOINT-SPECIFIC SETTINGS: 
+		-->
+		<Model_To_Attach></Model_To_Attach>
+		<Randomize_Between_Fire_Bones>Yes</Randomize_Between_Fire_Bones>
+		<Fire_Bone_A>TL_01</Fire_Bone_A>
+		<Fire_Bone_B>TL_01</Fire_Bone_B>
+		<Turret_Bone_Name>TURRET_ROTATION</Turret_Bone_Name>
+		<Barrel_Bone_Name>TURRET_ELEVATION</Barrel_Bone_Name>
+		<Death_Breakoff_Prop/>
+		<Attachment_Bone>TL_01</Attachment_Bone>
+		<Collision_Mesh>TL_01</Collision_Mesh>
+	</HardPoint>
+
+</HardPoints>
+<!-- HARDPOINT LIST: NewShip
+		HP_Weapon_NewShip_NewGroup_01
+	-->

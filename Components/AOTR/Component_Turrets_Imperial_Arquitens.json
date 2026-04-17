@@ -1,0 +1,172 @@
+{
+  "templates": [
+    {
+      "_comment": "Turret-mounted XX-9 variant. {model} is auto-incremented ship-wide.",
+      "name": "Turret_Imperial_Arquitens_Quad",
+      "parent_comment": "Turret_Imperial_Arquitens_Quad",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Is_Turret",
+          "value": "Yes"
+        },
+        {
+          "tag": "Randomize_Between_Fire_Bones",
+          "value": "No"
+        },
+        {
+          "tag": "Turret_Rotate_Extent_Degrees",
+          "value": "100.0"
+        },
+        {
+          "tag": "Turret_Elevate_Extent_Degrees",
+          "value": "80.0"
+        },
+        {
+          "tag": "Turret_Rotate_Speed",
+          "value": "3.0"
+        },
+        {
+          "tag": "Model_To_Attach",
+          "value": "T_Quad_Medium_{model_idx}.ALO"
+        },
+        {
+          "tag": "Fire_Bone_A",
+          "value": "MuzzleA_00"
+        },
+        {
+          "tag": "Fire_Bone_B",
+          "value": "MuzzleA_01"
+        },
+        {
+          "tag": "Turret_Bone_Name",
+          "value": "TURRET"
+        },
+        {
+          "tag": "Barrel_Bone_Name",
+          "value": "BARREL"
+        }
+      ]
+    },
+    {
+      "_comment": "Turret-mounted XX-9 variant. {model} is auto-incremented ship-wide.",
+      "name": "Turret_Imperial_Arquitens_Quad_360",
+      "parent_comment": "Turret_Imperial_Arquitens_Quad_360",
+      "inherits_from": "Turret_Imperial_Arquitens_Quad",
+      "fields": [
+        {
+          "tag": "Turret_Rotate_Extent_Degrees",
+          "value": "180.0"
+        }
+      ]
+    },
+    {
+      "_comment": "Turret-mounted XX-9 variant. {model} is auto-incremented ship-wide.",
+      "name": "Turret_Imperial_Arquitens_Dual",
+      "parent_comment": "Turret_Imperial_Arquitens_Dual",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Is_Turret",
+          "value": "Yes"
+        },
+        {
+          "tag": "Randomize_Between_Fire_Bones",
+          "value": "No"
+        },
+        {
+          "tag": "Turret_Rotate_Extent_Degrees",
+          "value": "80.0"
+        },
+        {
+          "tag": "Turret_Elevate_Extent_Degrees",
+          "value": "80.0"
+        },
+        {
+          "tag": "Turret_Rotate_Speed",
+          "value": "4.0"
+        },
+        {
+          "tag": "Model_To_Attach",
+          "value": "T_Dual_Medium_{model_idx}.ALO"
+        },
+        {
+          "tag": "Fire_Bone_A",
+          "value": "MuzzleA_00"
+        },
+        {
+          "tag": "Fire_Bone_B",
+          "value": "MuzzleA_01"
+        },
+        {
+          "tag": "Turret_Bone_Name",
+          "value": "TURRET_00"
+        },
+        {
+          "tag": "Barrel_Bone_Name",
+          "value": "BARREL_00"
+        }
+      ]
+    },
+    {
+      "_comment": "Turret-mounted XX-9 variant. {model} is auto-incremented ship-wide.",
+      "name": "Turret_Imperial_Arquitens_Dual_360",
+      "parent_comment": "Turret_Imperial_Arquitens_Dual_360",
+      "inherits_from": "Turret_Imperial_Arquitens_Dual",
+      "fields": [
+        {
+          "tag": "Turret_Rotate_Extent_Degrees",
+          "value": "180.0"
+        }
+      ]
+    },
+    {
+      "_comment": "Turret-mounted XX-9 variant. {model} is auto-incremented ship-wide.",
+      "name": "Turret_Imperial_XX9",
+      "parent_comment": "Turret_Imperial_XX9",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Is_Turret",
+          "value": "Yes"
+        },
+        {
+          "tag": "Randomize_Between_Fire_Bones",
+          "value": "Yes"
+        },
+        {
+          "tag": "Turret_Rotate_Extent_Degrees",
+          "value": "90"
+        },
+        {
+          "tag": "Turret_Elevate_Extent_Degrees",
+          "value": "70"
+        },
+        {
+          "tag": "Turret_Rotate_Speed",
+          "value": "4.0"
+        },
+        {
+          "tag": "Model_To_Attach",
+          "value": "T_Turret_XX9_TurboLaser_{model_idx}.ALO"
+        },
+        {
+          "tag": "Fire_Bone_A",
+          "value": "Muzzle_L"
+        },
+        {
+          "tag": "Fire_Bone_B",
+          "value": "Muzzle_R"
+        },
+        {
+          "tag": "Turret_Bone_Name",
+          "value": "Turret"
+        },
+        {
+          "tag": "Barrel_Bone_Name",
+          "value": "Barrel"
+        }
+      ]
+    }
+  ]
+}

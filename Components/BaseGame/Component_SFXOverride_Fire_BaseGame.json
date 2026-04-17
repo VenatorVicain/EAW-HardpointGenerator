@@ -1,0 +1,169 @@
+{
+  "templates": [
+    {
+      "name": "SFXOverride_Fire_Rebel_Laser",
+      "parent_comment": "SFXOverride_Fire_Rebel_Laser",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Unit_Rebel_Ship_Laser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_Empire_Laser",
+      "parent_comment": "SFXOverride_Fire_Empire_Laser",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Unit_Empire_Ship_Laser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_Pirate_Laser",
+      "parent_comment": "SFXOverride_Fire_Pirate_Laser",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Unit_Pirate_Ship_Laser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_Rebel_Laser_Cannon",
+      "parent_comment": "SFXOverride_Fire_Rebel_Laser_Cannon",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Unit_Rebel_Ship_Laser_Cannon_Fire"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_Empire_Laser_Cannon",
+      "parent_comment": "SFXOverride_Fire_Empire_Laser_Cannon",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Unit_Empire_Ship_Laser_Cannon_Fire"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_Pirate_Laser_Cannon",
+      "parent_comment": "SFXOverride_Fire_Pirate_Laser_Cannon",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Unit_Pirate_Ship_Laser_Cannon_Fire"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_Turbolaser",
+      "parent_comment": "SFXOverride_Fire_Turbolaser",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Unit_Turbo_Fire"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_Torpedo",
+      "parent_comment": "SFXOverride_Fire_Torpedo",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Unit_Torpedo_Fire"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_Missile",
+      "parent_comment": "SFXOverride_Fire_Missile",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Unit_Missile_Fire"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_BoronMissile",
+      "parent_comment": "SFXOverride_Fire_BoronMissile",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Unit_Boron_Missile_Fire"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_Ion",
+      "parent_comment": "SFXOverride_Fire_Ion",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Unit_Ion_Fire"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_XWing",
+      "parent_comment": "SFXOverride_Fire_XWing",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Unit_Ion_Fire"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_TieFighter",
+      "parent_comment": "SFXOverride_Fire_TieFighter",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Unit_TIE_Fighter_Fire"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_Falcon",
+      "parent_comment": "SFXOverride_Fire_Falcon",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Unit_Falcon_Fire"
+        }
+      ]
+    },
+    {
+      "name": "SFXOverride_Fire_SlaveI",
+      "parent_comment": "SFXOverride_Fire_SlaveI",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Unit_Slave_1_Fire"
+        }
+      ]
+    }
+  ]
+}

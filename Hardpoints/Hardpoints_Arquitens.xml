@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generated with Venator's EaW Hardpoint Generator v1.0. -->
+
+<HardPoints>
+
+	<!-- Arquitens, Turbolaser_Light_LR_Green
+	-->
+	
+	<HardPoint Name="HP_Arquitens_Turbolaser_Light_LR_Green_01">
+		<!-- PARENT: Turbolaser_Light_LR_Green
+		-->
+		<!-- COMPONENTS: 
+		Turret_Imperial_Arquitens_Quad
+		Burst_2
+		Ability_Full_Salvo_DelayMult_0.33x
+		Ability_Power_To_Weapons_DelayMult_0.33x
+		-->
+		<Type>HARD_POINT_WEAPON_LASER</Type>
+		<Is_Targetable>No</Is_Targetable>
+		<Is_Destroyable>No</Is_Destroyable>
+		<Health>1.0</Health>
+		<Tooltip_Text>TEXT_WEAPON_TURBOLASER_LIGHT_LR</Tooltip_Text>
+		<Death_Explosion_Particles>Hardpoint_Explosion_Space</Death_Explosion_Particles>
+		<Death_Explosion_SFXEvent>Unit_Hardpoint_Turbo_Laser_Death</Death_Explosion_SFXEvent>
+		<Allow_Opportunity_Fire_When_Targeting>True</Allow_Opportunity_Fire_When_Targeting>
+		<Allow_Opportunity_Fire_When_Idle>True</Allow_Opportunity_Fire_When_Idle>
+
+		<!-- FIRE SETTINGS:
+		-->
+		<Fire_Projectile_Type>Proj_Space_TL_Light_LR_Green</Fire_Projectile_Type>
+		<Fire_SFXEvent>Empire_Light_Siege_Gun_Fire</Fire_SFXEvent>
+
+		<Fire_Min_Recharge_Seconds>9.5</Fire_Min_Recharge_Seconds>
+		<Fire_Max_Recharge_Seconds>10.0</Fire_Max_Recharge_Seconds>
+
+		<Fire_Pulse_Count>2</Fire_Pulse_Count>
+		<Fire_Pulse_Delay_Seconds>4.75</Fire_Pulse_Delay_Seconds>
+
+		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
+		<Fire_Range_Distance>4500.0</Fire_Range_Distance>
+
+		<!-- ABILITY MOD SETTINGS:
+		-->
+		<Full_Salvo_Weapon_Delay_Multiplier>0.33</Full_Salvo_Weapon_Delay_Multiplier>
+		<Fire_When_In_Power_To_Weapons_Mode>Yes</Fire_When_In_Power_To_Weapons_Mode>
+		<Power_To_Weapons_Mode_Weapon_Delay_Multiplier>0.33</Power_To_Weapons_Mode_Weapon_Delay_Multiplier>
+
+		<!-- ACCURACY SETTINGS: 
+		-->
+		<Fire_Inaccuracy_Distance> Fighter, 80.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Bomber, 80.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Transport, 70.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Gunship, 70.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Corvette, 50.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Frigate, 25.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Cruiser, 15.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Capital, 10.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> SpaceStructure, 10.0 </Fire_Inaccuracy_Distance>
+
+		<Fire_Category_Restrictions>Fighter, Bomber, Gunship</Fire_Category_Restrictions>
+
+		<!-- FIRE CONE SETTINGS: 
+		-->
+		<Fire_Cone_Width>160.0</Fire_Cone_Width>
+		<Fire_Cone_Height>160.0</Fire_Cone_Height>
+
+		<!-- TURRET TYPE: 
+		-->
+		<Is_Turret>Yes</Is_Turret>
+		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
+		<Turret_Rotation_Offset>0.0, 0.0, 0.0</Turret_Rotation_Offset>
+		<Turret_Rotate_Speed>3.0</Turret_Rotate_Speed>
+		<Projectile_Appearance_Delay_Frames>0.0</Projectile_Appearance_Delay_Frames>
+		<Turret_Rotate_Extent_Degrees>100.0</Turret_Rotate_Extent_Degrees>
+		<Turret_Elevate_Extent_Degrees>80.0</Turret_Elevate_Extent_Degrees>
+
+		<!-- HARDPOINT-SPECIFIC SETTINGS: 
+		-->
+		<Model_To_Attach>T_Quad_Medium_01.ALO</Model_To_Attach>
+		<Damage_Particles>HP_turret_FRONT_01_EMITDAMAGE</Damage_Particles>
+		<Death_Breakoff_Prop/>
+		<Randomize_Between_Fire_Bones>No</Randomize_Between_Fire_Bones>
+		<Fire_Bone_A>MuzzleA_00</Fire_Bone_A>
+		<Fire_Bone_B>MuzzleA_01</Fire_Bone_B>
+		<Turret_Bone_Name>TURRET</Turret_Bone_Name>
+		<Barrel_Bone_Name>BARREL</Barrel_Bone_Name>
+		<Attachment_Bone>HP_T01</Attachment_Bone>
+		<Collision_Mesh>HP_T01</Collision_Mesh>
+	</HardPoint>
+	<HardPoint Name="HP_Arquitens_Turbolaser_Light_LR_Green_02">
+		<!-- PARENT: Turbolaser_Light_LR_Green
+		-->
+		<!-- COMPONENTS: 
+		Turret_Imperial_Arquitens_Quad
+		Burst_2
+		Ability_Full_Salvo_DelayMult_0.33x
+		Ability_Power_To_Weapons_DelayMult_0.33x
+		-->
+		<Type>HARD_POINT_WEAPON_LASER</Type>
+		<Is_Targetable>No</Is_Targetable>
+		<Is_Destroyable>No</Is_Destroyable>
+		<Health>1.0</Health>
+		<Tooltip_Text>TEXT_WEAPON_TURBOLASER_LIGHT_LR</Tooltip_Text>
+		<Death_Explosion_Particles>Hardpoint_Explosion_Space</Death_Explosion_Particles>
+		<Death_Explosion_SFXEvent>Unit_Hardpoint_Turbo_Laser_Death</Death_Explosion_SFXEvent>
+		<Allow_Opportunity_Fire_When_Targeting>True</Allow_Opportunity_Fire_When_Targeting>
+		<Allow_Opportunity_Fire_When_Idle>True</Allow_Opportunity_Fire_When_Idle>
+
+		<!-- FIRE SETTINGS:
+		-->
+		<Fire_Projectile_Type>Proj_Space_TL_Light_LR_Green</Fire_Projectile_Type>
+		<Fire_SFXEvent>Empire_Light_Siege_Gun_Fire</Fire_SFXEvent>
+
+		<Fire_Min_Recharge_Seconds>9.5</Fire_Min_Recharge_Seconds>
+		<Fire_Max_Recharge_Seconds>10.0</Fire_Max_Recharge_Seconds>
+
+		<Fire_Pulse_Count>2</Fire_Pulse_Count>
+		<Fire_Pulse_Delay_Seconds>4.75</Fire_Pulse_Delay_Seconds>
+
+		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
+		<Fire_Range_Distance>4500.0</Fire_Range_Distance>
+
+		<!-- ABILITY MOD SETTINGS:
+		-->
+		<Full_Salvo_Weapon_Delay_Multiplier>0.33</Full_Salvo_Weapon_Delay_Multiplier>
+		<Fire_When_In_Power_To_Weapons_Mode>Yes</Fire_When_In_Power_To_Weapons_Mode>
+		<Power_To_Weapons_Mode_Weapon_Delay_Multiplier>0.33</Power_To_Weapons_Mode_Weapon_Delay_Multiplier>
+
+		<!-- ACCURACY SETTINGS: 
+		-->
+		<Fire_Inaccuracy_Distance> Fighter, 80.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Bomber, 80.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Transport, 70.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Gunship, 70.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Corvette, 50.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Frigate, 25.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Cruiser, 15.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Capital, 10.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> SpaceStructure, 10.0 </Fire_Inaccuracy_Distance>
+
+		<Fire_Category_Restrictions>Fighter, Bomber, Gunship</Fire_Category_Restrictions>
+
+		<!-- FIRE CONE SETTINGS: 
+		-->
+		<Fire_Cone_Width>160.0</Fire_Cone_Width>
+		<Fire_Cone_Height>160.0</Fire_Cone_Height>
+
+		<!-- TURRET TYPE: 
+		-->
+		<Is_Turret>Yes</Is_Turret>
+		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
+		<Turret_Rotation_Offset>0.0, 0.0, 0.0</Turret_Rotation_Offset>
+		<Turret_Rotate_Speed>3.0</Turret_Rotate_Speed>
+		<Projectile_Appearance_Delay_Frames>0.0</Projectile_Appearance_Delay_Frames>
+		<Turret_Rotate_Extent_Degrees>100.0</Turret_Rotate_Extent_Degrees>
+		<Turret_Elevate_Extent_Degrees>80.0</Turret_Elevate_Extent_Degrees>
+
+		<!-- HARDPOINT-SPECIFIC SETTINGS: 
+		-->
+		<Model_To_Attach>T_Quad_Medium_02.ALO</Model_To_Attach>
+		<Damage_Particles>HP_turret_FRONT_02_EMITDAMAGE</Damage_Particles>
+		<Death_Breakoff_Prop/>
+		<Randomize_Between_Fire_Bones>No</Randomize_Between_Fire_Bones>
+		<Fire_Bone_A>MuzzleA_00</Fire_Bone_A>
+		<Fire_Bone_B>MuzzleA_01</Fire_Bone_B>
+		<Turret_Bone_Name>TURRET</Turret_Bone_Name>
+		<Barrel_Bone_Name>BARREL</Barrel_Bone_Name>
+		<Attachment_Bone>HP_T02</Attachment_Bone>
+		<Collision_Mesh>HP_T02</Collision_Mesh>
+	</HardPoint>
+	<HardPoint Name="HP_Arquitens_Turbolaser_Light_LR_Green_03">
+		<!-- PARENT: Turbolaser_Light_LR_Green
+		-->
+		<!-- COMPONENTS: 
+		Turret_Imperial_Arquitens_Quad
+		Burst_2
+		Ability_Full_Salvo_DelayMult_0.33x
+		Ability_Power_To_Weapons_DelayMult_0.33x
+		-->
+		<Type>HARD_POINT_WEAPON_LASER</Type>
+		<Is_Targetable>No</Is_Targetable>
+		<Is_Destroyable>No</Is_Destroyable>
+		<Health>1.0</Health>
+		<Tooltip_Text>TEXT_WEAPON_TURBOLASER_LIGHT_LR</Tooltip_Text>
+		<Death_Explosion_Particles>Hardpoint_Explosion_Space</Death_Explosion_Particles>
+		<Death_Explosion_SFXEvent>Unit_Hardpoint_Turbo_Laser_Death</Death_Explosion_SFXEvent>
+		<Allow_Opportunity_Fire_When_Targeting>True</Allow_Opportunity_Fire_When_Targeting>
+		<Allow_Opportunity_Fire_When_Idle>True</Allow_Opportunity_Fire_When_Idle>
+
+		<!-- FIRE SETTINGS:
+		-->
+		<Fire_Projectile_Type>Proj_Space_TL_Light_LR_Green</Fire_Projectile_Type>
+		<Fire_SFXEvent>Empire_Light_Siege_Gun_Fire</Fire_SFXEvent>
+
+		<Fire_Min_Recharge_Seconds>9.5</Fire_Min_Recharge_Seconds>
+		<Fire_Max_Recharge_Seconds>10.0</Fire_Max_Recharge_Seconds>
+
+		<Fire_Pulse_Count>2</Fire_Pulse_Count>
+		<Fire_Pulse_Delay_Seconds>4.75</Fire_Pulse_Delay_Seconds>
+
+		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
+		<Fire_Range_Distance>4500.0</Fire_Range_Distance>
+
+		<!-- ABILITY MOD SETTINGS:
+		-->
+		<Full_Salvo_Weapon_Delay_Multiplier>0.33</Full_Salvo_Weapon_Delay_Multiplier>
+		<Fire_When_In_Power_To_Weapons_Mode>Yes</Fire_When_In_Power_To_Weapons_Mode>
+		<Power_To_Weapons_Mode_Weapon_Delay_Multiplier>0.33</Power_To_Weapons_Mode_Weapon_Delay_Multiplier>
+
+		<!-- ACCURACY SETTINGS: 
+		-->
+		<Fire_Inaccuracy_Distance> Fighter, 80.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Bomber, 80.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Transport, 70.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Gunship, 70.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Corvette, 50.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Frigate, 25.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Cruiser, 15.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Capital, 10.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> SpaceStructure, 10.0 </Fire_Inaccuracy_Distance>
+
+		<Fire_Category_Restrictions>Fighter, Bomber, Gunship</Fire_Category_Restrictions>
+
+		<!-- FIRE CONE SETTINGS: 
+		-->
+		<Fire_Cone_Width>160.0</Fire_Cone_Width>
+		<Fire_Cone_Height>160.0</Fire_Cone_Height>
+
+		<!-- TURRET TYPE: 
+		-->
+		<Is_Turret>Yes</Is_Turret>
+		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
+		<Turret_Rotation_Offset>0.0, 0.0, 0.0</Turret_Rotation_Offset>
+		<Turret_Rotate_Speed>3.0</Turret_Rotate_Speed>
+		<Projectile_Appearance_Delay_Frames>0.0</Projectile_Appearance_Delay_Frames>
+		<Turret_Rotate_Extent_Degrees>100.0</Turret_Rotate_Extent_Degrees>
+		<Turret_Elevate_Extent_Degrees>80.0</Turret_Elevate_Extent_Degrees>
+
+		<!-- HARDPOINT-SPECIFIC SETTINGS: 
+		-->
+		<Model_To_Attach>T_Quad_Medium_03.ALO</Model_To_Attach>
+		<Damage_Particles>HP_turret_FRONT_03_EMITDAMAGE</Damage_Particles>
+		<Death_Breakoff_Prop/>
+		<Randomize_Between_Fire_Bones>No</Randomize_Between_Fire_Bones>
+		<Fire_Bone_A>MuzzleA_00</Fire_Bone_A>
+		<Fire_Bone_B>MuzzleA_01</Fire_Bone_B>
+		<Turret_Bone_Name>TURRET</Turret_Bone_Name>
+		<Barrel_Bone_Name>BARREL</Barrel_Bone_Name>
+		<Attachment_Bone>HP_T03</Attachment_Bone>
+		<Collision_Mesh>HP_T03</Collision_Mesh>
+	</HardPoint>
+	<HardPoint Name="HP_Arquitens_Turbolaser_Light_LR_Green_04">
+		<!-- PARENT: Turbolaser_Light_LR_Green
+		-->
+		<!-- COMPONENTS: 
+		Turret_Imperial_Arquitens_Quad
+		Burst_2
+		Ability_Full_Salvo_DelayMult_0.33x
+		Ability_Power_To_Weapons_DelayMult_0.33x
+		-->
+		<Type>HARD_POINT_WEAPON_LASER</Type>
+		<Is_Targetable>No</Is_Targetable>
+		<Is_Destroyable>No</Is_Destroyable>
+		<Health>1.0</Health>
+		<Tooltip_Text>TEXT_WEAPON_TURBOLASER_LIGHT_LR</Tooltip_Text>
+		<Death_Explosion_Particles>Hardpoint_Explosion_Space</Death_Explosion_Particles>
+		<Death_Explosion_SFXEvent>Unit_Hardpoint_Turbo_Laser_Death</Death_Explosion_SFXEvent>
+		<Allow_Opportunity_Fire_When_Targeting>True</Allow_Opportunity_Fire_When_Targeting>
+		<Allow_Opportunity_Fire_When_Idle>True</Allow_Opportunity_Fire_When_Idle>
+
+		<!-- FIRE SETTINGS:
+		-->
+		<Fire_Projectile_Type>Proj_Space_TL_Light_LR_Green</Fire_Projectile_Type>
+		<Fire_SFXEvent>Empire_Light_Siege_Gun_Fire</Fire_SFXEvent>
+
+		<Fire_Min_Recharge_Seconds>9.5</Fire_Min_Recharge_Seconds>
+		<Fire_Max_Recharge_Seconds>10.0</Fire_Max_Recharge_Seconds>
+
+		<Fire_Pulse_Count>2</Fire_Pulse_Count>
+		<Fire_Pulse_Delay_Seconds>4.75</Fire_Pulse_Delay_Seconds>
+
+		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
+		<Fire_Range_Distance>4500.0</Fire_Range_Distance>
+
+		<!-- ABILITY MOD SETTINGS:
+		-->
+		<Full_Salvo_Weapon_Delay_Multiplier>0.33</Full_Salvo_Weapon_Delay_Multiplier>
+		<Fire_When_In_Power_To_Weapons_Mode>Yes</Fire_When_In_Power_To_Weapons_Mode>
+		<Power_To_Weapons_Mode_Weapon_Delay_Multiplier>0.33</Power_To_Weapons_Mode_Weapon_Delay_Multiplier>
+
+		<!-- ACCURACY SETTINGS: 
+		-->
+		<Fire_Inaccuracy_Distance> Fighter, 80.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Bomber, 80.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Transport, 70.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Gunship, 70.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Corvette, 50.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Frigate, 25.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Cruiser, 15.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Capital, 10.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> SpaceStructure, 10.0 </Fire_Inaccuracy_Distance>
+
+		<Fire_Category_Restrictions>Fighter, Bomber, Gunship</Fire_Category_Restrictions>
+
+		<!-- FIRE CONE SETTINGS: 
+		-->
+		<Fire_Cone_Width>160.0</Fire_Cone_Width>
+		<Fire_Cone_Height>160.0</Fire_Cone_Height>
+
+		<!-- TURRET TYPE: 
+		-->
+		<Is_Turret>Yes</Is_Turret>
+		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
+		<Turret_Rotation_Offset>0.0, 0.0, 0.0</Turret_Rotation_Offset>
+		<Turret_Rotate_Speed>3.0</Turret_Rotate_Speed>
+		<Projectile_Appearance_Delay_Frames>0.0</Projectile_Appearance_Delay_Frames>
+		<Turret_Rotate_Extent_Degrees>100.0</Turret_Rotate_Extent_Degrees>
+		<Turret_Elevate_Extent_Degrees>80.0</Turret_Elevate_Extent_Degrees>
+
+		<!-- HARDPOINT-SPECIFIC SETTINGS: 
+		-->
+		<Model_To_Attach>T_Quad_Medium_04.ALO</Model_To_Attach>
+		<Damage_Particles>HP_turret_FRONT_04_EMITDAMAGE</Damage_Particles>
+		<Death_Breakoff_Prop/>
+		<Randomize_Between_Fire_Bones>No</Randomize_Between_Fire_Bones>
+		<Fire_Bone_A>MuzzleA_00</Fire_Bone_A>
+		<Fire_Bone_B>MuzzleA_01</Fire_Bone_B>
+		<Turret_Bone_Name>TURRET</Turret_Bone_Name>
+		<Barrel_Bone_Name>BARREL</Barrel_Bone_Name>
+		<Attachment_Bone>HP_T04</Attachment_Bone>
+		<Collision_Mesh>HP_T04</Collision_Mesh>
+	</HardPoint>
+
+	<!-- Arquitens, LaserCannon_Medium_Green
+	-->
+	
+	<HardPoint Name="HP_Arquitens_LaserCannon_Medium_Green_01">
+		<!-- PARENT: LaserCannon_Medium_Green
+		-->
+		<!-- COMPONENTS: 
+		Turret_Imperial_Arquitens_Dual
+		Burst_2
+		-->
+		<Type>HARD_POINT_WEAPON_MASS_DRIVER</Type>
+		<Is_Targetable>No</Is_Targetable>
+		<Is_Destroyable>No</Is_Destroyable>
+		<Health>1.0</Health>
+		<Tooltip_Text>TEXT_WEAPON_LASER_CANNON_ANTIFIGHTER</Tooltip_Text>
+		<Death_Explosion_Particles>Hardpoint_Explosion_Space</Death_Explosion_Particles>
+		<Death_Explosion_SFXEvent>Unit_Hardpoint_Laser_Death</Death_Explosion_SFXEvent>
+		<Allow_Opportunity_Fire_When_Targeting>True</Allow_Opportunity_Fire_When_Targeting>
+		<Allow_Opportunity_Fire_When_Idle>True</Allow_Opportunity_Fire_When_Idle>
+
+		<!-- FIRE SETTINGS:
+		-->
+		<Fire_Projectile_Type>Proj_Space_LC_Green</Fire_Projectile_Type>
+		<Fire_SFXEvent>Empire_Laser_Cannon_Fire</Fire_SFXEvent>
+
+		<Fire_Min_Recharge_Seconds>1.0</Fire_Min_Recharge_Seconds>
+		<Fire_Max_Recharge_Seconds>1.5</Fire_Max_Recharge_Seconds>
+
+		<Fire_Pulse_Count>2</Fire_Pulse_Count>
+		<Fire_Pulse_Delay_Seconds>0.5</Fire_Pulse_Delay_Seconds>
+
+		<Fire_Min_Range_Distance>150</Fire_Min_Range_Distance>
+		<Fire_Range_Distance>1600.0</Fire_Range_Distance>
+
+		<!-- ABILITY MOD SETTINGS:
+		-->
+		<Full_Salvo_Weapon_Delay_Multiplier>1.0</Full_Salvo_Weapon_Delay_Multiplier>
+		<Fire_When_In_Power_To_Weapons_Mode>Yes</Fire_When_In_Power_To_Weapons_Mode>
+		<Power_To_Weapons_Mode_Weapon_Delay_Multiplier>1.0</Power_To_Weapons_Mode_Weapon_Delay_Multiplier>
+
+		<!-- ACCURACY SETTINGS: 
+		-->
+		<Fire_Inaccuracy_Distance> Fighter, 5.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Bomber, 5.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Transport, 5.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Gunship, 6.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Corvette, 5.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Frigate, 7.5 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Cruiser, 10.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Capital, 10.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> SpaceStructure, 10.0 </Fire_Inaccuracy_Distance>
+
+		<Fire_Category_Restrictions></Fire_Category_Restrictions>
+
+		<!-- FIRE CONE SETTINGS: 
+		-->
+		<Fire_Cone_Width>160.0</Fire_Cone_Width>
+		<Fire_Cone_Height>160.0</Fire_Cone_Height>
+
+		<!-- TURRET TYPE: 
+		-->
+		<Is_Turret>Yes</Is_Turret>
+		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
+		<Turret_Rotation_Offset>0.0, 0.0, 0.0</Turret_Rotation_Offset>
+		<Turret_Rotate_Speed>4.0</Turret_Rotate_Speed>
+		<Projectile_Appearance_Delay_Frames>0.0</Projectile_Appearance_Delay_Frames>
+		<Turret_Rotate_Extent_Degrees>80.0</Turret_Rotate_Extent_Degrees>
+		<Turret_Elevate_Extent_Degrees>80.0</Turret_Elevate_Extent_Degrees>
+
+		<!-- HARDPOINT-SPECIFIC SETTINGS: 
+		-->
+		<Model_To_Attach>T_Dual_Medium_01.ALO</Model_To_Attach>
+		<Damage_Particles>HP_turret_FRONT_05_EMITDAMAGE</Damage_Particles>
+		<Death_Breakoff_Prop></Death_Breakoff_Prop>
+		<Randomize_Between_Fire_Bones>No</Randomize_Between_Fire_Bones>
+		<Fire_Bone_A>MuzzleA_00</Fire_Bone_A>
+		<Fire_Bone_B>MuzzleA_01</Fire_Bone_B>
+		<Turret_Bone_Name>TURRET_00</Turret_Bone_Name>
+		<Barrel_Bone_Name>BARREL_00</Barrel_Bone_Name>
+		<Attachment_Bone>HP_01</Attachment_Bone>
+		<Collision_Mesh>HP_01</Collision_Mesh>
+	</HardPoint>
+	<HardPoint Name="HP_Arquitens_LaserCannon_Medium_Green_02">
+		<!-- PARENT: LaserCannon_Medium_Green
+		-->
+		<!-- COMPONENTS: 
+		Turret_Imperial_Arquitens_Dual
+		Burst_2
+		-->
+		<Type>HARD_POINT_WEAPON_MASS_DRIVER</Type>
+		<Is_Targetable>No</Is_Targetable>
+		<Is_Destroyable>No</Is_Destroyable>
+		<Health>1.0</Health>
+		<Tooltip_Text>TEXT_WEAPON_LASER_CANNON_ANTIFIGHTER</Tooltip_Text>
+		<Death_Explosion_Particles>Hardpoint_Explosion_Space</Death_Explosion_Particles>
+		<Death_Explosion_SFXEvent>Unit_Hardpoint_Laser_Death</Death_Explosion_SFXEvent>
+		<Allow_Opportunity_Fire_When_Targeting>True</Allow_Opportunity_Fire_When_Targeting>
+		<Allow_Opportunity_Fire_When_Idle>True</Allow_Opportunity_Fire_When_Idle>
+
+		<!-- FIRE SETTINGS:
+		-->
+		<Fire_Projectile_Type>Proj_Space_LC_Green</Fire_Projectile_Type>
+		<Fire_SFXEvent>Empire_Laser_Cannon_Fire</Fire_SFXEvent>
+
+		<Fire_Min_Recharge_Seconds>1.0</Fire_Min_Recharge_Seconds>
+		<Fire_Max_Recharge_Seconds>1.5</Fire_Max_Recharge_Seconds>
+
+		<Fire_Pulse_Count>2</Fire_Pulse_Count>
+		<Fire_Pulse_Delay_Seconds>0.5</Fire_Pulse_Delay_Seconds>
+
+		<Fire_Min_Range_Distance>150</Fire_Min_Range_Distance>
+		<Fire_Range_Distance>1600.0</Fire_Range_Distance>
+
+		<!-- ABILITY MOD SETTINGS:
+		-->
+		<Full_Salvo_Weapon_Delay_Multiplier>1.0</Full_Salvo_Weapon_Delay_Multiplier>
+		<Fire_When_In_Power_To_Weapons_Mode>Yes</Fire_When_In_Power_To_Weapons_Mode>
+		<Power_To_Weapons_Mode_Weapon_Delay_Multiplier>1.0</Power_To_Weapons_Mode_Weapon_Delay_Multiplier>
+
+		<!-- ACCURACY SETTINGS: 
+		-->
+		<Fire_Inaccuracy_Distance> Fighter, 5.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Bomber, 5.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Transport, 5.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Gunship, 6.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Corvette, 5.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Frigate, 7.5 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Cruiser, 10.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Capital, 10.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> SpaceStructure, 10.0 </Fire_Inaccuracy_Distance>
+
+		<Fire_Category_Restrictions></Fire_Category_Restrictions>
+
+		<!-- FIRE CONE SETTINGS: 
+		-->
+		<Fire_Cone_Width>160.0</Fire_Cone_Width>
+		<Fire_Cone_Height>160.0</Fire_Cone_Height>
+
+		<!-- TURRET TYPE: 
+		-->
+		<Is_Turret>Yes</Is_Turret>
+		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
+		<Turret_Rotation_Offset>0.0, 0.0, 0.0</Turret_Rotation_Offset>
+		<Turret_Rotate_Speed>4.0</Turret_Rotate_Speed>
+		<Projectile_Appearance_Delay_Frames>0.0</Projectile_Appearance_Delay_Frames>
+		<Turret_Rotate_Extent_Degrees>80.0</Turret_Rotate_Extent_Degrees>
+		<Turret_Elevate_Extent_Degrees>80.0</Turret_Elevate_Extent_Degrees>
+
+		<!-- HARDPOINT-SPECIFIC SETTINGS: 
+		-->
+		<Model_To_Attach>T_Dual_Medium_02.ALO</Model_To_Attach>
+		<Damage_Particles>HP_turret_FRONT_06_EMITDAMAGE</Damage_Particles>
+		<Death_Breakoff_Prop></Death_Breakoff_Prop>
+		<Randomize_Between_Fire_Bones>No</Randomize_Between_Fire_Bones>
+		<Fire_Bone_A>MuzzleA_00</Fire_Bone_A>
+		<Fire_Bone_B>MuzzleA_01</Fire_Bone_B>
+		<Turret_Bone_Name>TURRET_00</Turret_Bone_Name>
+		<Barrel_Bone_Name>BARREL_00</Barrel_Bone_Name>
+		<Attachment_Bone>HP_02</Attachment_Bone>
+		<Collision_Mesh>HP_02</Collision_Mesh>
+	</HardPoint>
+	<HardPoint Name="HP_Arquitens_LaserCannon_Medium_Green_03">
+		<!-- PARENT: LaserCannon_Medium_Green
+		-->
+		<!-- COMPONENTS: 
+		Turret_Imperial_Arquitens_Dual
+		Burst_2
+		-->
+		<Type>HARD_POINT_WEAPON_MASS_DRIVER</Type>
+		<Is_Targetable>No</Is_Targetable>
+		<Is_Destroyable>No</Is_Destroyable>
+		<Health>1.0</Health>
+		<Tooltip_Text>TEXT_WEAPON_LASER_CANNON_ANTIFIGHTER</Tooltip_Text>
+		<Death_Explosion_Particles>Hardpoint_Explosion_Space</Death_Explosion_Particles>
+		<Death_Explosion_SFXEvent>Unit_Hardpoint_Laser_Death</Death_Explosion_SFXEvent>
+		<Allow_Opportunity_Fire_When_Targeting>True</Allow_Opportunity_Fire_When_Targeting>
+		<Allow_Opportunity_Fire_When_Idle>True</Allow_Opportunity_Fire_When_Idle>
+
+		<!-- FIRE SETTINGS:
+		-->
+		<Fire_Projectile_Type>Proj_Space_LC_Green</Fire_Projectile_Type>
+		<Fire_SFXEvent>Empire_Laser_Cannon_Fire</Fire_SFXEvent>
+
+		<Fire_Min_Recharge_Seconds>1.0</Fire_Min_Recharge_Seconds>
+		<Fire_Max_Recharge_Seconds>1.5</Fire_Max_Recharge_Seconds>
+
+		<Fire_Pulse_Count>2</Fire_Pulse_Count>
+		<Fire_Pulse_Delay_Seconds>0.5</Fire_Pulse_Delay_Seconds>
+
+		<Fire_Min_Range_Distance>150</Fire_Min_Range_Distance>
+		<Fire_Range_Distance>1600.0</Fire_Range_Distance>
+
+		<!-- ABILITY MOD SETTINGS:
+		-->
+		<Full_Salvo_Weapon_Delay_Multiplier>1.0</Full_Salvo_Weapon_Delay_Multiplier>
+		<Fire_When_In_Power_To_Weapons_Mode>Yes</Fire_When_In_Power_To_Weapons_Mode>
+		<Power_To_Weapons_Mode_Weapon_Delay_Multiplier>1.0</Power_To_Weapons_Mode_Weapon_Delay_Multiplier>
+
+		<!-- ACCURACY SETTINGS: 
+		-->
+		<Fire_Inaccuracy_Distance> Fighter, 5.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Bomber, 5.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Transport, 5.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Gunship, 6.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Corvette, 5.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Frigate, 7.5 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Cruiser, 10.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Capital, 10.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> SpaceStructure, 10.0 </Fire_Inaccuracy_Distance>
+
+		<Fire_Category_Restrictions></Fire_Category_Restrictions>
+
+		<!-- FIRE CONE SETTINGS: 
+		-->
+		<Fire_Cone_Width>160.0</Fire_Cone_Width>
+		<Fire_Cone_Height>160.0</Fire_Cone_Height>
+
+		<!-- TURRET TYPE: 
+		-->
+		<Is_Turret>Yes</Is_Turret>
+		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
+		<Turret_Rotation_Offset>0.0, 0.0, 0.0</Turret_Rotation_Offset>
+		<Turret_Rotate_Speed>4.0</Turret_Rotate_Speed>
+		<Projectile_Appearance_Delay_Frames>0.0</Projectile_Appearance_Delay_Frames>
+		<Turret_Rotate_Extent_Degrees>80.0</Turret_Rotate_Extent_Degrees>
+		<Turret_Elevate_Extent_Degrees>80.0</Turret_Elevate_Extent_Degrees>
+
+		<!-- HARDPOINT-SPECIFIC SETTINGS: 
+		-->
+		<Model_To_Attach>T_Dual_Medium_03.ALO</Model_To_Attach>
+		<Damage_Particles>HP_turret_FRONT_07_EMITDAMAGE</Damage_Particles>
+		<Death_Breakoff_Prop></Death_Breakoff_Prop>
+		<Randomize_Between_Fire_Bones>No</Randomize_Between_Fire_Bones>
+		<Fire_Bone_A>MuzzleA_00</Fire_Bone_A>
+		<Fire_Bone_B>MuzzleA_01</Fire_Bone_B>
+		<Turret_Bone_Name>TURRET_00</Turret_Bone_Name>
+		<Barrel_Bone_Name>BARREL_00</Barrel_Bone_Name>
+		<Attachment_Bone>HP_03</Attachment_Bone>
+		<Collision_Mesh>HP_03</Collision_Mesh>
+	</HardPoint>
+	<HardPoint Name="HP_Arquitens_LaserCannon_Medium_Green_04">
+		<!-- PARENT: LaserCannon_Medium_Green
+		-->
+		<!-- COMPONENTS: 
+		Turret_Imperial_Arquitens_Dual
+		Burst_2
+		-->
+		<Type>HARD_POINT_WEAPON_MASS_DRIVER</Type>
+		<Is_Targetable>No</Is_Targetable>
+		<Is_Destroyable>No</Is_Destroyable>
+		<Health>1.0</Health>
+		<Tooltip_Text>TEXT_WEAPON_LASER_CANNON_ANTIFIGHTER</Tooltip_Text>
+		<Death_Explosion_Particles>Hardpoint_Explosion_Space</Death_Explosion_Particles>
+		<Death_Explosion_SFXEvent>Unit_Hardpoint_Laser_Death</Death_Explosion_SFXEvent>
+		<Allow_Opportunity_Fire_When_Targeting>True</Allow_Opportunity_Fire_When_Targeting>
+		<Allow_Opportunity_Fire_When_Idle>True</Allow_Opportunity_Fire_When_Idle>
+
+		<!-- FIRE SETTINGS:
+		-->
+		<Fire_Projectile_Type>Proj_Space_LC_Green</Fire_Projectile_Type>
+		<Fire_SFXEvent>Empire_Laser_Cannon_Fire</Fire_SFXEvent>
+
+		<Fire_Min_Recharge_Seconds>1.0</Fire_Min_Recharge_Seconds>
+		<Fire_Max_Recharge_Seconds>1.5</Fire_Max_Recharge_Seconds>
+
+		<Fire_Pulse_Count>2</Fire_Pulse_Count>
+		<Fire_Pulse_Delay_Seconds>0.5</Fire_Pulse_Delay_Seconds>
+
+		<Fire_Min_Range_Distance>150</Fire_Min_Range_Distance>
+		<Fire_Range_Distance>1600.0</Fire_Range_Distance>
+
+		<!-- ABILITY MOD SETTINGS:
+		-->
+		<Full_Salvo_Weapon_Delay_Multiplier>1.0</Full_Salvo_Weapon_Delay_Multiplier>
+		<Fire_When_In_Power_To_Weapons_Mode>Yes</Fire_When_In_Power_To_Weapons_Mode>
+		<Power_To_Weapons_Mode_Weapon_Delay_Multiplier>1.0</Power_To_Weapons_Mode_Weapon_Delay_Multiplier>
+
+		<!-- ACCURACY SETTINGS: 
+		-->
+		<Fire_Inaccuracy_Distance> Fighter, 5.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Bomber, 5.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Transport, 5.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Gunship, 6.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Corvette, 5.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Frigate, 7.5 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Cruiser, 10.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> Capital, 10.0 </Fire_Inaccuracy_Distance>
+		<Fire_Inaccuracy_Distance> SpaceStructure, 10.0 </Fire_Inaccuracy_Distance>
+
+		<Fire_Category_Restrictions></Fire_Category_Restrictions>
+
+		<!-- FIRE CONE SETTINGS: 
+		-->
+		<Fire_Cone_Width>160.0</Fire_Cone_Width>
+		<Fire_Cone_Height>160.0</Fire_Cone_Height>
+
+		<!-- TURRET TYPE: 
+		-->
+		<Is_Turret>Yes</Is_Turret>
+		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
+		<Turret_Rotation_Offset>0.0, 0.0, 0.0</Turret_Rotation_Offset>
+		<Turret_Rotate_Speed>4.0</Turret_Rotate_Speed>
+		<Projectile_Appearance_Delay_Frames>0.0</Projectile_Appearance_Delay_Frames>
+		<Turret_Rotate_Extent_Degrees>80.0</Turret_Rotate_Extent_Degrees>
+		<Turret_Elevate_Extent_Degrees>80.0</Turret_Elevate_Extent_Degrees>
+
+		<!-- HARDPOINT-SPECIFIC SETTINGS: 
+		-->
+		<Model_To_Attach>T_Dual_Medium_04.ALO</Model_To_Attach>
+		<Damage_Particles>HP_turret_FRONT_08_EMITDAMAGE</Damage_Particles>
+		<Death_Breakoff_Prop></Death_Breakoff_Prop>
+		<Randomize_Between_Fire_Bones>No</Randomize_Between_Fire_Bones>
+		<Fire_Bone_A>MuzzleA_00</Fire_Bone_A>
+		<Fire_Bone_B>MuzzleA_01</Fire_Bone_B>
+		<Turret_Bone_Name>TURRET_00</Turret_Bone_Name>
+		<Barrel_Bone_Name>BARREL_00</Barrel_Bone_Name>
+		<Attachment_Bone>HP_04</Attachment_Bone>
+		<Collision_Mesh>HP_04</Collision_Mesh>
+	</HardPoint>
+
+</HardPoints>
+<!-- HARDPOINT LIST: Arquitens
+		HP_Arquitens_Turbolaser_Light_LR_Green_01,
+		HP_Arquitens_Turbolaser_Light_LR_Green_02,
+		HP_Arquitens_Turbolaser_Light_LR_Green_03,
+		HP_Arquitens_Turbolaser_Light_LR_Green_04,
+		HP_Arquitens_LaserCannon_Medium_Green_01,
+		HP_Arquitens_LaserCannon_Medium_Green_02,
+		HP_Arquitens_LaserCannon_Medium_Green_03,
+		HP_Arquitens_LaserCannon_Medium_Green_04
+	-->

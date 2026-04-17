@@ -1,0 +1,34 @@
+{
+  "_comment": "EaW Hardpoint Generator Ship Config",
+  "ship_name": "NewShip",
+  "output_file": "d:/_Modding/EAW/Venator_AutoHardpointGeneratorv20/Hardpoints/Hardpoints_NewShip.xml",
+  "templates": "d:/_Modding/EAW/Venator_AutoHardpointGeneratorv20/Templates",
+  "template_excludes": [],
+  "template_includes": [],
+  "components": "d:/_Modding/EAW/Venator_AutoHardpointGeneratorv20/Components",
+  "component_excludes": [],
+  "component_includes": [],
+  "turret_models": {
+    "start": 1,
+    "format": "02d"
+  },
+  "damage_particles": {
+    "start": 1,
+    "format": "02d"
+  },
+  "bone_pool": [
+    "1211"
+  ],
+  "groups": [
+    {
+      "group_comment": "{shipname}, {templatename}",
+      "template": "HP_CR90_Engines",
+      "name_prefix": "HP_{shipname}_{templatename}",
+      "start_index": 1,
+      "index_format": "02d",
+      "bones": [
+        "1211"
+      ]
+    }
+  ]
+}

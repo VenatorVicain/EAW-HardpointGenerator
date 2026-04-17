@@ -1,0 +1,522 @@
+{
+  "templates": [
+    {
+      "name": "Rocket_Cluster",
+      "parent_comment": "Rocket_Cluster",
+      "inherits_from": "Hardpoint_Weapon_Generic",
+      "fields": [
+        {
+          "tag": "Type",
+          "value": "HARD_POINT_WEAPON_MISSILE"
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_CLUSTER_ROCKET"
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Ship_Cluster_Rocket"
+        },
+        {
+          "tag": "Fire_Range_Distance",
+          "value": "1500.0"
+        },
+        {
+          "tag": "Fire_Min_Range_Distance",
+          "value": "500.0"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "30.0"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "30.0"
+        },
+        {
+          "tag": "Fire_Pulse_Count",
+          "value": "4"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "0.01"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Unit_Missile_Fire_Fighter"
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": "Fighter,40.0"
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": "Bomber,40.0"
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": "Transport,40.0"
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": "Gunship,40.0"
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": "Corvette,40.0"
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": "Frigate,40.0"
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": "Capital,40.0"
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": "SpaceStructure,40.0"
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Cruiser, 40.0 "
+        },
+        {
+          "tag": "Fire_Category_Restrictions",
+          "value": "Corvette, Frigate, Cruiser, Capital, SpaceStructure"
+        },
+        {
+          "tag": "Allow_Opportunity_Fire_When_Targeting",
+          "value": "False"
+        },
+        {
+          "tag": "Allow_Opportunity_Fire_When_Idle",
+          "value": "False"
+        }
+      ]
+    },
+    {
+      "name": "Rocket_Barrage",
+      "parent_comment": "Rocket_Barrage",
+      "inherits_from": "Hardpoint_Weapon_Generic",
+      "fields": [
+        {
+          "tag": "Type",
+          "value": "HARD_POINT_WEAPON_MISSILE"
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_BARRAGE_ROCKET"
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Ship_Barrage_Rocket"
+        },
+        {
+          "tag": "Fire_Range_Distance",
+          "value": "2000.0"
+        },
+        {
+          "tag": "Fire_Min_Range_Distance",
+          "value": "500.0"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "30.0"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "30.0"
+        },
+        {
+          "tag": "Fire_Pulse_Count",
+          "value": "6"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "2.0"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Barrage_Rocket_Launch"
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": "Fighter,40.0"
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": "Bomber,40.0"
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": "Transport,40.0"
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": "Gunship,40.0"
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": "Corvette,40.0"
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": "Frigate,40.0"
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": "Capital,40.0"
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": "SpaceStructure,40.0"
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Cruiser, 40.0 "
+        },
+        {
+          "tag": "Fire_Category_Restrictions",
+          "value": "Fighter, Bomber"
+        }
+      ]
+    },
+    {
+      "name": "Rocket_Barrage_Heavy",
+      "parent_comment": "Rocket_Barrage_Heavy",
+      "inherits_from": "Hardpoint_Weapon_Generic",
+      "fields": [
+        {
+          "tag": "Type",
+          "value": "HARD_POINT_WEAPON_MISSILE"
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_BARRAGE_ROCKET_HEAVY"
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Ship_Heavy_Barrage_Rocket"
+        },
+        {
+          "tag": "Fire_Range_Distance",
+          "value": "3000.0"
+        },
+        {
+          "tag": "Fire_Min_Range_Distance",
+          "value": "500.0"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "2.0"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "2.0"
+        },
+        {
+          "tag": "Fire_Pulse_Count",
+          "value": "1"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "1.0"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Barrage_Rocket_Launch"
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": "Fighter,40.0"
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": "Bomber,40.0"
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": "Transport,40.0"
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": "Gunship,40.0"
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": "Corvette,40.0"
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": "Frigate,40.0"
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": "Cruiser,30.0"
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": "Capital,20.0"
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": "SpaceStructure,20.0"
+        },
+        {
+          "tag": "Fire_Category_Restrictions",
+          "value": " Fighter, Bomber, Gunship "
+        }
+      ]
+    },
+    {
+      "name": "Rocket_Artillery",
+      "parent_comment": "Rocket_Artillery",
+      "inherits_from": "Hardpoint_Weapon_Generic",
+      "fields": [
+        {
+          "tag": "Type",
+          "value": " HARD_POINT_WEAPON_MISSILE "
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_ARTILLERY_ROCKET"
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Ship_Artillery_Rocket"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Capital_Missile_Launch"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "15.0"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "15.0"
+        },
+        {
+          "tag": "Fire_Pulse_Count",
+          "value": "4"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "1.5"
+        },
+        {
+          "tag": "Fire_Range_Distance",
+          "value": "2500.0"
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Fighter, 100.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Bomber, 100.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Transport, 80.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Gunship, 80.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Corvette, 70.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Frigate, 30.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Cruiser, 25.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Capital, 20.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " SpaceStructure, 20.0 "
+        },
+        {
+          "tag": "Fire_Category_Restrictions",
+          "value": " Fighter, Bomber, Gunship "
+        }
+      ]
+    },
+    {
+      "name": "Rocket_Artillery_Heavy",
+      "parent_comment": "Rocket_Artillery_Heavy",
+      "inherits_from": "Hardpoint_Weapon_Generic",
+      "fields": [
+        {
+          "tag": "Type",
+          "value": " HARD_POINT_WEAPON_MISSILE "
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_HEAVY_ROCKET"
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Ship_Heavy_Artillery_Rocket"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Capital_Missile_Launch"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "15.0"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "15.0"
+        },
+        {
+          "tag": "Fire_Pulse_Count",
+          "value": "4"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "3.0"
+        },
+        {
+          "tag": "Fire_Range_Distance",
+          "value": "5000.0"
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Fighter, 100.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Bomber, 100.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Transport, 80.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Gunship, 80.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Corvette, 70.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Frigate, 40.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Cruiser, 20.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Capital, 15.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " SpaceStructure, 15.0 "
+        },
+        {
+          "tag": "Fire_Category_Restrictions",
+          "value": " Fighter, Bomber, Gunship "
+        }
+      ]
+    },
+    {
+      "name": "Rocket_DiamondBoron",
+      "parent_comment": "Rocket_DiamondBoron",
+      "inherits_from": "Hardpoint_Weapon_Generic",
+      "fields": [
+        {
+          "tag": "Type",
+          "value": " HARD_POINT_WEAPON_MISSILE "
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_DIAMOND_BORON_ROCKET"
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Ship_Diamond_Boron_Rocket"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Capital_Missile_Launch"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "25.0"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "25.0"
+        },
+        {
+          "tag": "Fire_Pulse_Count",
+          "value": "4"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "5.0"
+        },
+        {
+          "tag": "Fire_Range_Distance",
+          "value": "5000.0"
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Fighter, 100.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Bomber, 100.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Transport, 80.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Gunship, 80.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Corvette, 80.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Frigate, 50.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Cruiser, 40.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Capital, 30.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " SpaceStructure, 15.0 "
+        },
+        {
+          "tag": "Fire_Category_Restrictions",
+          "value": " Fighter, Bomber, Gunship "
+        }
+      ]
+    }
+  ]
+}

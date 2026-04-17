@@ -1,0 +1,497 @@
+{
+  "templates": [
+    {
+      "name": "Turbolaser_Light_Base",
+      "parent_comment": "Turbolaser_Light_Base",
+      "inherits_from": "Hardpoint_Weapon_Generic_AOTR",
+      "fields": [
+        {
+          "tag": "Type",
+          "value": "HARD_POINT_WEAPON_LASER"
+        },
+        {
+          "tag": "Is_Targetable",
+          "value": "No"
+        },
+        {
+          "tag": "Is_Destroyable",
+          "value": "No"
+        },
+        {
+          "tag": "Health",
+          "value": "1.0"
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_TURBOLASER_LIGHT"
+        },
+        {
+          "tag": "Death_Explosion_Particles",
+          "value": "Hardpoint_Explosion_Space"
+        },
+        {
+          "tag": "Death_Explosion_SFXEvent",
+          "value": "Unit_Hardpoint_Turbo_Laser_Death"
+        },
+        {
+          "tag": "Allow_Opportunity_Fire_When_Targeting",
+          "value": "True"
+        },
+        {
+          "tag": "Allow_Opportunity_Fire_When_Idle",
+          "value": "True"
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_TL_Light_Green"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Empire_Light_Turbolaser_Fire"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "5.0"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "5.5"
+        },
+        {
+          "tag": "Fire_Pulse_Count",
+          "value": "1",
+          "attrs": {
+            "Editor_Ignore": "Yes"
+          }
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "2.5"
+        },
+        {
+          "tag": "Fire_Min_Range_Distance",
+          "value": "0.0"
+        },
+        {
+          "tag": "Fire_Range_Distance",
+          "value": "2500.0"
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Fighter, 80.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Bomber, 80.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Transport, 80.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Gunship, 80.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Corvette, 60.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Frigate, 30.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Cruiser, 20.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Capital, 10.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " SpaceStructure, 10.0 "
+        },
+        {
+          "tag": "Fire_Category_Restrictions",
+          "value": "Fighter, Bomber, Gunship"
+        },
+        {
+          "tag": "Is_Turret",
+          "value": "No"
+        },
+        {
+          "tag": "Turret_Rest_Angle",
+          "value": "0.0, 0.0, 0.0"
+        },
+        {
+          "tag": "Turret_Rotation_Offset",
+          "value": "0.0, 0.0, 0.0"
+        },
+        {
+          "tag": "Turret_Rotate_Speed",
+          "value": "2.0"
+        },
+        {
+          "tag": "Turret_Rotate_Extent_Degrees",
+          "value": "180.0"
+        },
+        {
+          "tag": "Turret_Elevate_Extent_Degrees",
+          "value": "60.0"
+        },
+        {
+          "tag": "Randomize_Between_Fire_Bones",
+          "value": "Yes"
+        },
+        {
+          "tag": "Fire_Bone_A",
+          "value": "{bone_a}"
+        },
+        {
+          "tag": "Fire_Bone_B",
+          "value": "{bone_b}"
+        },
+        {
+          "tag": "Turret_Bone_Name",
+          "value": "TURRET_ROTATION"
+        },
+        {
+          "tag": "Barrel_Bone_Name",
+          "value": "TURRET_ELEVATION"
+        },
+        {
+          "tag": "Attachment_Bone",
+          "value": "{bone_a}"
+        },
+        {
+          "tag": "Collision_Mesh",
+          "value": "{bone_a}"
+        }
+      ]
+    },
+    {
+      "name": "Turbolaser_Light_Base_Dual",
+      "parent_comment": "Turbolaser_Light_Base_Dual",
+      "inherits_from": "Turbolaser_Light_Base",
+      "model_base": "",
+      "damage_base": "",
+      "fields": [
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_TURBOLASER_LIGHT_DUAL"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "6.66"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "7.16"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "3.33"
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_TL_Light_Dual_Red"
+        }
+      ]
+    },
+    {
+      "name": "Turbolaser_Light_Base_Quad",
+      "parent_comment": "Turbolaser_Light_Base_Quad",
+      "inherits_from": "Turbolaser_Light_Base",
+      "model_base": "",
+      "damage_base": "",
+      "fields": [
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_TURBOLASER_LIGHT_QUAD"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "8.88"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "9.38"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "4.44"
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_TL_Light_Quad_Red"
+        }
+      ]
+    },
+    {
+      "name": "Turbolaser_Light_Green",
+      "parent_comment": "Turbolaser_Light_Green",
+      "inherits_from": "Turbolaser_Light_Base",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_TL_Light_Green"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Empire_Light_Turbolaser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "Turbolaser_Light_Green_Dual",
+      "parent_comment": "Turbolaser_Light_Green_Dual",
+      "inherits_from": "Turbolaser_Light_Base_Dual",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_TL_Light_Dual_Green"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Empire_Light_Turbolaser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "Turbolaser_Light_Green_Quad",
+      "parent_comment": "Turbolaser_Light_Green_Quad",
+      "inherits_from": "Turbolaser_Light_Base_Quad",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_TL_Light_Quad_Green"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Empire_Light_Turbolaser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "Turbolaser_Light_Red",
+      "parent_comment": "Turbolaser_Light_Red",
+      "inherits_from": "Turbolaser_Light_Base",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_TL_Light_Red"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Rebel_Light_Turbolaser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "Turbolaser_Light_Red_Dual",
+      "parent_comment": "Turbolaser_Light_Red_Dual",
+      "inherits_from": "Turbolaser_Light_Base_Dual",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_TL_Light_Dual_Red"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Rebel_Light_Turbolaser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "Turbolaser_Light_Red_Quad",
+      "parent_comment": "Turbolaser_Light_Red_Quad",
+      "inherits_from": "Turbolaser_Light_Base_Quad",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_TL_Light_Quad_Red"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Rebel_Light_Turbolaser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "Turbolaser_Light_Orange",
+      "parent_comment": "Turbolaser_Light_Orange",
+      "inherits_from": "Turbolaser_Light_Base",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_TL_Light_Orange"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Rebel_Light_Turbolaser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "Turbolaser_Light_Orange_Dual",
+      "parent_comment": "Turbolaser_Light_Orange_Dual",
+      "inherits_from": "Turbolaser_Light_Base_Dual",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_TL_Light_Dual_Orange"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Rebel_Light_Turbolaser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "Turbolaser_Light_Orange_Quad",
+      "parent_comment": "Turbolaser_Light_Orange_Quad",
+      "inherits_from": "Turbolaser_Light_Base_Quad",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_TL_Light_Quad_Orange"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Rebel_Light_Turbolaser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "Turbolaser_Light_Purple",
+      "parent_comment": "Turbolaser_Light_Purple",
+      "inherits_from": "Turbolaser_Light_Base",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_TL_Light_Purple"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Rebel_Light_Turbolaser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "Turbolaser_Light_Purple_Dual",
+      "parent_comment": "Turbolaser_Light_Purple_Dual",
+      "inherits_from": "Turbolaser_Light_Base_Dual",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_TL_Light_Dual_Purple"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Rebel_Light_Turbolaser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "Turbolaser_Light_Purple_Quad",
+      "parent_comment": "Turbolaser_Light_Purple_Quad",
+      "inherits_from": "Turbolaser_Light_Base_Quad",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_TL_Light_Quad_Purple"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Rebel_Light_Turbolaser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "Turbolaser_Light_Blue",
+      "parent_comment": "Turbolaser_Light_Blue",
+      "inherits_from": "Turbolaser_Light_Base",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_TL_Light_Blue"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Empire_Light_Turbolaser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "Turbolaser_Light_Blue_Dual",
+      "parent_comment": "Turbolaser_Light_Blue_Dual",
+      "inherits_from": "Turbolaser_Light_Base_Dual",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_TL_Light_Dual_Blue"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Empire_Light_Turbolaser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "Turbolaser_Light_Blue_Quad",
+      "parent_comment": "Turbolaser_Light_Blue_Quad",
+      "inherits_from": "Turbolaser_Light_Base_Quad",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_TL_Light_Quad_Blue"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Empire_Light_Turbolaser_Fire"
+        }
+      ]
+    },
+    {
+      "_comment": "Turret-mounted XX-9 variant. {model} is auto-incremented ship-wide.",
+      "name": "Turbolaser_Light_Green_XX9_Turret",
+      "parent_comment": "Turbolaser_Light_Green",
+      "inherits_from": "Turbolaser_Light_Green",
+      "fields": [
+        {
+          "tag": "Is_Turret",
+          "value": "Yes"
+        },
+        {
+          "tag": "Turret_Rotate_Extent_Degrees",
+          "value": "90.0"
+        },
+        {
+          "tag": "Turret_Elevate_Extent_Degrees",
+          "value": "80.0"
+        },
+        {
+          "tag": "Model_To_Attach",
+          "value": "T_Turret_XX9_TurboLaser_{model}.ALO"
+        },
+        {
+          "tag": "Fire_Bone_A",
+          "value": "Muzzle_L"
+        },
+        {
+          "tag": "Fire_Bone_B",
+          "value": "Muzzle_R"
+        },
+        {
+          "tag": "Turret_Bone_Name",
+          "value": "Turret"
+        },
+        {
+          "tag": "Barrel_Bone_Name",
+          "value": "Barrel"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "templates": [
+    {
+      "_comment": "Turret-mounted XX-9 variant. {model} is auto-incremented ship-wide.",
+      "name": "Turret_Rebel_CR90_Small",
+      "parent_comment": "Turret_Rebel_CR90_Small",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Is_Turret",
+          "value": "Yes"
+        },
+        {
+          "tag": "Randomize_Between_Fire_Bones",
+          "value": "Yes"
+        },
+        {
+          "tag": "Turret_Rotate_Speed",
+          "value": "4.0"
+        },
+        {
+          "tag": "Turret_Rotate_Extent_Degrees",
+          "value": "90.0"
+        },
+        {
+          "tag": "Turret_Elevate_Extent_Degrees",
+          "value": "80.0"
+        },
+        {
+          "tag": "Model_To_Attach",
+          "value": "t_raal_{model_idx}.ALO"
+        },
+        {
+          "tag": "Fire_Bone_A",
+          "value": "MUZZLEA_00"
+        },
+        {
+          "tag": "Fire_Bone_B",
+          "value": "MUZZLEA_00"
+        },
+        {
+          "tag": "Turret_Bone_Name",
+          "value": "TURRET_ROTATION"
+        },
+        {
+          "tag": "Barrel_Bone_Name",
+          "value": "TURRET_ELEVATION"
+        }
+      ]
+    },
+    {
+      "_comment": "Turret-mounted XX-9 variant. {model} is auto-incremented ship-wide.",
+      "name": "Turret_Rebel_CR90_Small_360",
+      "parent_comment": "Turret_Rebel_CR90_Small_360",
+      "inherits_from": "Turret_Rebel_CR90_Small",
+      "fields": [
+        {
+          "tag": "Turret_Rotate_Extent_Degrees",
+          "value": "180.0"
+        }
+      ]
+    },
+    {
+      "_comment": "Turret-mounted XX-9 variant. {model} is auto-incremented ship-wide.",
+      "name": "Turret_Rebel_CR90_Large",
+      "parent_comment": "Turret_Rebel_CR90_Large",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Is_Turret",
+          "value": "Yes"
+        },
+        {
+          "tag": "Randomize_Between_Fire_Bones",
+          "value": "Yes"
+        },
+        {
+          "tag": "Turret_Rotate_Speed",
+          "value": "4.0"
+        },
+        {
+          "tag": "Turret_Rotate_Extent_Degrees",
+          "value": "180.0"
+        },
+        {
+          "tag": "Turret_Elevate_Extent_Degrees",
+          "value": "80.0"
+        },
+        {
+          "tag": "Model_To_Attach",
+          "value": "t_mtlt_{model_idx}.ALO"
+        },
+        {
+          "tag": "Fire_Bone_A",
+          "value": "MuzzleA_00"
+        },
+        {
+          "tag": "Fire_Bone_B",
+          "value": "MuzzleA_01"
+        },
+        {
+          "tag": "Turret_Bone_Name",
+          "value": "TURRET_ROTATION"
+        },
+        {
+          "tag": "Barrel_Bone_Name",
+          "value": "TURRET_ELEVATION"
+        }
+      ]
+    }
+  ]
+}

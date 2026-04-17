@@ -1,0 +1,148 @@
+{
+  "templates": [
+    {
+      "name": "FireCategoryRestrictions_None",
+      "parent_comment": "New_Template",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_Category_Restrictions",
+          "value": "",
+          "empty_tag": true
+        }
+      ]
+    },
+    {
+      "name": "FireCategoryRestrictions_All",
+      "parent_comment": "New_Template",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_Category_Restrictions",
+          "value": "Fighter,Bomber,Gunship,Transport,Corvette,Frigate,Cruiser,Capital,SpaceStructure"
+        }
+      ]
+    },
+    {
+      "name": "FireCategoryRestrictions_SmallCraft",
+      "parent_comment": "New_Template",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_Category_Restrictions",
+          "value": "Fighter,Bomber,Gunship"
+        }
+      ]
+    },
+    {
+      "name": "FireCategoryRestrictions_NonSmallCraft",
+      "parent_comment": "New_Template",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_Category_Restrictions",
+          "value": "Transport,Corvette,Frigate,Cruiser,Capital,SpaceStructure"
+        }
+      ]
+    },
+    {
+      "name": "FireCategoryRestrictions_Fighter",
+      "parent_comment": "New_Template",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_Category_Restrictions",
+          "value": "Fighter"
+        }
+      ]
+    },
+    {
+      "name": "FireCategoryRestrictions_Bomber",
+      "parent_comment": "New_Template",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_Category_Restrictions",
+          "value": "Bomber"
+        }
+      ]
+    },
+    {
+      "name": "FireCategoryRestrictions_Gunship",
+      "parent_comment": "New_Template",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_Category_Restrictions",
+          "value": "Gunship"
+        }
+      ]
+    },
+    {
+      "name": "FireCategoryRestrictions_Transport",
+      "parent_comment": "New_Template",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_Category_Restrictions",
+          "value": "Transport"
+        }
+      ]
+    },
+    {
+      "name": "FireCategoryRestrictions_Corvette",
+      "parent_comment": "New_Template",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_Category_Restrictions",
+          "value": "Corvette"
+        }
+      ]
+    },
+    {
+      "name": "FireCategoryRestrictions_Frigate",
+      "parent_comment": "New_Template",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_Category_Restrictions",
+          "value": "Frigate"
+        }
+      ]
+    },
+    {
+      "name": "FireCategoryRestrictions_Cruiser",
+      "parent_comment": "New_Template",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_Category_Restrictions",
+          "value": "Cruiser"
+        }
+      ]
+    },
+    {
+      "name": "FireCategoryRestrictions_Capital",
+      "parent_comment": "New_Template",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_Category_Restrictions",
+          "value": "Capital"
+        }
+      ]
+    },
+    {
+      "name": "FireCategoryRestrictions_SpaceStructure",
+      "parent_comment": "New_Template",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_Category_Restrictions",
+          "value": "SpaceStructure"
+        }
+      ]
+    }
+  ]
+}

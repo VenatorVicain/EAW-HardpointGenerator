@@ -1,0 +1,213 @@
+{
+  "templates": [
+    {
+      "name": "Health_1",
+      "parent_comment": "Health_1",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Health",
+          "value": "1.0"
+        }
+      ]
+    },
+    {
+      "name": "Health_25",
+      "parent_comment": "Health_25",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Health",
+          "value": "25.0"
+        }
+      ]
+    },
+    {
+      "name": "Health_50",
+      "parent_comment": "Health_50",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Health",
+          "value": "50.0"
+        }
+      ]
+    },
+    {
+      "name": "Health_75",
+      "parent_comment": "Health_75",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Health",
+          "value": "75.0"
+        }
+      ]
+    },
+    {
+      "name": "Health_100",
+      "parent_comment": "Health_100",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Health",
+          "value": "100.0"
+        }
+      ]
+    },
+    {
+      "name": "Health_150",
+      "parent_comment": "Health_150",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Health",
+          "value": "150.0"
+        }
+      ]
+    },
+    {
+      "name": "Health_200",
+      "parent_comment": "Health_200",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Health",
+          "value": "100.0"
+        }
+      ]
+    },
+    {
+      "name": "Health_250",
+      "parent_comment": "Health_250",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Health",
+          "value": "250"
+        }
+      ]
+    },
+    {
+      "name": "Health_300",
+      "parent_comment": "Health_300",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Health",
+          "value": "300.0"
+        }
+      ]
+    },
+    {
+      "name": "Health_400",
+      "parent_comment": "Health_400",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Health",
+          "value": "400.0"
+        }
+      ]
+    },
+    {
+      "name": "Health_500",
+      "parent_comment": "Health_500",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Health",
+          "value": "500.0"
+        }
+      ]
+    },
+    {
+      "name": "Health_600",
+      "parent_comment": "Health_600",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Health",
+          "value": "600.0"
+        }
+      ]
+    },
+    {
+      "name": "Health_700",
+      "parent_comment": "Health_600",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Health",
+          "value": "600.0"
+        }
+      ]
+    },
+    {
+      "name": "Health_750",
+      "parent_comment": "Health_750",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Health",
+          "value": "750.0"
+        }
+      ]
+    },
+    {
+      "name": "Health_800",
+      "parent_comment": "Health_800",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Health",
+          "value": "800.0"
+        }
+      ]
+    },
+    {
+      "name": "Health_900",
+      "parent_comment": "Health_900",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Health",
+          "value": "900.0"
+        }
+      ]
+    },
+    {
+      "name": "Health_1000",
+      "parent_comment": "Health_1000",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Health",
+          "value": "1000.0"
+        }
+      ]
+    },
+    {
+      "name": "Health_1250",
+      "parent_comment": "Health_1250",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Health",
+          "value": "1250.0"
+        }
+      ]
+    },
+    {
+      "name": "Health_1500",
+      "parent_comment": "Health_1500",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Health",
+          "value": "1500.0"
+        }
+      ]
+    }
+  ]
+}

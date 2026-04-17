@@ -1,0 +1,1182 @@
+{
+  "templates": [
+    {
+      "name": "Torpedo_Proton_Light",
+      "parent_comment": "Torpedo_Proton_Light",
+      "inherits_from": "Hardpoint_Weapon_Generic_Fighter",
+      "fields": [
+        {
+          "tag": "Type",
+          "value": " HARD_POINT_WEAPON_TORPEDO "
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_TORPEDOES"
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Ship_Proton_Torpedo_Light"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Unit_Torpedo_Fire"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "15.0"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "15.0"
+        },
+        {
+          "tag": "Fire_Pulse_Count",
+          "value": "1"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "7.5"
+        },
+        {
+          "tag": "Fire_Range_Distance",
+          "value": "750.0"
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Fighter, 0.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Bomber, 0.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Transport, 5.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Gunship, 5.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Corvette, 10.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Frigate, 10.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Cruiser, 5.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Capital, 5.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " SpaceStructure, 5.0 "
+        },
+        {
+          "tag": "Allow_Opportunity_Fire_When_Targeting",
+          "value": "False"
+        },
+        {
+          "tag": "Allow_Opportunity_Fire_When_Idle",
+          "value": "False"
+        },
+        {
+          "tag": "Fire_Category_Restrictions",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "name": "Torpedo_Proton_Light_Dual",
+      "parent_comment": "Torpedo_Proton_Light_Dual",
+      "inherits_from": "Torpedo_Proton_Light",
+      "fields": [
+        {
+          "tag": "Variant_Of_Existing_Type",
+          "value": "Proj_Ship_Proton_Torpedo_Light"
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Ship_Proton_Torpedo_Light_Dual"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "20.0"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "20.0"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "10.0"
+        }
+      ]
+    },
+    {
+      "name": "Torpedo_Ion_Light",
+      "parent_comment": "Torpedo_Ion_Light",
+      "inherits_from": "Torpedo_Proton_Light",
+      "fields": [
+        {
+          "tag": "Variant_Of_Existing_Type",
+          "value": "Proj_Ship_Proton_Torpedo_Light"
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_TORPEDOES_ION"
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Ship_Ion_Torpedo_Light"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "30.0"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "30.0"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "15.0"
+        }
+      ]
+    },
+    {
+      "name": "Torpedo_Ion_Light_Dual",
+      "parent_comment": "Torpedo_Ion_Light_Dual",
+      "inherits_from": "Torpedo_Ion_Light",
+      "fields": [
+        {
+          "tag": "Variant_Of_Existing_Type",
+          "value": "Proj_Ship_Ion_Torpedo_Light"
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_TORPEDOES_ION_DUAL"
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Ship_Ion_Torpedo_Light_Dual"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "40.0"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "40.0"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "20.0"
+        }
+      ]
+    },
+    {
+      "name": "TorpedoLarge_Proton_Light",
+      "parent_comment": "TorpedoLarge_Proton_Light",
+      "inherits_from": "Torpedo_Proton_Light",
+      "fields": [
+        {
+          "tag": "Variant_Of_Existing_Type",
+          "value": "Proj_Ship_Proton_Torpedo_Light"
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Ship_Proton_Torpedo_Large_Light"
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_TORPEDOES_LARGE"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "5.0"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "5.0"
+        },
+        {
+          "tag": "Fire_Pulse_Count",
+          "value": "1"
+        },
+        {
+          "tag": "Fire_Range_Distance",
+          "value": "1250.0"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "2.5"
+        },
+        {
+          "tag": "Allow_Opportunity_Fire_When_Targeting",
+          "value": "True"
+        },
+        {
+          "tag": "Allow_Opportunity_Fire_When_Idle",
+          "value": "True"
+        },
+        {
+          "tag": "Fire_Cone_Width",
+          "value": "160.0"
+        },
+        {
+          "tag": "Fire_Cone_Height",
+          "value": "160.0"
+        }
+      ]
+    },
+    {
+      "name": "TorpedoLarge_Proton_Light_Dual",
+      "parent_comment": "TorpedoLarge_Proton_Light_Dual",
+      "inherits_from": "TorpedoLarge_Proton_Light",
+      "fields": [
+        {
+          "tag": "Variant_Of_Existing_Type",
+          "value": "Proj_Ship_Proton_Torpedo_Large_Light"
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Ship_Proton_Torpedo_Large_Light_Dual"
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_TORPEDOES_LARGE_DUAL"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "6.66"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "6.66"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "3.33"
+        }
+      ]
+    },
+    {
+      "name": "TorpedoLarge_Ion_Light",
+      "parent_comment": "TorpedoLarge_Ion_Light",
+      "inherits_from": "TorpedoLarge_Proton_Light",
+      "fields": [
+        {
+          "tag": "Variant_Of_Existing_Type",
+          "value": "Proj_Ship_Proton_Torpedo_Large_Light"
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_TORPEDOES_ION_LARGE"
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Ship_Ion_Torpedo_Large_Light"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "10.0"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "10.0"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "5.0"
+        }
+      ]
+    },
+    {
+      "name": "TorpedoLarge_Ion_Light_Dual",
+      "parent_comment": "TorpedoLarge_Ion_Light_Dual",
+      "inherits_from": "TorpedoLarge_Ion_Light",
+      "fields": [
+        {
+          "tag": "Variant_Of_Existing_Type",
+          "value": "Proj_Ship_Ion_Torpedo_Large_Light"
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_TORPEDOES_ION_LARGE_DUAL"
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Ship_Ion_Torpedo_Large_Light_Dual"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "13.33"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "13.33"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "6.66"
+        }
+      ]
+    },
+    {
+      "name": "Torpedo_Proton_Medium",
+      "parent_comment": "HP_TEMPLATE_TORPEDO_MEDIUM",
+      "inherits_from": "Hardpoint_Weapon_Generic_Fighter",
+      "fields": [
+        {
+          "tag": "Type",
+          "value": " HARD_POINT_WEAPON_TORPEDO "
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_TORPEDOES_MEDIUM"
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Ship_Proton_Torpedo_Medium"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Unit_Torpedo_Fire"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "20.0"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "20.0"
+        },
+        {
+          "tag": "Fire_Pulse_Count",
+          "value": "1"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "10.0"
+        },
+        {
+          "tag": "Fire_Range_Distance",
+          "value": "1000.0"
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Fighter, 60.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Bomber, 60.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Transport, 60.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Gunship, 60.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Corvette, 60.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Frigate, 15.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Cruiser, 2.5 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Capital, 2.5 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " SpaceStructure, 2.5 "
+        },
+        {
+          "tag": "Allow_Opportunity_Fire_When_Targeting",
+          "value": "False"
+        },
+        {
+          "tag": "Allow_Opportunity_Fire_When_Idle",
+          "value": "False"
+        },
+        {
+          "tag": "Fire_Category_Restrictions",
+          "value": " Fighter, Bomber, Gunship "
+        }
+      ]
+    },
+    {
+      "name": "Torpedo_Proton_Medium_Dual",
+      "parent_comment": "Torpedo_Proton_Medium_Dual",
+      "inherits_from": "Torpedo_Proton_Medium",
+      "fields": [
+        {
+          "tag": "Variant_Of_Existing_Type",
+          "value": "Proj_Ship_Proton_Torpedo_Medium"
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_TORPEDOES_MEDIUM_DUAL"
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Ship_Proton_Torpedo_Medium_Dual"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "26.66"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "26.66"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "13.33"
+        }
+      ]
+    },
+    {
+      "name": "Torpedo_Ion_Medium",
+      "parent_comment": "Torpedo_Ion_Medium",
+      "inherits_from": "Torpedo_Proton_Medium",
+      "fields": [
+        {
+          "tag": "Variant_Of_Existing_Type",
+          "value": "Proj_Ship_Proton_Torpedo_Medium"
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_TORPEDOES_ION"
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Ship_Ion_Torpedo_Medium"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "30.0"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "30.0"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "15.0"
+        }
+      ]
+    },
+    {
+      "name": "Torpedo_Ion_Medium_Dual",
+      "parent_comment": "Torpedo_Ion_Medium_Dual",
+      "inherits_from": "Torpedo_Ion_Medium",
+      "fields": [
+        {
+          "tag": "Variant_Of_Existing_Type",
+          "value": "Proj_Ship_Ion_Torpedo_Large_Medium"
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_TORPEDOES_ION_DUAL"
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Ship_Ion_Torpedo_Medium_Dual"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "40.0"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "40.0"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "20.0"
+        }
+      ]
+    },
+    {
+      "name": "TorpedoLarge_Proton_Medium",
+      "parent_comment": "TorpedoLarge_Proton_Medium",
+      "inherits_from": "Torpedo_Proton_Medium",
+      "fields": [
+        {
+          "tag": "Variant_Of_Existing_Type",
+          "value": "Proj_Ship_Proton_Torpedo_Medium"
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_TORPEDOES_MEDIUM_LARGE"
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Ship_Proton_Torpedo_Large_Medium"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "7.5"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "7.5"
+        },
+        {
+          "tag": "Fire_Pulse_Count",
+          "value": "1"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "3.75"
+        },
+        {
+          "tag": "Fire_Range_Distance",
+          "value": "1500.0"
+        },
+        {
+          "tag": "Allow_Opportunity_Fire_When_Targeting",
+          "value": "True"
+        },
+        {
+          "tag": "Allow_Opportunity_Fire_When_Idle",
+          "value": "True"
+        },
+        {
+          "tag": "Fire_Cone_Width",
+          "value": "160.0"
+        },
+        {
+          "tag": "Fire_Cone_Height",
+          "value": "160.0"
+        }
+      ]
+    },
+    {
+      "name": "TorpedoLarge_Proton_Medium_Dual",
+      "parent_comment": "TorpedoLarge_Proton_Medium_Dual",
+      "inherits_from": "TorpedoLarge_Proton_Medium",
+      "fields": [
+        {
+          "tag": "Variant_Of_Existing_Type",
+          "value": "Proj_Ship_Proton_Torpedo_Large_Medium"
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_TORPEDOES_MEDIUM_LARGE_DUAL"
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Ship_Proton_Torpedo_Large_Medium_Dual"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "10.0"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "10.0"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "5.0"
+        }
+      ]
+    },
+    {
+      "name": "TorpedoLarge_Ion_Medium",
+      "parent_comment": "TorpedoLarge_Ion_Medium",
+      "inherits_from": "TorpedoLarge_Proton_Medium",
+      "fields": [
+        {
+          "tag": "Variant_Of_Existing_Type",
+          "value": "Proj_Ship_Proton_Torpedo_Large_Medium"
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_TORPEDOES_ION_LARGE_MEDIUM"
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Ship_Ion_Torpedo_Large_Medium"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "15.0"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "15.0"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "7.5"
+        }
+      ]
+    },
+    {
+      "name": "TorpedoLarge_Ion_Medium_Dual",
+      "parent_comment": "TorpedoLarge_Ion_Medium_Dual",
+      "inherits_from": "TorpedoLarge_Ion_Medium",
+      "fields": [
+        {
+          "tag": "Variant_Of_Existing_Type",
+          "value": "Proj_Ship_Ion_Torpedo_Large_Medium"
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_TORPEDOES_ION_LARGE_MEDIUM_DUAL"
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Ship_Ion_Torpedo_Large_Medium_Dual"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "20.0"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "20.0"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "10.0"
+        }
+      ]
+    },
+    {
+      "name": "Torpedo_Proton_Heavy",
+      "parent_comment": "Torpedo_Proton_Heavy",
+      "inherits_from": "Hardpoint_Weapon_Generic_Fighter",
+      "fields": [
+        {
+          "tag": "Type",
+          "value": " HARD_POINT_WEAPON_TORPEDO "
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_TORPEDOES_HEAVY"
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Ship_Proton_Torpedo_Heavy"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Unit_Torpedo_Fire"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "25.0"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "25.0"
+        },
+        {
+          "tag": "Fire_Pulse_Count",
+          "value": "1"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "12.5"
+        },
+        {
+          "tag": "Fire_Range_Distance",
+          "value": "1250.0"
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Fighter, 90.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Bomber, 90.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Transport, 90.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Gunship, 90.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Corvette, 90.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Frigate, 25.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Cruiser, 5.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Capital, 1.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " SpaceStructure, 1.0 "
+        },
+        {
+          "tag": "Allow_Opportunity_Fire_When_Targeting",
+          "value": "False"
+        },
+        {
+          "tag": "Allow_Opportunity_Fire_When_Idle",
+          "value": "False"
+        },
+        {
+          "tag": "Fire_Category_Restrictions",
+          "value": " Fighter, Bomber, Gunship "
+        }
+      ]
+    },
+    {
+      "name": "Torpedo_Proton_Heavy_Dual",
+      "parent_comment": "Torpedo_Proton_Heavy_Dual",
+      "inherits_from": "Torpedo_Proton_Heavy",
+      "fields": [
+        {
+          "tag": "Variant_Of_Existing_Type",
+          "value": "Proj_Ship_Proton_Torpedo_Heavy"
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_TORPEDOES_HEAVY_DUAL"
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Ship_Proton_Torpedo_Heavy_Dual"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "33.33"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "33.33"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "16.66"
+        }
+      ]
+    },
+    {
+      "name": "Torpedo_Ion_Heavy",
+      "parent_comment": "Torpedo_Ion_Heavy",
+      "inherits_from": "Torpedo_Proton_Heavy",
+      "fields": [
+        {
+          "tag": "Variant_Of_Existing_Type",
+          "value": "Proj_Ship_Proton_Torpedo_Heavy"
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_TORPEDOES_ION"
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Ship_Ion_Torpedo_Heavy"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "45"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "45"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "15"
+        }
+      ]
+    },
+    {
+      "name": "Torpedo_Ion_Heavy_Dual",
+      "parent_comment": "Torpedo_Ion_Heavy_Dual",
+      "inherits_from": "Torpedo_Ion_Heavy",
+      "fields": [
+        {
+          "tag": "Variant_Of_Existing_Type",
+          "value": "Proj_Ship_Ion_Torpedo_Heavy"
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_TORPEDOES_ION_DUAL"
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Ship_Ion_Torpedo_Heavy_Dual"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "60"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "60"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "20"
+        }
+      ]
+    },
+    {
+      "name": "TorpedoLarge_Proton_Heavy",
+      "parent_comment": "Torpedo_Proton_Heavy_Large",
+      "inherits_from": "Torpedo_Proton_Heavy",
+      "fields": [
+        {
+          "tag": "Variant_Of_Existing_Type",
+          "value": "Proj_Ship_Proton_Torpedo_Heavy"
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_TORPEDOES_HEAVY_LARGE"
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Ship_Proton_Torpedo_Large_Heavy"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "10.0"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "10.0"
+        },
+        {
+          "tag": "Fire_Pulse_Count",
+          "value": "1"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "5.0"
+        },
+        {
+          "tag": "Fire_Range_Distance",
+          "value": "2000.0"
+        },
+        {
+          "tag": "Allow_Opportunity_Fire_When_Targeting",
+          "value": "True"
+        },
+        {
+          "tag": "Allow_Opportunity_Fire_When_Idle",
+          "value": "True"
+        },
+        {
+          "tag": "Fire_Cone_Width",
+          "value": "160.0"
+        },
+        {
+          "tag": "Fire_Cone_Height",
+          "value": "160.0"
+        }
+      ]
+    },
+    {
+      "name": "TorpedoLarge_Proton_Heavy_Dual",
+      "parent_comment": "HP_TEMPLATE_TORPEDO_LARGE_HEAVY_DUAL",
+      "inherits_from": "TorpedoLarge_Proton_Heavy",
+      "fields": [
+        {
+          "tag": "Variant_Of_Existing_Type",
+          "value": "Proj_Ship_Proton_Torpedo_Large_Heavy"
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_TORPEDOES_HEAVY_LARGE_DUAL"
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Ship_Proton_Torpedo_Large_Heavy_Dual"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "13.33"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "13.33"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "6.66"
+        }
+      ]
+    },
+    {
+      "name": "TorpedoLarge_Ion_Heavy",
+      "parent_comment": "TorpedoLarge_Ion_Heavy",
+      "inherits_from": "TorpedoLarge_Proton_Heavy",
+      "fields": [
+        {
+          "tag": "Variant_Of_Existing_Type",
+          "value": "Proj_Ship_Proton_Torpedo_Large_Heavy"
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_TORPEDOES_ION_LARGE_HEAVY"
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Ship_Ion_Torpedo_Large_Heavy"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "20.0"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "20.0"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "10.0"
+        }
+      ]
+    },
+    {
+      "name": "TorpedoLarge_Ion_Heavy_Dual",
+      "parent_comment": "TorpedoLarge_Ion_Heavy_Dual",
+      "inherits_from": "TorpedoLarge_Ion_Heavy",
+      "fields": [
+        {
+          "tag": "Variant_Of_Existing_Type",
+          "value": "Proj_Ship_Ion_Torpedo_Large_Heavy"
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_TORPEDOES_ION_LARGE_HEAVY_DUAL"
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Ship_Ion_Torpedo_Large_Heavy_Dual"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "26.66"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "26.66"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "13.33"
+        }
+      ]
+    },
+    {
+      "name": "Torpedo_Proton_Bomb",
+      "parent_comment": "Torpedo_Proton_Bomb",
+      "inherits_from": "Hardpoint_Weapon_Generic_Fighter",
+      "fields": [
+        {
+          "tag": "Type",
+          "value": " HARD_POINT_WEAPON_TORPEDO "
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_PROTON_BOMB"
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Ship_Proton_Bomb"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Unit_Torpedo_Fire"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "60.0"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "60.0"
+        },
+        {
+          "tag": "Fire_Pulse_Count",
+          "value": "1"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "0.6"
+        },
+        {
+          "tag": "Fire_Range_Distance",
+          "value": "500.0"
+        },
+        {
+          "tag": "Fire_Min_Range_Distance",
+          "value": "200.0"
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Fighter, 120.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Bomber, 120.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Transport, 100.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Corvette, 90.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Frigate, 50.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Cruiser, 25.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Capital, 15.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " SpaceStructure, 10.0 "
+        },
+        {
+          "tag": "Allow_Opportunity_Fire_When_Targeting",
+          "value": "False"
+        },
+        {
+          "tag": "Allow_Opportunity_Fire_When_Idle",
+          "value": "True"
+        },
+        {
+          "tag": "Fire_Category_Restrictions",
+          "value": " Fighter, Bomber, Gunship "
+        }
+      ]
+    },
+    {
+      "name": "TorpedoLarge_Proton_Bomb",
+      "parent_comment": "TorpedoLarge_Proton_Bomb",
+      "inherits_from": "Torpedo_Proton_Bomb",
+      "fields": [
+        {
+          "tag": "Type",
+          "value": " HARD_POINT_WEAPON_TORPEDO "
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_PROTON_BOMB"
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Ship_Proton_Bomb_Large"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Unit_Torpedo_Fire"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "10.0"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "10.0"
+        },
+        {
+          "tag": "Fire_Pulse_Count",
+          "value": "1"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "5.0"
+        },
+        {
+          "tag": "Fire_Range_Distance",
+          "value": "1500.0"
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Fighter, 120.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Bomber, 120.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Transport, 100.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Corvette, 90.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Frigate, 45.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Cruiser, 20.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Capital, 10.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " SpaceStructure, 10.0 "
+        },
+        {
+          "tag": "Allow_Opportunity_Fire_When_Targeting",
+          "value": "True"
+        },
+        {
+          "tag": "Allow_Opportunity_Fire_When_Idle",
+          "value": "True"
+        },
+        {
+          "tag": "Fire_Category_Restrictions",
+          "value": " Fighter, Bomber, Gunship "
+        },
+        {
+          "tag": "Fire_Cone_Width",
+          "value": "160.0"
+        },
+        {
+          "tag": "Fire_Cone_Height",
+          "value": "160.0"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "templates": [
+    {
+      "name": "Burst_2",
+      "parent_comment": "Burst_2",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_Pulse_Count",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "name": "Burst_3",
+      "parent_comment": "Burst_3",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_Pulse_Count",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "name": "Burst_4",
+      "parent_comment": "Burst_4",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_Pulse_Count",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "name": "Burst_5",
+      "parent_comment": "Burst_5",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_Pulse_Count",
+          "value": "5"
+        }
+      ]
+    },
+    {
+      "name": "Burst_6",
+      "parent_comment": "Burst_6",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_Pulse_Count",
+          "value": "6"
+        }
+      ]
+    },
+    {
+      "name": "Burst_7",
+      "parent_comment": "Burst_7",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_Pulse_Count",
+          "value": "7"
+        }
+      ]
+    },
+    {
+      "name": "Burst_8",
+      "parent_comment": "Burst_8",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_Pulse_Count",
+          "value": "8"
+        }
+      ]
+    },
+    {
+      "name": "Burst_9",
+      "parent_comment": "Burst_9",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_Pulse_Count",
+          "value": "9"
+        }
+      ]
+    },
+    {
+      "name": "Burst_10",
+      "parent_comment": "Burst_10",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_Pulse_Count",
+          "value": "10"
+        }
+      ]
+    },
+    {
+      "name": "Burst_11",
+      "parent_comment": "Burst_11",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_Pulse_Count",
+          "value": "11"
+        }
+      ]
+    },
+    {
+      "name": "Burst_12",
+      "parent_comment": "Burst_12",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Fire_Pulse_Count",
+          "value": "12"
+        }
+      ]
+    }
+  ]
+}

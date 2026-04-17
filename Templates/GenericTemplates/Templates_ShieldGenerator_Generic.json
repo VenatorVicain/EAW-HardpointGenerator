@@ -1,0 +1,70 @@
+{
+  "templates": [
+    {
+      "name": "Hardpoint_ShieldGenerator_Generic",
+      "parent_comment": "Hardpoint_ShieldGenerator_Generic",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Type",
+          "value": "HARD_POINT_SHIELD_GENERATOR"
+        },
+        {
+          "tag": "Is_Targetable",
+          "value": "No"
+        },
+        {
+          "tag": "Is_Destroyable",
+          "value": "No"
+        },
+        {
+          "tag": "Health",
+          "value": "1.0"
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_SHIELD_GENERATOR_HARDPOINT"
+        },
+        {
+          "tag": "Death_Explosion_Particles",
+          "value": "Large_Explosion_Space"
+        },
+        {
+          "tag": "Death_Explosion_SFXEvent",
+          "value": "Unit_Hardpoint_Engines_Death"
+        },
+        {
+          "_type": "blank"
+        },
+        {
+          "_type": "section_comment",
+          "text": "HARDPOINT-SPECIFIC SETTINGS: "
+        },
+        {
+          "tag": "Model_To_Attach",
+          "value": ""
+        },
+        {
+          "tag": "Death_Breakoff_Prop",
+          "value": ""
+        },
+        {
+          "tag": "Attachment_Bone",
+          "value": "{bone_c}"
+        },
+        {
+          "tag": "Collision_Mesh",
+          "value": "{bone_d}"
+        },
+        {
+          "tag": "Damage_Particles",
+          "value": "{bone_e}"
+        },
+        {
+          "tag": "Damage_Decal",
+          "value": "{bone_f}"
+        }
+      ]
+    }
+  ]
+}

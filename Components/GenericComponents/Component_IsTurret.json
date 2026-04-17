@@ -1,0 +1,28 @@
+{
+  "templates": [
+    {
+      "_comment": "Enables the hardpoint's ability to be targetable and destroyable.",
+      "name": "bIsTurret_True",
+      "parent_comment": "bIsTurret_True",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Is_Turret",
+          "value": "Yes"
+        }
+      ]
+    },
+    {
+      "_comment": "Enables the hardpoint's ability to be targetable and destroyable.",
+      "name": "bIsTurret_False",
+      "parent_comment": "bIsTurret_False",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Is_Turret",
+          "value": "No"
+        }
+      ]
+    }
+  ]
+}

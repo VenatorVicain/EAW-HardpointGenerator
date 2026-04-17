@@ -1,0 +1,65 @@
+name: Build Executables
+
+on:
+  push:
+    tags: ['v*']
+  workflow_dispatch:
+
+jobs:
+  build:
+    strategy:
+      matrix:
+        include:
+          - os: windows-latest
+            artifact: HardpointGenerator-Windows
+            sep: ";"
+            icon: icon.ico
+          - os: ubuntu-latest
+            artifact: HardpointGenerator-Linux
+            sep: ":"
+            icon: icon.png
+          - os: macos-latest
+            artifact: HardpointGenerator-macOS
+            sep: ":"
+            icon: icon.icns
+
+    runs-on: ${{ matrix.os }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install tkinter (Linux only)
+        if: runner.os == 'Linux'
+        run: sudo apt-get install -y python3-tk
+
+      - name: Install PyInstaller
+        run: pip install pyinstaller
+
+      - name: Build
+        shell: bash
+        run: |
+          pyinstaller \
+            --noconfirm \
+            --clean \
+            --onefile \
+            --windowed \
+            --name HardpointGenerator \
+            --icon "${{ matrix.icon }}" \
+            --strip \
+            --add-data "hp_generator.py${{ matrix.sep }}." \
+            --add-data "alo_reader.py${{ matrix.sep }}." \
+            --add-data "hp_xml_importer.py${{ matrix.sep }}." \
+            --hidden-import hp_generator \
+            --hidden-import alo_reader \
+            --hidden-import hp_xml_importer \
+            hp_generator_GUI.py
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ matrix.artifact }}
+          path: dist/HardpointGenerator*

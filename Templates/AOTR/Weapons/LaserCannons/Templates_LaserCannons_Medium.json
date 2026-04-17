@@ -1,0 +1,378 @@
+{
+  "templates": [
+    {
+      "name": "LaserCannon_Medium_Base",
+      "parent_comment": "LaserCannon_Medium_Base",
+      "inherits_from": "Hardpoint_Weapon_Generic_AOTR",
+      "fields": [
+        {
+          "tag": "Type",
+          "value": "HARD_POINT_WEAPON_MASS_DRIVER"
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_LASER_CANNON_ANTIFIGHTER"
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_LC_Green"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "1.0"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "1.5"
+        },
+        {
+          "tag": "Fire_Pulse_Count",
+          "value": "1"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "0.5"
+        },
+        {
+          "tag": "Fire_Range_Distance",
+          "value": "1600.0"
+        },
+        {
+          "tag": "Fire_Min_Range_Distance",
+          "value": "150"
+        },
+        {
+          "tag": "Death_Explosion_SFXEvent",
+          "value": "Unit_Hardpoint_Laser_Death"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Empire_Laser_Cannon_Fire"
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Fighter, 5.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Bomber, 5.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Transport, 5.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Gunship, 6.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Corvette, 5.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Frigate, 7.5 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Cruiser, 10.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " Capital, 10.0 "
+        },
+        {
+          "tag": "Fire_Inaccuracy_Distance",
+          "value": " SpaceStructure, 10.0 "
+        }
+      ]
+    },
+    {
+      "name": "LaserCannon_Medium_Base_Dual",
+      "parent_comment": "LaserCannon_Medium_Base_Dual",
+      "inherits_from": "LaserCannon_Medium_Base",
+      "fields": [
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_LASER_CANNON_ANTIFIGHTER_DUAL"
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_LC_Dual_Green"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "1.33"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "1.83"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "0.66"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Empire_Laser_Cannon_Fire"
+        }
+      ]
+    },
+    {
+      "name": "LaserCannon_Medium_Base_Quad",
+      "parent_comment": "LaserCannon_Medium_Base_Quad",
+      "inherits_from": "LaserCannon_Medium_Base",
+      "fields": [
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_WEAPON_LASER_CANNON_ANTIFIGHTER_QUAD"
+        },
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_LC_Quad_Green"
+        },
+        {
+          "tag": "Fire_Min_Recharge_Seconds",
+          "value": "1.77"
+        },
+        {
+          "tag": "Fire_Max_Recharge_Seconds",
+          "value": "2.27"
+        },
+        {
+          "tag": "Fire_Pulse_Delay_Seconds",
+          "value": "0.885"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Empire_Laser_Cannon_Fire"
+        }
+      ]
+    },
+    {
+      "name": "LaserCannon_Medium_Green",
+      "parent_comment": "LaserCannon_Medium_Green",
+      "inherits_from": "LaserCannon_Medium_Base",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_LC_Green"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Empire_Laser_Cannon_Fire"
+        }
+      ]
+    },
+    {
+      "name": "LaserCannon_Medium_Green_Dual",
+      "parent_comment": "LaserCannon_Medium_Green_Dual",
+      "inherits_from": "LaserCannon_Medium_Base_Dual",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_LC_Dual_Green"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Empire_Laser_Cannon_Fire"
+        }
+      ]
+    },
+    {
+      "name": "LaserCannon_Medium_Green_Quad",
+      "parent_comment": "LaserCannon_Medium_Green_Quad",
+      "inherits_from": "LaserCannon_Medium_Base_Quad",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_LC_Quad_Green"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Empire_Laser_Cannon_Fire"
+        }
+      ]
+    },
+    {
+      "name": "LaserCannon_Medium_Red",
+      "parent_comment": "LaserCannon_Medium_Red",
+      "inherits_from": "LaserCannon_Medium_Base",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_LC_Red"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Rebel_Anti_Fighter_Laser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "LaserCannon_Medium_Red_Dual",
+      "parent_comment": "LaserCannon_Medium_Red_Dual",
+      "inherits_from": "LaserCannon_Medium_Base_Dual",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_LC_Dual_Red"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Rebel_Anti_Fighter_Laser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "LaserCannon_Medium_Red_Quad",
+      "parent_comment": "LaserCannon_Medium_Red_Quad",
+      "inherits_from": "LaserCannon_Medium_Base_Quad",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_LC_Quad_Red"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Rebel_Anti_Fighter_Laser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "LaserCannon_Medium_Orange",
+      "parent_comment": "LaserCannon_Medium_Orange",
+      "inherits_from": "LaserCannon_Medium_Base",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_LC_Orange"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Rebel_Anti_Fighter_Laser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "LaserCannon_Medium_Orange_Dual",
+      "parent_comment": "LaserCannon_Medium_Orange_Dual",
+      "inherits_from": "LaserCannon_Medium_Base_Dual",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_LC_Dual_Orange"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Rebel_Anti_Fighter_Laser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "LaserCannon_Medium_Orange_Quad",
+      "parent_comment": "LaserCannon_Medium_Orange_Quad",
+      "inherits_from": "LaserCannon_Medium_Base_Quad",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_LC_Quad_Orange"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Rebel_Anti_Fighter_Laser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "LaserCannon_Medium_Purple",
+      "parent_comment": "LaserCannon_Medium_Purple",
+      "inherits_from": "LaserCannon_Medium_Base",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_LC_Purple"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Rebel_Anti_Fighter_Laser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "LaserCannon_Medium_Purple_Dual",
+      "parent_comment": "LaserCannon_Medium_Purple_Dual",
+      "inherits_from": "LaserCannon_Medium_Base_Dual",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_LC_Dual_Purple"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Rebel_Anti_Fighter_Laser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "LaserCannon_Medium_Purple_Quad",
+      "parent_comment": "LaserCannon_Medium_Purple_Quad",
+      "inherits_from": "LaserCannon_Medium_Base_Quad",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_LC_Quad_Purple"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Rebel_Anti_Fighter_Laser_Fire"
+        }
+      ]
+    },
+    {
+      "name": "LaserCannon_Medium_Blue",
+      "parent_comment": "LaserCannon_Medium_Blue",
+      "inherits_from": "LaserCannon_Medium_Base",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_LC_Blue"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Empire_Laser_Cannon_Fire"
+        }
+      ]
+    },
+    {
+      "name": "LaserCannon_Medium_Blue_Dual",
+      "parent_comment": "LaserCannon_Medium_Blue_Dual",
+      "inherits_from": "LaserCannon_Medium_Base_Dual",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_LC_Dual_Blue"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Empire_Laser_Cannon_Fire"
+        }
+      ]
+    },
+    {
+      "name": "LaserCannon_Medium_Blue_Quad",
+      "parent_comment": "LaserCannon_Medium_Blue_Quad",
+      "inherits_from": "LaserCannon_Medium_Base_Quad",
+      "fields": [
+        {
+          "tag": "Fire_Projectile_Type",
+          "value": "Proj_Space_LC_Quad_Blue"
+        },
+        {
+          "tag": "Fire_SFXEvent",
+          "value": "Empire_Laser_Cannon_Fire"
+        }
+      ]
+    }
+  ]
+}

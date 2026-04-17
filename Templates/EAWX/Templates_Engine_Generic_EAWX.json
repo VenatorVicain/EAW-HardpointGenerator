@@ -1,0 +1,74 @@
+{
+  "templates": [
+    {
+      "name": "Hardpoint_Engine_Generic_EAWX",
+      "parent_comment": "Hardpoint_Engine_Generic_EAWX",
+      "inherits_from": "",
+      "fields": [
+        {
+          "tag": "Type",
+          "value": "HARD_POINT_ENGINE"
+        },
+        {
+          "tag": "Is_Targetable",
+          "value": "No"
+        },
+        {
+          "tag": "Is_Destroyable",
+          "value": "No"
+        },
+        {
+          "tag": "Health",
+          "value": "1.0"
+        },
+        {
+          "tag": "Tooltip_Text",
+          "value": "TEXT_ENGINE_HARDPOINT"
+        },
+        {
+          "tag": "Death_Explosion_Particles",
+          "value": "Large_Explosion_Space"
+        },
+        {
+          "tag": "Death_Explosion_SFXEvent",
+          "value": "Unit_Hardpoint_Engines_Death"
+        },
+        {
+          "_type": "blank"
+        },
+        {
+          "_type": "section_comment",
+          "text": "HARDPOINT-SPECIFIC SETTINGS: "
+        },
+        {
+          "tag": "Model_To_Attach",
+          "value": ""
+        },
+        {
+          "tag": "Death_Breakoff_Prop",
+          "value": ""
+        },
+        {
+          "tag": "Engine_Particles",
+          "value": "{bone_a}"
+        },
+        {
+          "tag": "Attachment_Bone",
+          "value": "{bone_c}"
+        },
+        {
+          "tag": "Collision_Mesh",
+          "value": "{bone_d}"
+        },
+        {
+          "tag": "Damage_Particles",
+          "value": "{bone_e}"
+        },
+        {
+          "tag": "Damage_Decal",
+          "value": "{bone_f}"
+        }
+      ]
+    }
+  ]
+}
