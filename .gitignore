@@ -22,6 +22,7 @@ dist/
 .vscode/
 .idea/
 
+
 # OS files
 .DS_Store
 Thumbs.db
@@ -34,3 +35,16 @@ htmlcov/
 # Temporary files
 *.tmp
 *.bak
+
+# Ignore specific Python scripts
+alo_reader.py
+hp_generator.py
+hp_generator_GUI.py
+hp_xml_importer.py
+
+# Ignore icon files
+icon.icns
+icon.ico
+icon.png
+
+.github/

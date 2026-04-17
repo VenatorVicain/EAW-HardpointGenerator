@@ -3,8 +3,11 @@
   "ship_name": "ISD1SmallTurrets",
   "output_file": "Hardpoints/Hardpoints_ISDI_SmallTurrets.xml",
   "templates": "Templates",
-  "template_excludes": [],
+  "template_excludes": [
+    "Templates/EAWX"
+  ],
   "template_includes": [],
+  "components": "Components",
   "component_excludes": [],
   "component_includes": [],
   "turret_models": {
@@ -506,7 +509,7 @@
       ],
       "components": [
         "FireCategoryRestrictions_None",
-        "SFXOverride_Empire_Turbolaser_Light"
+        "SFXOverride_Fire_Empire_Turbolaser_Light"
       ]
     },
     {
@@ -540,9 +543,8 @@
       "components": [
         "Turret_Imperial_XX9",
         "FiringArc_Width_180",
-        "SFXOverride_Empire_Turbolaser_Medium"
+        "SFXOverride_Fire_Empire_Turbolaser_Medium"
       ]
     }
-  ],
-  "components": "Components"
+  ]
 }

@@ -34,27 +34,62 @@ jobs:
 
       - name: Install tkinter (Linux only)
         if: runner.os == 'Linux'
-        run: sudo apt-get install -y python3-tk
+        run: sudo apt-get install -y python3-tk tk-dev
 
       - name: Install PyInstaller
-        run: pip install pyinstaller
+        run: pip install "pyinstaller==6.11.1"
 
-      - name: Build
+      - name: Build (Windows)
+        if: runner.os == 'Windows'
         shell: bash
         run: |
           pyinstaller \
-            --noconfirm \
-            --clean \
             --onefile \
             --windowed \
             --name HardpointGenerator \
             --icon "${{ matrix.icon }}" \
+            --add-data "icon.ico${{ matrix.sep }}." \
             --add-data "hp_generator.py${{ matrix.sep }}." \
             --add-data "alo_reader.py${{ matrix.sep }}." \
             --add-data "hp_xml_importer.py${{ matrix.sep }}." \
             --hidden-import hp_generator \
             --hidden-import alo_reader \
             --hidden-import hp_xml_importer \
+            --collect-all tkinter \
+            --exclude-module unittest \
+            --exclude-module http \
+            --exclude-module pydoc \
+            --exclude-module doctest \
+            --exclude-module xmlrpc \
+            --exclude-module ftplib \
+            --exclude-module ssl \
+            hp_generator_GUI.py
+
+      - name: Build (Linux/macOS)
+        if: runner.os != 'Windows'
+        shell: bash
+        run: |
+          pyinstaller \
+            --onefile \
+            --windowed \
+            --name HardpointGenerator \
+            --icon "${{ matrix.icon }}" \
+            --add-data "icon.png${{ matrix.sep }}." \
+            --add-data "hp_generator.py${{ matrix.sep }}." \
+            --add-data "alo_reader.py${{ matrix.sep }}." \
+            --add-data "hp_xml_importer.py${{ matrix.sep }}." \
+            --hidden-import hp_generator \
+            --hidden-import alo_reader \
+            --hidden-import hp_xml_importer \
+            --collect-all tkinter \
+            --exclude-module unittest \
+            --exclude-module http \
+            --exclude-module pydoc \
+            --exclude-module doctest \
+            --exclude-module xmlrpc \
+            --exclude-module ftplib \
+            --exclude-module ssl \
+            --strip \
             hp_generator_GUI.py
 
       - name: Upload artifact

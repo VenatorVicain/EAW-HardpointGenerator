@@ -2,8 +2,8 @@
   "_comment": "EaW Hardpoint Generator ship config",
   "ship_name": "ISDI",
   "output_file": "D:/_Modding/EAW/Venator_AutoHardpointGeneratorv20/Hardpoints/Hardpoints_ISDI.xml",
-  "templates": "d:\\_Modding\\EAW\\Venator_AutoHardpointGeneratorv20\\Templates",
-  "components": "d:\\_Modding\\EAW\\Venator_AutoHardpointGeneratorv20\\Components",
+  "templates": "d:/_Modding/EAW/Venator_AutoHardpointGeneratorv20/Templates",
+  "components": "d:/_Modding/EAW/Venator_AutoHardpointGeneratorv20/Components",
   "turret_models": {
     "start": 1,
     "format": "02d"
@@ -449,5 +449,9 @@
         }
       ]
     }
-  ]
+  ],
+  "template_excludes": [],
+  "template_includes": [],
+  "component_excludes": [],
+  "component_includes": []
 }

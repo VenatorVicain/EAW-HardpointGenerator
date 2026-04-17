@@ -30,7 +30,7 @@
 		<Fire_Min_Recharge_Seconds>5.0</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>5.5</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>2.5</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -61,7 +61,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -109,7 +109,7 @@
 		<Fire_Min_Recharge_Seconds>5.0</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>5.5</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>2.5</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -140,7 +140,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -188,7 +188,7 @@
 		<Fire_Min_Recharge_Seconds>5.0</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>5.5</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>2.5</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -219,7 +219,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -267,7 +267,7 @@
 		<Fire_Min_Recharge_Seconds>5.0</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>5.5</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>2.5</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -298,7 +298,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -346,7 +346,7 @@
 		<Fire_Min_Recharge_Seconds>5.0</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>5.5</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>2.5</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -377,7 +377,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -425,7 +425,7 @@
 		<Fire_Min_Recharge_Seconds>5.0</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>5.5</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>2.5</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -456,7 +456,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -504,7 +504,7 @@
 		<Fire_Min_Recharge_Seconds>5.0</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>5.5</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>2.5</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -535,7 +535,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -583,7 +583,7 @@
 		<Fire_Min_Recharge_Seconds>5.0</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>5.5</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>2.5</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -614,7 +614,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -662,7 +662,7 @@
 		<Fire_Min_Recharge_Seconds>5.0</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>5.5</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>2.5</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -693,7 +693,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -741,7 +741,7 @@
 		<Fire_Min_Recharge_Seconds>5.0</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>5.5</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>2.5</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -772,7 +772,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -820,7 +820,7 @@
 		<Fire_Min_Recharge_Seconds>5.0</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>5.5</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>2.5</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -851,7 +851,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -899,7 +899,7 @@
 		<Fire_Min_Recharge_Seconds>5.0</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>5.5</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>2.5</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -930,7 +930,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -978,7 +978,7 @@
 		<Fire_Min_Recharge_Seconds>5.0</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>5.5</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>2.5</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -1009,7 +1009,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -1057,7 +1057,7 @@
 		<Fire_Min_Recharge_Seconds>5.0</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>5.5</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>2.5</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -1088,7 +1088,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -1136,7 +1136,7 @@
 		<Fire_Min_Recharge_Seconds>5.0</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>5.5</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>2.5</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -1167,7 +1167,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -1215,7 +1215,7 @@
 		<Fire_Min_Recharge_Seconds>5.0</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>5.5</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>2.5</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -1246,7 +1246,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -1294,7 +1294,7 @@
 		<Fire_Min_Recharge_Seconds>5.0</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>5.5</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>2.5</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -1325,7 +1325,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -1373,7 +1373,7 @@
 		<Fire_Min_Recharge_Seconds>5.0</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>5.5</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>2.5</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -1404,7 +1404,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -1452,7 +1452,7 @@
 		<Fire_Min_Recharge_Seconds>5.0</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>5.5</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>2.5</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -1483,7 +1483,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -1531,7 +1531,7 @@
 		<Fire_Min_Recharge_Seconds>5.0</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>5.5</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>2.5</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -1562,7 +1562,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -1610,7 +1610,7 @@
 		<Fire_Min_Recharge_Seconds>5.0</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>5.5</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>2.5</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -1641,7 +1641,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -1689,7 +1689,7 @@
 		<Fire_Min_Recharge_Seconds>5.0</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>5.5</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>2.5</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -1720,7 +1720,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -1768,7 +1768,7 @@
 		<Fire_Min_Recharge_Seconds>5.0</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>5.5</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>2.5</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -1799,7 +1799,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -1847,7 +1847,7 @@
 		<Fire_Min_Recharge_Seconds>5.0</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>5.5</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>2.5</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -1878,7 +1878,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -1926,7 +1926,7 @@
 		<Fire_Min_Recharge_Seconds>5.0</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>5.5</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>2.5</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -1957,7 +1957,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -2005,7 +2005,7 @@
 		<Fire_Min_Recharge_Seconds>5.0</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>5.5</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>2.5</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -2036,7 +2036,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -2084,7 +2084,7 @@
 		<Fire_Min_Recharge_Seconds>5.0</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>5.5</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>2.5</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -2115,7 +2115,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -2163,7 +2163,7 @@
 		<Fire_Min_Recharge_Seconds>5.0</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>5.5</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>2.5</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -2194,7 +2194,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -2242,7 +2242,7 @@
 		<Fire_Min_Recharge_Seconds>5.0</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>5.5</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>2.5</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -2273,7 +2273,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -2321,7 +2321,7 @@
 		<Fire_Min_Recharge_Seconds>5.0</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>5.5</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>2.5</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -2352,7 +2352,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -2400,7 +2400,7 @@
 		<Fire_Min_Recharge_Seconds>5.0</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>5.5</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>2.5</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -2431,7 +2431,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -2479,7 +2479,7 @@
 		<Fire_Min_Recharge_Seconds>5.0</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>5.5</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>2.5</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -2510,7 +2510,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -2558,7 +2558,7 @@
 		<Fire_Min_Recharge_Seconds>5.0</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>5.5</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>2.5</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -2589,7 +2589,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -2637,7 +2637,7 @@
 		<Fire_Min_Recharge_Seconds>5.0</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>5.5</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>2.5</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -2668,7 +2668,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -2716,7 +2716,7 @@
 		<Fire_Min_Recharge_Seconds>5.0</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>5.5</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>2.5</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -2747,7 +2747,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -2795,7 +2795,7 @@
 		<Fire_Min_Recharge_Seconds>5.0</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>5.5</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>2.5</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -2826,7 +2826,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -2874,7 +2874,7 @@
 		<Fire_Min_Recharge_Seconds>5.0</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>5.5</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>2.5</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -2905,7 +2905,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -2953,7 +2953,7 @@
 		<Fire_Min_Recharge_Seconds>5.0</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>5.5</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>2.5</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -2984,7 +2984,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -3032,7 +3032,7 @@
 		<Fire_Min_Recharge_Seconds>5.0</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>5.5</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>2.5</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -3063,7 +3063,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -3111,7 +3111,7 @@
 		<Fire_Min_Recharge_Seconds>5.0</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>5.5</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>2.5</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -3142,7 +3142,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -3195,7 +3195,7 @@
 		<Fire_Min_Recharge_Seconds>6.5</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>7.0</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>3.25</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -3226,7 +3226,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -3275,7 +3275,7 @@
 		<Fire_Min_Recharge_Seconds>6.5</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>7.0</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>3.25</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -3306,7 +3306,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -3355,7 +3355,7 @@
 		<Fire_Min_Recharge_Seconds>6.5</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>7.0</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>3.25</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -3386,7 +3386,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -3435,7 +3435,7 @@
 		<Fire_Min_Recharge_Seconds>6.5</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>7.0</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>3.25</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -3466,7 +3466,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -3515,7 +3515,7 @@
 		<Fire_Min_Recharge_Seconds>6.5</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>7.0</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>3.25</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -3546,7 +3546,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -3595,7 +3595,7 @@
 		<Fire_Min_Recharge_Seconds>6.5</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>7.0</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>3.25</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -3626,7 +3626,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -3675,7 +3675,7 @@
 		<Fire_Min_Recharge_Seconds>6.5</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>7.0</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>3.25</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -3706,7 +3706,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -3755,7 +3755,7 @@
 		<Fire_Min_Recharge_Seconds>6.5</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>7.0</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>3.25</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -3786,7 +3786,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -3835,7 +3835,7 @@
 		<Fire_Min_Recharge_Seconds>6.5</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>7.0</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>3.25</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -3866,7 +3866,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -3915,7 +3915,7 @@
 		<Fire_Min_Recharge_Seconds>6.5</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>7.0</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>3.25</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -3946,7 +3946,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -3995,7 +3995,7 @@
 		<Fire_Min_Recharge_Seconds>6.5</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>7.0</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>3.25</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -4026,7 +4026,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -4075,7 +4075,7 @@
 		<Fire_Min_Recharge_Seconds>6.5</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>7.0</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>3.25</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -4106,7 +4106,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -4155,7 +4155,7 @@
 		<Fire_Min_Recharge_Seconds>6.5</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>7.0</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>3.25</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -4186,7 +4186,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -4235,7 +4235,7 @@
 		<Fire_Min_Recharge_Seconds>6.5</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>7.0</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>3.25</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -4266,7 +4266,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -4315,7 +4315,7 @@
 		<Fire_Min_Recharge_Seconds>6.5</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>7.0</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>3.25</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -4346,7 +4346,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -4395,7 +4395,7 @@
 		<Fire_Min_Recharge_Seconds>6.5</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>7.0</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>3.25</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -4426,7 +4426,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -4475,7 +4475,7 @@
 		<Fire_Min_Recharge_Seconds>6.5</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>7.0</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>3.25</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -4506,7 +4506,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -4555,7 +4555,7 @@
 		<Fire_Min_Recharge_Seconds>6.5</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>7.0</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>3.25</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -4586,7 +4586,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -4635,7 +4635,7 @@
 		<Fire_Min_Recharge_Seconds>6.5</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>7.0</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>3.25</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -4666,7 +4666,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -4715,7 +4715,7 @@
 		<Fire_Min_Recharge_Seconds>6.5</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>7.0</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>3.25</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -4746,7 +4746,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -4799,7 +4799,7 @@
 		<Fire_Min_Recharge_Seconds>6.5</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>7.0</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>3.25</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -4830,7 +4830,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -4879,7 +4879,7 @@
 		<Fire_Min_Recharge_Seconds>6.5</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>7.0</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>3.25</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -4910,7 +4910,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -4959,7 +4959,7 @@
 		<Fire_Min_Recharge_Seconds>6.5</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>7.0</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>3.25</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -4990,7 +4990,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -5039,7 +5039,7 @@
 		<Fire_Min_Recharge_Seconds>6.5</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>7.0</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>3.25</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -5070,7 +5070,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -5119,7 +5119,7 @@
 		<Fire_Min_Recharge_Seconds>6.5</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>7.0</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>3.25</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -5150,7 +5150,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -5199,7 +5199,7 @@
 		<Fire_Min_Recharge_Seconds>6.5</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>7.0</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>3.25</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -5230,7 +5230,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -5279,7 +5279,7 @@
 		<Fire_Min_Recharge_Seconds>6.5</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>7.0</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>3.25</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -5310,7 +5310,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -5359,7 +5359,7 @@
 		<Fire_Min_Recharge_Seconds>6.5</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>7.0</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>3.25</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -5390,7 +5390,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -5439,7 +5439,7 @@
 		<Fire_Min_Recharge_Seconds>6.5</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>7.0</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>3.25</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -5470,7 +5470,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -5519,7 +5519,7 @@
 		<Fire_Min_Recharge_Seconds>6.5</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>7.0</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>3.25</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -5550,7 +5550,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -5599,7 +5599,7 @@
 		<Fire_Min_Recharge_Seconds>6.5</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>7.0</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>3.25</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -5630,7 +5630,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -5679,7 +5679,7 @@
 		<Fire_Min_Recharge_Seconds>6.5</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>7.0</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>3.25</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -5710,7 +5710,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -5759,7 +5759,7 @@
 		<Fire_Min_Recharge_Seconds>6.5</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>7.0</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>3.25</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -5790,7 +5790,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -5839,7 +5839,7 @@
 		<Fire_Min_Recharge_Seconds>6.5</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>7.0</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>3.25</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -5870,7 +5870,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -5919,7 +5919,7 @@
 		<Fire_Min_Recharge_Seconds>6.5</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>7.0</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>3.25</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -5950,7 +5950,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -5999,7 +5999,7 @@
 		<Fire_Min_Recharge_Seconds>6.5</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>7.0</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>3.25</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -6030,7 +6030,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -6079,7 +6079,7 @@
 		<Fire_Min_Recharge_Seconds>6.5</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>7.0</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>3.25</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -6110,7 +6110,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -6159,7 +6159,7 @@
 		<Fire_Min_Recharge_Seconds>6.5</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>7.0</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>3.25</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -6190,7 +6190,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -6239,7 +6239,7 @@
 		<Fire_Min_Recharge_Seconds>6.5</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>7.0</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>3.25</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -6270,7 +6270,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -6319,7 +6319,7 @@
 		<Fire_Min_Recharge_Seconds>6.5</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>7.0</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>3.25</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -6350,7 +6350,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -6399,7 +6399,7 @@
 		<Fire_Min_Recharge_Seconds>6.5</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>7.0</Fire_Max_Recharge_Seconds>
 
-		<Fire_Pulse_Count Editor_Ignore="Yes">1</Fire_Pulse_Count>
+		<Fire_Pulse_Count>1</Fire_Pulse_Count>
 		<Fire_Pulse_Delay_Seconds>3.25</Fire_Pulse_Delay_Seconds>
 
 		<Fire_Min_Range_Distance>0.0</Fire_Min_Range_Distance>
@@ -6430,7 +6430,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -6463,7 +6463,7 @@
 		-->
 		<!-- COMPONENTS: 
 		FireCategoryRestrictions_None
-		SFXOverride_Empire_Turbolaser_Light
+		SFXOverride_Fire_Empire_Turbolaser_Light
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -6514,7 +6514,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -6543,7 +6543,7 @@
 		-->
 		<!-- COMPONENTS: 
 		FireCategoryRestrictions_None
-		SFXOverride_Empire_Turbolaser_Light
+		SFXOverride_Fire_Empire_Turbolaser_Light
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -6594,7 +6594,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -6623,7 +6623,7 @@
 		-->
 		<!-- COMPONENTS: 
 		FireCategoryRestrictions_None
-		SFXOverride_Empire_Turbolaser_Light
+		SFXOverride_Fire_Empire_Turbolaser_Light
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -6674,7 +6674,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -6703,7 +6703,7 @@
 		-->
 		<!-- COMPONENTS: 
 		FireCategoryRestrictions_None
-		SFXOverride_Empire_Turbolaser_Light
+		SFXOverride_Fire_Empire_Turbolaser_Light
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -6754,7 +6754,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -6783,7 +6783,7 @@
 		-->
 		<!-- COMPONENTS: 
 		FireCategoryRestrictions_None
-		SFXOverride_Empire_Turbolaser_Light
+		SFXOverride_Fire_Empire_Turbolaser_Light
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -6834,7 +6834,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -6863,7 +6863,7 @@
 		-->
 		<!-- COMPONENTS: 
 		FireCategoryRestrictions_None
-		SFXOverride_Empire_Turbolaser_Light
+		SFXOverride_Fire_Empire_Turbolaser_Light
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -6914,7 +6914,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -6943,7 +6943,7 @@
 		-->
 		<!-- COMPONENTS: 
 		FireCategoryRestrictions_None
-		SFXOverride_Empire_Turbolaser_Light
+		SFXOverride_Fire_Empire_Turbolaser_Light
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -6994,7 +6994,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -7023,7 +7023,7 @@
 		-->
 		<!-- COMPONENTS: 
 		FireCategoryRestrictions_None
-		SFXOverride_Empire_Turbolaser_Light
+		SFXOverride_Fire_Empire_Turbolaser_Light
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -7074,7 +7074,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -7103,7 +7103,7 @@
 		-->
 		<!-- COMPONENTS: 
 		FireCategoryRestrictions_None
-		SFXOverride_Empire_Turbolaser_Light
+		SFXOverride_Fire_Empire_Turbolaser_Light
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -7154,7 +7154,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -7183,7 +7183,7 @@
 		-->
 		<!-- COMPONENTS: 
 		FireCategoryRestrictions_None
-		SFXOverride_Empire_Turbolaser_Light
+		SFXOverride_Fire_Empire_Turbolaser_Light
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -7234,7 +7234,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -7263,7 +7263,7 @@
 		-->
 		<!-- COMPONENTS: 
 		FireCategoryRestrictions_None
-		SFXOverride_Empire_Turbolaser_Light
+		SFXOverride_Fire_Empire_Turbolaser_Light
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -7314,7 +7314,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -7343,7 +7343,7 @@
 		-->
 		<!-- COMPONENTS: 
 		FireCategoryRestrictions_None
-		SFXOverride_Empire_Turbolaser_Light
+		SFXOverride_Fire_Empire_Turbolaser_Light
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -7394,7 +7394,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -7423,7 +7423,7 @@
 		-->
 		<!-- COMPONENTS: 
 		FireCategoryRestrictions_None
-		SFXOverride_Empire_Turbolaser_Light
+		SFXOverride_Fire_Empire_Turbolaser_Light
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -7474,7 +7474,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -7503,7 +7503,7 @@
 		-->
 		<!-- COMPONENTS: 
 		FireCategoryRestrictions_None
-		SFXOverride_Empire_Turbolaser_Light
+		SFXOverride_Fire_Empire_Turbolaser_Light
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -7554,7 +7554,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -7583,7 +7583,7 @@
 		-->
 		<!-- COMPONENTS: 
 		FireCategoryRestrictions_None
-		SFXOverride_Empire_Turbolaser_Light
+		SFXOverride_Fire_Empire_Turbolaser_Light
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -7634,7 +7634,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -7663,7 +7663,7 @@
 		-->
 		<!-- COMPONENTS: 
 		FireCategoryRestrictions_None
-		SFXOverride_Empire_Turbolaser_Light
+		SFXOverride_Fire_Empire_Turbolaser_Light
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -7714,7 +7714,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -7743,7 +7743,7 @@
 		-->
 		<!-- COMPONENTS: 
 		FireCategoryRestrictions_None
-		SFXOverride_Empire_Turbolaser_Light
+		SFXOverride_Fire_Empire_Turbolaser_Light
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -7794,7 +7794,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -7823,7 +7823,7 @@
 		-->
 		<!-- COMPONENTS: 
 		FireCategoryRestrictions_None
-		SFXOverride_Empire_Turbolaser_Light
+		SFXOverride_Fire_Empire_Turbolaser_Light
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -7874,7 +7874,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -7903,7 +7903,7 @@
 		-->
 		<!-- COMPONENTS: 
 		FireCategoryRestrictions_None
-		SFXOverride_Empire_Turbolaser_Light
+		SFXOverride_Fire_Empire_Turbolaser_Light
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -7954,7 +7954,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -7983,7 +7983,7 @@
 		-->
 		<!-- COMPONENTS: 
 		FireCategoryRestrictions_None
-		SFXOverride_Empire_Turbolaser_Light
+		SFXOverride_Fire_Empire_Turbolaser_Light
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -8034,7 +8034,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -8063,7 +8063,7 @@
 		-->
 		<!-- COMPONENTS: 
 		FireCategoryRestrictions_None
-		SFXOverride_Empire_Turbolaser_Light
+		SFXOverride_Fire_Empire_Turbolaser_Light
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -8114,7 +8114,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -8143,7 +8143,7 @@
 		-->
 		<!-- COMPONENTS: 
 		FireCategoryRestrictions_None
-		SFXOverride_Empire_Turbolaser_Light
+		SFXOverride_Fire_Empire_Turbolaser_Light
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -8194,7 +8194,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -8223,7 +8223,7 @@
 		-->
 		<!-- COMPONENTS: 
 		FireCategoryRestrictions_None
-		SFXOverride_Empire_Turbolaser_Light
+		SFXOverride_Fire_Empire_Turbolaser_Light
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -8274,7 +8274,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -8303,7 +8303,7 @@
 		-->
 		<!-- COMPONENTS: 
 		FireCategoryRestrictions_None
-		SFXOverride_Empire_Turbolaser_Light
+		SFXOverride_Fire_Empire_Turbolaser_Light
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -8354,7 +8354,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -8383,7 +8383,7 @@
 		-->
 		<!-- COMPONENTS: 
 		FireCategoryRestrictions_None
-		SFXOverride_Empire_Turbolaser_Light
+		SFXOverride_Fire_Empire_Turbolaser_Light
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -8434,7 +8434,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -8463,7 +8463,7 @@
 		-->
 		<!-- COMPONENTS: 
 		FireCategoryRestrictions_None
-		SFXOverride_Empire_Turbolaser_Light
+		SFXOverride_Fire_Empire_Turbolaser_Light
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -8514,7 +8514,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -8543,7 +8543,7 @@
 		-->
 		<!-- COMPONENTS: 
 		FireCategoryRestrictions_None
-		SFXOverride_Empire_Turbolaser_Light
+		SFXOverride_Fire_Empire_Turbolaser_Light
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -8594,7 +8594,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -8623,7 +8623,7 @@
 		-->
 		<!-- COMPONENTS: 
 		FireCategoryRestrictions_None
-		SFXOverride_Empire_Turbolaser_Light
+		SFXOverride_Fire_Empire_Turbolaser_Light
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -8674,7 +8674,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -8703,7 +8703,7 @@
 		-->
 		<!-- COMPONENTS: 
 		FireCategoryRestrictions_None
-		SFXOverride_Empire_Turbolaser_Light
+		SFXOverride_Fire_Empire_Turbolaser_Light
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -8754,7 +8754,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -8783,7 +8783,7 @@
 		-->
 		<!-- COMPONENTS: 
 		FireCategoryRestrictions_None
-		SFXOverride_Empire_Turbolaser_Light
+		SFXOverride_Fire_Empire_Turbolaser_Light
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -8834,7 +8834,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -8863,7 +8863,7 @@
 		-->
 		<!-- COMPONENTS: 
 		FireCategoryRestrictions_None
-		SFXOverride_Empire_Turbolaser_Light
+		SFXOverride_Fire_Empire_Turbolaser_Light
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -8914,7 +8914,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -8943,7 +8943,7 @@
 		-->
 		<!-- COMPONENTS: 
 		FireCategoryRestrictions_None
-		SFXOverride_Empire_Turbolaser_Light
+		SFXOverride_Fire_Empire_Turbolaser_Light
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -8994,7 +8994,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -9023,7 +9023,7 @@
 		-->
 		<!-- COMPONENTS: 
 		FireCategoryRestrictions_None
-		SFXOverride_Empire_Turbolaser_Light
+		SFXOverride_Fire_Empire_Turbolaser_Light
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -9074,7 +9074,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -9103,7 +9103,7 @@
 		-->
 		<!-- COMPONENTS: 
 		FireCategoryRestrictions_None
-		SFXOverride_Empire_Turbolaser_Light
+		SFXOverride_Fire_Empire_Turbolaser_Light
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -9154,7 +9154,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -9183,7 +9183,7 @@
 		-->
 		<!-- COMPONENTS: 
 		FireCategoryRestrictions_None
-		SFXOverride_Empire_Turbolaser_Light
+		SFXOverride_Fire_Empire_Turbolaser_Light
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -9234,7 +9234,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -9263,7 +9263,7 @@
 		-->
 		<!-- COMPONENTS: 
 		FireCategoryRestrictions_None
-		SFXOverride_Empire_Turbolaser_Light
+		SFXOverride_Fire_Empire_Turbolaser_Light
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -9314,7 +9314,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -9343,7 +9343,7 @@
 		-->
 		<!-- COMPONENTS: 
 		FireCategoryRestrictions_None
-		SFXOverride_Empire_Turbolaser_Light
+		SFXOverride_Fire_Empire_Turbolaser_Light
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -9394,7 +9394,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -9423,7 +9423,7 @@
 		-->
 		<!-- COMPONENTS: 
 		FireCategoryRestrictions_None
-		SFXOverride_Empire_Turbolaser_Light
+		SFXOverride_Fire_Empire_Turbolaser_Light
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -9474,7 +9474,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -9503,7 +9503,7 @@
 		-->
 		<!-- COMPONENTS: 
 		FireCategoryRestrictions_None
-		SFXOverride_Empire_Turbolaser_Light
+		SFXOverride_Fire_Empire_Turbolaser_Light
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -9554,7 +9554,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -9583,7 +9583,7 @@
 		-->
 		<!-- COMPONENTS: 
 		FireCategoryRestrictions_None
-		SFXOverride_Empire_Turbolaser_Light
+		SFXOverride_Fire_Empire_Turbolaser_Light
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -9634,7 +9634,7 @@
 		<Fire_Cone_Width>160.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>No</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -9668,7 +9668,7 @@
 		<!-- COMPONENTS: 
 		Turret_Imperial_XX9
 		FiringArc_Width_180
-		SFXOverride_Empire_Turbolaser_Medium
+		SFXOverride_Fire_Empire_Turbolaser_Medium
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -9719,7 +9719,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -9749,7 +9749,7 @@
 		<!-- COMPONENTS: 
 		Turret_Imperial_XX9
 		FiringArc_Width_180
-		SFXOverride_Empire_Turbolaser_Medium
+		SFXOverride_Fire_Empire_Turbolaser_Medium
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -9800,7 +9800,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -9830,7 +9830,7 @@
 		<!-- COMPONENTS: 
 		Turret_Imperial_XX9
 		FiringArc_Width_180
-		SFXOverride_Empire_Turbolaser_Medium
+		SFXOverride_Fire_Empire_Turbolaser_Medium
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -9881,7 +9881,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -9911,7 +9911,7 @@
 		<!-- COMPONENTS: 
 		Turret_Imperial_XX9
 		FiringArc_Width_180
-		SFXOverride_Empire_Turbolaser_Medium
+		SFXOverride_Fire_Empire_Turbolaser_Medium
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -9962,7 +9962,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -9992,7 +9992,7 @@
 		<!-- COMPONENTS: 
 		Turret_Imperial_XX9
 		FiringArc_Width_180
-		SFXOverride_Empire_Turbolaser_Medium
+		SFXOverride_Fire_Empire_Turbolaser_Medium
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -10043,7 +10043,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -10073,7 +10073,7 @@
 		<!-- COMPONENTS: 
 		Turret_Imperial_XX9
 		FiringArc_Width_180
-		SFXOverride_Empire_Turbolaser_Medium
+		SFXOverride_Fire_Empire_Turbolaser_Medium
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -10124,7 +10124,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -10154,7 +10154,7 @@
 		<!-- COMPONENTS: 
 		Turret_Imperial_XX9
 		FiringArc_Width_180
-		SFXOverride_Empire_Turbolaser_Medium
+		SFXOverride_Fire_Empire_Turbolaser_Medium
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -10205,7 +10205,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -10235,7 +10235,7 @@
 		<!-- COMPONENTS: 
 		Turret_Imperial_XX9
 		FiringArc_Width_180
-		SFXOverride_Empire_Turbolaser_Medium
+		SFXOverride_Fire_Empire_Turbolaser_Medium
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -10286,7 +10286,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -10316,7 +10316,7 @@
 		<!-- COMPONENTS: 
 		Turret_Imperial_XX9
 		FiringArc_Width_180
-		SFXOverride_Empire_Turbolaser_Medium
+		SFXOverride_Fire_Empire_Turbolaser_Medium
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -10367,7 +10367,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -10397,7 +10397,7 @@
 		<!-- COMPONENTS: 
 		Turret_Imperial_XX9
 		FiringArc_Width_180
-		SFXOverride_Empire_Turbolaser_Medium
+		SFXOverride_Fire_Empire_Turbolaser_Medium
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -10448,7 +10448,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -10478,7 +10478,7 @@
 		<!-- COMPONENTS: 
 		Turret_Imperial_XX9
 		FiringArc_Width_180
-		SFXOverride_Empire_Turbolaser_Medium
+		SFXOverride_Fire_Empire_Turbolaser_Medium
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -10529,7 +10529,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -10559,7 +10559,7 @@
 		<!-- COMPONENTS: 
 		Turret_Imperial_XX9
 		FiringArc_Width_180
-		SFXOverride_Empire_Turbolaser_Medium
+		SFXOverride_Fire_Empire_Turbolaser_Medium
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -10610,7 +10610,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -10640,7 +10640,7 @@
 		<!-- COMPONENTS: 
 		Turret_Imperial_XX9
 		FiringArc_Width_180
-		SFXOverride_Empire_Turbolaser_Medium
+		SFXOverride_Fire_Empire_Turbolaser_Medium
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -10691,7 +10691,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -10721,7 +10721,7 @@
 		<!-- COMPONENTS: 
 		Turret_Imperial_XX9
 		FiringArc_Width_180
-		SFXOverride_Empire_Turbolaser_Medium
+		SFXOverride_Fire_Empire_Turbolaser_Medium
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -10772,7 +10772,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -10802,7 +10802,7 @@
 		<!-- COMPONENTS: 
 		Turret_Imperial_XX9
 		FiringArc_Width_180
-		SFXOverride_Empire_Turbolaser_Medium
+		SFXOverride_Fire_Empire_Turbolaser_Medium
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -10853,7 +10853,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -10883,7 +10883,7 @@
 		<!-- COMPONENTS: 
 		Turret_Imperial_XX9
 		FiringArc_Width_180
-		SFXOverride_Empire_Turbolaser_Medium
+		SFXOverride_Fire_Empire_Turbolaser_Medium
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -10934,7 +10934,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -10964,7 +10964,7 @@
 		<!-- COMPONENTS: 
 		Turret_Imperial_XX9
 		FiringArc_Width_180
-		SFXOverride_Empire_Turbolaser_Medium
+		SFXOverride_Fire_Empire_Turbolaser_Medium
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -11015,7 +11015,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -11045,7 +11045,7 @@
 		<!-- COMPONENTS: 
 		Turret_Imperial_XX9
 		FiringArc_Width_180
-		SFXOverride_Empire_Turbolaser_Medium
+		SFXOverride_Fire_Empire_Turbolaser_Medium
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -11096,7 +11096,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -11126,7 +11126,7 @@
 		<!-- COMPONENTS: 
 		Turret_Imperial_XX9
 		FiringArc_Width_180
-		SFXOverride_Empire_Turbolaser_Medium
+		SFXOverride_Fire_Empire_Turbolaser_Medium
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -11177,7 +11177,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
@@ -11207,7 +11207,7 @@
 		<!-- COMPONENTS: 
 		Turret_Imperial_XX9
 		FiringArc_Width_180
-		SFXOverride_Empire_Turbolaser_Medium
+		SFXOverride_Fire_Empire_Turbolaser_Medium
 		-->
 		<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
 		<Is_Targetable>No</Is_Targetable>
@@ -11258,7 +11258,7 @@
 		<Fire_Cone_Width>180.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
 
-		<!-- TURRET TYPE: 
+		<!-- TURRET SETTINGS: 
 		-->
 		<Is_Turret>Yes</Is_Turret>
 		<Turret_Rest_Angle>0.0, 0.0, 0.0</Turret_Rest_Angle>
