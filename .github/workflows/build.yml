@@ -49,7 +49,6 @@ jobs:
             --windowed \
             --name HardpointGenerator \
             --icon "${{ matrix.icon }}" \
-            --strip \
             --add-data "hp_generator.py${{ matrix.sep }}." \
             --add-data "alo_reader.py${{ matrix.sep }}." \
             --add-data "hp_xml_importer.py${{ matrix.sep }}." \
