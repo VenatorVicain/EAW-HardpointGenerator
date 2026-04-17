@@ -1,9 +1,15 @@
 {
-  "_comment": "EaW Hardpoint Generator ship config",
+  "_comment": "EaW Hardpoint Generator Ship Config",
   "ship_name": "Arquitens",
-  "output_file": "D:/_Modding/EAW/Venator_AutoHardpointGeneratorv20/Hardpoints/Hardpoints_Arquitens.xml",
-  "templates": "d:\\_Modding\\EAW\\Venator_AutoHardpointGeneratorv20\\Templates",
-  "components": "d:\\_Modding\\EAW\\Venator_AutoHardpointGeneratorv20\\Components",
+  "output_file": "Hardpoints/Hardpoints_Example_Arquitens_AOTR.xml",
+  "templates": "Templates",
+  "template_excludes": [
+    "Templates/EAWX"
+  ],
+  "template_includes": [],
+  "components": "Components",
+  "component_excludes": [],
+  "component_includes": [],
   "turret_models": {
     "start": 1,
     "format": "02d"
@@ -13,24 +19,25 @@
     "format": "02d"
   },
   "bone_pool": [
+    "Root",
     "HP_01",
     "HP_02",
     "HP_03",
     "HP_04",
     "HP_E_BONE",
-    "HP_FACING",
     "HP_S_BONE",
     "HP_T01",
     "HP_T02",
     "HP_T03",
     "HP_T04",
-    "Hull",
-    "PI_DAMAGE_ELEC_SD00",
+    "HP_FACING",
     "PPTW_PTWSA",
-    "Root"
+    "Hull",
+    "PI_DAMAGE_ELEC_SD00"
   ],
   "groups": [
     {
+      "group_comment": "{shipname}, {templatename}",
       "template": "Turbolaser_Light_LR_Green",
       "name_prefix": "HP_{shipname}_{templatename}",
       "start_index": 1,
@@ -42,14 +49,12 @@
         "HP_T04"
       ],
       "components": [
-        "Turret_Imperial_Arquitens_Quad",
         "Burst_2",
-        "Ability_Full_Salvo_DelayMult_0.33x",
-        "Ability_Power_To_Weapons_DelayMult_0.33x"
-      ],
-      "group_comment": "{shipname}, {templatename}"
+        "Turret_Imperial_Arquitens_Quad"
+      ]
     },
     {
+      "group_comment": "{shipname}, {templatename}",
       "template": "LaserCannon_Medium_Green",
       "name_prefix": "HP_{shipname}_{templatename}",
       "start_index": 1,
@@ -61,10 +66,19 @@
         "HP_04"
       ],
       "components": [
-        "Turret_Imperial_Arquitens_Dual",
-        "Burst_2"
-      ],
-      "group_comment": "{shipname}, {templatename}"
+        "Burst_2",
+        "Turret_Imperial_Arquitens_Dual"
+      ]
+    },
+    {
+      "group_comment": "{shipname}, DUMMY FACING",
+      "template": "Hardpoint_FacingDummy_AOTR",
+      "name_prefix": "HP_{shipname}_DUMMY_FACING",
+      "start_index": 1,
+      "index_format": "02d",
+      "bones": [
+        "HP_FACING"
+      ]
     }
   ]
 }

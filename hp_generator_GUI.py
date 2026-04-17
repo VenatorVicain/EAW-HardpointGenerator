@@ -8226,7 +8226,17 @@ def main():
 
 
     root = tk.Tk()
-    root.iconbitmap(default=resource_path("icon.ico"))
+    if sys.platform.startswith("win"):
+        try:
+            root.iconbitmap(resource_path("icon.ico"))
+        except Exception as e:
+            print("Icon load failed:", e)
+    else:
+        try:
+            img = tk.PhotoImage(file=resource_path("icon.png"))
+            root.iconphoto(True, img)
+        except Exception as e:
+            print(e)
 
     app  = App(root, open_path=args.config)
     root.mainloop()

@@ -1,0 +1,123 @@
+{
+  "_comment": "EaW Hardpoint Generator Ship Config",
+  "ship_name": "CR-90",
+  "output_file": "Hardpoints/Hardpoints_Example_CR-90_AOTR.xml",
+  "templates": "Templates",
+  "template_excludes": [
+    "Templates/EAWX"
+  ],
+  "template_includes": [],
+  "components": "Components",
+  "component_excludes": [],
+  "component_includes": [],
+  "turret_models": {
+    "start": 1,
+    "format": "02d"
+  },
+  "damage_particles": {
+    "start": 1,
+    "format": "02d"
+  },
+  "bone_pool": [
+    "Root",
+    "CR_radarDetails",
+    "CR_Head",
+    "PI_DAMAGE_ELEC_SMALL00",
+    "CR_Body",
+    "CR_engines",
+    "Object13",
+    "Lights02",
+    "Object14",
+    "Shield",
+    "MTLT01",
+    "MTLT02",
+    "ENG",
+    "RAAL01",
+    "RAAL02",
+    "ENG_EMITDAMAGE",
+    "leftDamage_ALT3",
+    "TopDamage_ALT3",
+    "ENG_DAMAGE_ALT2",
+    "BottomDamage_ALT3",
+    "leftDAmage_ALT1",
+    "RAAL01_EMITDAMAGE",
+    "RIGHT_DAMAGE_0_ALT1",
+    "RIGHT_DAMAGE_0_ALT2",
+    "RIGHT_DAMAGE_0_ALT3",
+    "RAAL02_EMITDAMAGE",
+    "RIGHT_DAMAGE_1_ALT1",
+    "RIGHT_DAMAGE_1_ALT2",
+    "RIGHT_DAMAGE_1_ALT3",
+    "MTLT01_EMITDAMAGE",
+    "TOP_DAMAGE_ALT2",
+    "TOP_DAMAGE_ALT3",
+    "MTLT02_EMITDAMAGE",
+    "Bottom_DAMAGE_ALT1",
+    "Bottom_DAMAGE_ALT2",
+    "Bottom_DAMAGE_ALT3",
+    "RAAL04",
+    "RAAL03",
+    "RAAL03_EMITDAMAGE",
+    "Left_DAMAGE_0_ALT2",
+    "Left_DAMAGE_0_ALT3",
+    "RAAL04_EMITDAMAGE",
+    "Left_DAMAGE_1_ALT2",
+    "Left_DAMAGE_1_ALT3",
+    "Particle View 01",
+    "BRDG_DAMAGE_ALT3"
+  ],
+  "groups": [
+    {
+      "group_comment": "{shipname}, {templatename}",
+      "template": "LaserCannon_Heavy_Red_Dual",
+      "name_prefix": "HP_{shipname}_{templatename}",
+      "start_index": 1,
+      "index_format": "02d",
+      "bones": [
+        "MTLT01",
+        "MTLT02"
+      ],
+      "components": [
+        "Turret_Rebel_CR90_Large",
+        "FiringArc_Width_360"
+      ]
+    },
+    {
+      "group_comment": "{shipname}, {templatename}",
+      "template": "LaserCannon_Medium_Red",
+      "name_prefix": "HP_{shipname}_{templatename}",
+      "start_index": 1,
+      "index_format": "02d",
+      "bones": [
+        "RAAL01",
+        "RAAL02",
+        "RAAL03",
+        "RAAL04"
+      ],
+      "components": [
+        "Turret_Rebel_CR90_Small",
+        "FiringArc_Width_180"
+      ]
+    },
+    {
+      "group_comment": "{shipname}, Engines",
+      "template": "Hardpoint_Engine_Generic_AOTR",
+      "name_prefix": "HP_{shipname}_Engines",
+      "start_index": 1,
+      "index_format": "02d",
+      "bones": [
+        "ENG"
+      ]
+    },
+    {
+      "group_comment": "{shipname}, DUMMY FACING",
+      "template": "Hardpoint_FacingDummy_AOTR",
+      "name_prefix": "HP_{shipname}_DUMMY_FACING",
+      "start_index": 1,
+      "index_format": "02d",
+      "bones": [
+        "RAAL01"
+      ]
+    }
+  ]
+}
